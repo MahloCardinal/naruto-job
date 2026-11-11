@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "01",
+    "name": "Furia e ritiri",
+    "author": null,
+    "description": "Avvia presto la crescita di Naruto Uzumaki (Volontà di Proteggere): ogni suo ritiro aumenta permanentemente il Chakra base di 2. Prima di una sequenza di ritiri, mantieni attivo Naruto Uzumaki (La Furia di Kyubi), che ne ricava Chakra e Scatto. Usa Kiba Inuzuka (Migliore Amico) per Evocare Akamaru e creare pressione economica; quando Kiba e Akamaru hanno già dato valore, Kiba Inuzuka (Combinazione di trasformazione) li ritira, ne assorbe il Chakra e ottiene un bonus per ciascuno. Student Trio ripopola le tre corsie al ritiro. Mizuki Toji (Intento Nascosto) può accelerare un ritiro voluto, ma evita di colpire la tua minaccia principale. Quando Naruto ha accumulato Chakra base, passa dalla rotazione alla protezione con Tsunade (Cura disperata).",
+    "cards": [
+      "S1_078",
+      "S1_034",
+      "S1_033",
+      "S3_079",
+      "S2_091",
+      "S1_020",
+      "S3_061",
+      "S3_062",
+      "S2_016",
+      "S2_028"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "02",
+    "name": "Difesa reattiva",
+    "author": null,
+    "description": "Prepara Sakon & Ukon (Difesa sincronizzata) prima di sviluppare gli altri difensori: ogni attivazione della Difesa alleata concede +1 Chakra a entrambe le unità del duo. Sakura Haruno (Inflessibile) offre Difesa permanente e Cambia corsia a ogni attivazione; Kisame Hoshigaki ottiene Chakra e Indebolisce il rivale che attiva la sua Difesa, mentre Jiraiya (Jizo degli aghi) risponde con un Indebolimento che ignora Difesa. Temari aggiunge Spinta e Kimimaro fornisce altre cariche difensive. Contro Sanbi, costruisci questo campo prima di cercare il massimo danno: la perdita di Chakra del boss può provocare nuove ondate della sua abilità. Madame Shijimi sostiene con Chakra più alleati di corsia nel corto raggio.",
+    "cards": [
+      "S3_098",
+      "S3_076",
+      "S3_088",
+      "S3_065",
+      "S3_058",
+      "S3_037",
+      "S3_011",
+      "S2_093",
+      "S2_061",
+      "S1_022"
+    ],
+    "cover": "S3_098"
+  },
+  {
+    "id": "03",
+    "name": "Sciame evocato",
+    "author": null,
+    "description": "Prepara Tayuya (Evocazione dei Doki) prima delle carte che Evocano: le nuove unità ricevono +1 Chakra, e completare la sua Concentrazione aggiunge un Doki su ogni corsia. Naruto Uzumaki (Moltiplicazione Superiore Estrema del Corpo) crea due cloni sulle altre corsie e una seconda coppia dopo dieci secondi; schieralo quando le nuove unità possono avanzare. Naruto Uzumaki (Moltiplicazione superiore del corpo), Kiba Inuzuka e Koharu Utatane aggiungono altre Evocazioni, mentre Student Trio ripopola il campo al ritiro. Usa le carte economiche per ruotare verso questi generatori di unità anziché affidarti a una sola carta costosa contro Brucia. Gaara (Tsunami di sabbia) fornisce controllo ripetuto durante Concentrazione; la lista punta soprattutto a moltiplicare le occasioni di colpire il boss.",
+    "cards": [
+      "S1_034",
+      "S1_033",
+      "S1_077",
+      "S3_094",
+      "S3_011",
+      "S2_016",
+      "S1_003",
+      "S1_029",
+      "S2_037",
+      "S3_099"
+    ],
+    "cover": "S3_099"
+  },
+  {
+    "id": "04",
+    "name": "Sabbia e fuoco",
+    "author": null,
+    "description": "Prepara Kakashi Hatake (Piano di Battaglia) e Gaara (Sete di sangue) prima degli Indebolimenti su più bersagli. Kakashi cresce quando gli alleati Indeboliscono i rivali e premia il loro primo Indebolimento in base ai bersagli colpiti; Gaara cresce anche quando gli alleati Indeboliscono altre carte alleate. Gioca Akamaru (Marcatura) prima delle ondate di Tobirama Senju o Sasuke Uchiha (Palla di Fuoco): contro i rivali ancora Rallentati dalla Marcatura, gli Indebolimenti aumentano di 1. Il primo aumento di Chakra di Hiruzen Sarutobi attiva una seconda ondata di Indebolimento e Brucia nella sua corsia. Temari (Danza della decapitazione rapida) e Gaara (Tsunami di sabbia) mantengono pressione durante Concentrazione; usa Akahoshi per fermare una corsia mentre prepari i motori.",
+    "cards": [
+      "S2_097",
+      "S2_081",
+      "S1_082",
+      "S2_088",
+      "S1_081",
+      "S3_055",
+      "S3_081",
+      "S3_094",
+      "S3_089",
+      "S1_044"
+    ],
+    "cover": "S1_082"
+  },
+  {
+    "id": "05",
+    "name": "Shogi e Blocco",
+    "author": null,
+    "description": "Mantieni Shikamaru Nara (Maestro di Shogi) attivo prima di Bloccare altri alleati o farli entrare in Concentrazione: ciascuno ottiene +3 Chakra. Prepara anche Iruka Umino (Rimprovero), poi schiera una carta con 2 Chakra: riceve il bonus di Iruka e il suo Blocco può attivare quello di Shikamaru. Izumo Kamizuki (Sabotaggio) Blocca più alleati casuali della propria corsia con una sola giocata, quindi usalo quando sono presenti bersagli utili. Naruto Uzumaki (Sfidante) Blocca sé stesso allo schieramento; Ino Yamanaka (Trasmissione spirituale) offre un'altra attivazione tramite Concentrazione e controlla temporaneamente il rivale con più Chakra nel medio raggio. I bonus richiedono il giusto ordine di schieramento: preparare i supporti dopo le carte da potenziare perde valore.",
+    "cards": [
+      "S1_072",
+      "S2_078",
+      "S2_058",
+      "S1_032",
+      "S2_002",
+      "S2_003",
+      "S2_093",
+      "S2_027",
+      "S1_047",
+      "S1_029"
+    ],
+    "cover": "S1_072"
+  },
+  {
+    "id": "06",
+    "name": "Itachi mobile",
+    "author": null,
+    "description": "Prepara Enma prima di Itachi Uchiha (Carneficina): ogni Cambio corsia alleato concede Chakra. Una carta schierata nella corsia di Itachi subisce Indebolimento e Blocco, poi Itachi si sposta e riceve il bonus di Enma; l'effetto colpisce anche le tue carte, quindi scegli dove schierarle. Anche Iruka Umino (Testa Quadra) sfrutta i Cambi corsia periodici. Le versioni Vecchi Amici di Choza Akimichi, Inoichi Yamanaka e Shikaku Nara sostengono gli altri due personaggi del trio e offrono un secondo piano. Temari respinge i rivali, mentre Shizune (Nebbia velenosa) disattiva le abilità nel medio raggio: usala quando non compromette i tuoi supporti, perché colpisce anche gli alleati.",
+    "cards": [
+      "S3_096",
+      "S2_090",
+      "S3_060",
+      "S1_081",
+      "S2_019",
+      "S2_020",
+      "S2_018",
+      "S2_061",
+      "S3_069",
+      "S1_051"
+    ],
+    "cover": "S3_096"
+  },
+  {
+    "id": "07",
+    "name": "Tsunade tenace",
+    "author": null,
+    "description": "Costruisci la difesa attorno a Tsunade (Rigenerazione mitotica). La prima discesa sotto il Chakra base attiva la Cura iniziale, un bonus Chakra e dieci secondi di protezione dalle abilità avversarie con Cura dopo gli scontri. Prepara Homura Mitokado prima della carta da proteggere e usa Shizune (Maialino devoto) quando Tonton può raggiungere una Tsunade alleata per potenziarla. Tsunade (La Quinta) cura ciascun alleato la prima volta che subisce Indebolimento; Tsunade (Cura disperata) sostiene invece la propria corsia quando gli alleati perdono Chakra. Gaara (Scudo di Shukaku) protegge gli alleati alle sue spalle consumando Difesa. Cerca di mantenere Tsunade attiva: ogni ritiro di Rigenerazione mitotica riduce permanentemente di 1 il suo Chakra base.",
+    "cards": [
+      "S3_097",
+      "S3_060",
+      "S3_062",
+      "S3_027",
+      "S2_052",
+      "S3_078",
+      "S2_036",
+      "S1_024",
+      "S1_044",
+      "S2_093"
+    ],
+    "cover": "S3_097"
+  },
+  {
+    "id": "08",
+    "name": "Vento e sabbia",
+    "author": null,
+    "description": "Scegli il controllo in base alla posizione dei rivali. Sakura Haruno (Lancio del Kunai) colpisce un bersaglio nel lungo raggio della propria corsia, mentre Sasuke Uchiha (Palla di Fuoco) Indebolisce tutti gli avversari nel medio raggio. Prepara così il campo per Gaara (Tsunami di sabbia), che applica periodicamente Indebolimento e Spinta a tutti i rivali durante Concentrazione e colpisce più forte quelli con poco Chakra. Temari (Danza della decapitazione rapida) insiste sul medio e lungo raggio; Akahoshi combina Blocco, Spinta e Indebolimento su una corsia. Sasuke Uchiha (Difesa alata) contesta gli scontri con Difesa e riattiva la propria abilità quando questa si attiva. Alterna risposte economiche e minacce persistenti senza spendere insieme tutti i controlli.",
+    "cards": [
+      "S1_081",
+      "S3_099",
+      "S3_081",
+      "S1_006",
+      "S1_005",
+      "S3_077",
+      "S3_061",
+      "S3_089",
+      "S3_094",
+      "S2_091"
+    ],
+    "cover": "S3_094"
+  },
+  {
+    "id": "09",
+    "name": "Piano acquatico",
+    "author": null,
+    "description": "Mantieni Kakashi Hatake (Piano di Battaglia) attivo prima di spendere gli Indebolimenti che colpiscono più rivali: Kakashi guadagna Chakra e la prima applicazione di ogni alleato premia anche chi la esegue in base ai bersagli colpiti. Prepara Akamaru (Marcatura), poi usa Tobirama Senju contro tutto il campo avversario oppure Sasuke Uchiha (Palla di Fuoco) contro il medio raggio. Kakashi Hatake (Esplosione Acquatica) e Zabuza Momochi (Tecnica del Drago Acquatico) combinano Indebolimento e Spinta per liberare una corsia; Naruto Uzumaki (Pugno Vigoroso) si schiera direttamente nel medio raggio. Conserva Kyubi per le situazioni in cui il controllo globale vale il rischio: il suo Indebolimento iniziale colpisce anche gli alleati e penalizza le successive carte schierate.",
+    "cards": [
+      "S1_082",
+      "S1_069",
+      "S2_088",
+      "S1_081",
+      "S1_074",
+      "S1_079",
+      "S3_055",
+      "S2_039",
+      "S1_044",
+      "S1_085"
+    ],
+    "cover": "S1_082"
+  },
+  {
+    "id": "10",
+    "name": "Kyubi e Gaara",
+    "author": null,
+    "description": "Prepara Gaara (Sete di sangue) e Tsunade (La Quinta), poi valuta quando schierare Kyubi (Catastrofe Naturale). Il suo Indebolimento iniziale colpisce entrambi gli schieramenti, mentre le nuove carte subiscono un altro Indebolimento finché rimane attivo. Gaara ottiene Chakra dagli Indebolimenti alleati anche contro i tuoi alleati; Tsunade cura ogni alleato la prima volta che subisce Indebolimento. Zabuza Momochi (Demone) offre un'altra ondata che coinvolge entrambi i campi, particolarmente incisiva sulle carte con poco Chakra. Tobirama Senju e Sasuke Uchiha (Palla di Fuoco) consentono invece di controllare soltanto i rivali. Le versioni Manto della volpe demoniaca e Forma a una coda di Naruto Uzumaki aggiungono minacce con una propria Cura dopo la discesa sotto il Chakra base.",
+    "cards": [
+      "S1_085",
+      "S3_060",
+      "S2_081",
+      "S3_051",
+      "S1_067",
+      "S1_081",
+      "S1_083",
+      "S2_088",
+      "S1_044",
+      "S3_075"
+    ],
+    "cover": "S1_085"
+  },
+  {
+    "id": "11",
+    "name": "Sogno condiviso",
+    "author": null,
+    "description": "Schiera almeno due fra Nawaki, Dan Kato e Naruto Uzumaki (Sogno condiviso). Quando una carta con Sogno condiviso si ritira, le altre attive con la stessa abilità ottengono Chakra; il ritiro di una carta diversa non attiva quel bonus. Organizza gli altri ritiri per ottenere vantaggi separati: Kaiza potenzia gli alleati della propria corsia, Hiruzen Sarutobi tutti gli alleati e Mizuki Toji tre alleati casuali. Truppe ninja premia l'ultimo alleato schierato, quindi considera l'ordine delle giocate prima del suo ritiro. Naruto Uzumaki (Innocenza) e Yashamaru lasciano Indebolimenti, mentre Zabuza Momochi (Collasso) cresce al primo ritiro alleato nella propria corsia. Distribuisci le carte per conservare bersagli utili ai bonus.",
+    "cards": [
+      "S3_045",
+      "S3_032",
+      "S3_001",
+      "S1_042",
+      "S2_070",
+      "S1_019",
+      "S1_021",
+      "S1_041",
+      "S2_040",
+      "S1_054"
+    ],
+    "cover": "S3_001"
+  },
+  {
+    "id": "12",
+    "name": "Le porte di Lee",
+    "author": null,
+    "description": "Prepara Gai Maito (Potere della giovinezza) prima dei Rock Lee: ogni versione alleata riceve Chakra allo schieramento. Con Shikamaru Nara (Maestro di Shogi) attivo, la Concentrazione di Rock Lee (Quinta Porta) concede anche +3 Chakra; soltanto completandola Lee ottiene +7 Chakra e sblocca salto e Indebolimenti negli scontri, che danneggiano anche sé stesso. Usa Gai Maito (Rimproverare) per dare Chakra e Blocco all'alleato di corsia più vicino, sfruttando un'altra attivazione di Shikamaru. Rock Lee (Pugno barcollante) offre Concentrazioni periodiche. Akahoshi prolunga Concentrazione e applica Indebolimento agli alleati coinvolti: con Quinta Porta ritarda lo sblocco offensivo, quindi non è un potenziamento senza costo. Gli altri Lee mantengono pressione con Scatto, Spinta e Cambi corsia.",
+    "cards": [
+      "S2_094",
+      "S2_005",
+      "S2_053",
+      "S2_006",
+      "S3_080",
+      "S2_009",
+      "S2_056",
+      "S3_010",
+      "S2_078",
+      "S3_029"
+    ],
+    "cover": "S2_094"
+  },
+  {
+    "id": "13",
+    "name": "Ino-Shika-Cho",
+    "author": null,
+    "description": "Prepara le versioni Vecchi Amici di Choza Akimichi, Inoichi Yamanaka e Shikaku Nara: ciascuna sostiene gli altri due personaggi, comprese le loro versioni diverse, senza potenziare sé stessa o tutto il clan. Usa Choza Akimichi (Espansione) per trasformare il Chakra in Spinta e Indebolimento negli scontri. Shikaku Nara (Controllo dell'ombra) Blocca sé stesso e due rivali di corsia nel lungo raggio, dando tempo ai supporti. Prepara Shikamaru Nara (Maestro di Shogi) prima di questa giocata o delle Concentrazioni di Ino Yamanaka e Inoichi Yamanaka (Sconvolgimento spirituale) per ottenere +3 Chakra sulle carte coinvolte. I due Yamanaka controllano temporaneamente bersagli nel medio raggio; Inoichi disattiva anche l'abilità attiva del bersaglio. Scegli fra controllo e pressione in base alle carte già presenti.",
+    "cards": [
+      "S2_018",
+      "S2_020",
+      "S2_019",
+      "S2_065",
+      "S2_063",
+      "S2_057",
+      "S2_064",
+      "S2_078",
+      "S2_054",
+      "S2_058"
+    ],
+    "cover": "S2_018"
+  },
+  {
+    "id": "14",
+    "name": "Clan Hyuga",
+    "author": null,
+    "description": "Mantieni Hiashi Hyuga attivo prima delle altre carte Hyuga per concedere Chakra e Spinta(1) a chi non la possiede già; il bonus non somma Spinta a un effetto esistente. Neji Hyuga (Destino infelice) amplifica i propri aumenti di Chakra fino al limite di 10 e valorizza particolarmente i supporti. Hizashi Hyuga può salvare Hiashi dal ritiro sacrificandosi al suo posto: posizionalo per preservare il motore. Contro una minaccia già potenziata usa Neji Hyuga (Byakugan) per dimezzarne il Chakra. Neji Hyuga (Rotazione) controlla più avversari vicini negli scontri, mentre Neji Hyuga (Difesa ravvicinata) offre Difesa ma può Bloccare sé stesso. Le Hinata e Hanabi Hyuga forniscono risposte economiche per gestire l'avanzata nelle diverse corsie.",
+    "cards": [
+      "S2_022",
+      "S2_023",
+      "S2_055",
+      "S2_054",
+      "S2_076",
+      "S2_007",
+      "S3_006",
+      "S2_021",
+      "S1_032",
+      "S1_031"
+    ],
+    "cover": "S2_022"
+  },
+  {
+    "id": "15",
+    "name": "Dominio mentale",
+    "author": null,
+    "description": "Attendi un bersaglio utile nel medio raggio prima di usare i controlli mentali: Ino Yamanaka (Trasmissione spirituale) sceglie il rivale di corsia con più Chakra, Inoichi Yamanaka (Sconvolgimento spirituale) quello più vicino. Il controllo termina con la Concentrazione; Inoichi applica anche Rallentamento e disattiva permanentemente l'abilità attiva del bersaglio. Prepara Shikamaru Nara (Maestro di Shogi) per dare +3 Chakra agli alleati quando si Concentrano. Le versioni Vecchi Amici di Choza Akimichi, Inoichi Yamanaka e Shikaku Nara sostengono il gruppo; Jiraiya concede Concentrazione agli alleati di corsia schierati con massimo 3 Chakra. Akahoshi prolunga la finestra di controllo ma infligge Indebolimento periodico alle tue carte: proteggi i controllori anziché giocarlo automaticamente.",
+    "cards": [
+      "S2_064",
+      "S2_058",
+      "S2_078",
+      "S3_010",
+      "S3_029",
+      "S2_018",
+      "S2_020",
+      "S2_019",
+      "S1_044",
+      "S2_026"
+    ],
+    "cover": "S2_064"
+  },
+  {
+    "id": "16",
+    "name": "Rospi in fiamme",
+    "author": null,
+    "description": "Usa Gama per Evocare un rospo casuale dal mazzo e avviare il campo. Con altri rospi già attivi, Gamatatsu concede loro +2 Chakra ogni quattro secondi di Concentrazione spendendo 1 energia, se disponibile: conserva energia per quelle attivazioni. Gamakichi aggiunge Spinta agli scontri dei rospi e cresce quando respingono un rivale; schiera Gamahiro dopo aver sviluppato il gruppo per aumentare il suo bonus iniziale. Per la chiusura, applica Brucia con Jiraiya (Lanciafiamme dell'olio di rospo) o Hiruzen Sarutobi, poi gioca Gamabunta nella corsia dei bersagli già colpiti per attivare immediatamente il Brucia residuo. Jiraiya (Trappola della bocca del rospo) compra tempo, ma Blocca anche gli alleati della propria corsia.",
+    "cards": [
+      "S2_033",
+      "S3_035",
+      "S2_032",
+      "S3_085",
+      "S2_073",
+      "S3_084",
+      "S3_009",
+      "S1_081",
+      "S2_089",
+      "S1_044"
+    ],
+    "cover": "S3_084"
+  },
+  {
+    "id": "17",
+    "name": "Edo e Suono",
+    "author": null,
+    "description": "Prepara i bonus del Quartetto per il prossimo Orochimaru: Jirobo concede Chakra, Kidomaru Scatto, Tayuya Difesa e Sakon un Indebolimento sul rivale più vicino. Non è necessario aspettare tutti e quattro: scegli quelli utili alla situazione. Schiera Orochimaru (Edo Tensei) quando i due alleati con meno Chakra possono ritirarsi per il suo Indebolimento(2), preferibilmente Naruto Uzumaki (Innocenza) o Kaiza per ottenere anche i loro effetti di ritiro. I sacrifici permettono di Evocare dal mazzo le versioni Edo di Hashirama Senju e Tobirama Senju con Scatto. Orochimaru (Protetto) è un'alternativa economica, ma schierarlo prima di Edo Tensei consuma i bonus preparati per il prossimo Orochimaru.",
+    "cards": [
+      "S2_086",
+      "S2_068",
+      "S2_069",
+      "S2_046",
+      "S2_047",
+      "S2_049",
+      "S2_048",
+      "S3_011",
+      "S1_042",
+      "S1_019"
+    ],
+    "cover": "S2_086"
+  },
+  {
+    "id": "18",
+    "name": "Cloni di Itachi",
+    "author": null,
+    "description": "Prepara Itachi Uchiha (Esercito dello Tsukuyomi), poi Blocca i rivali con Haku, Segugi ninja o Shikaku Nara (Controllo dell'ombra). Il clone appare nella corsia del bersaglio Bloccato e l'originale perde 1 Chakra: scegli attivazioni che aiutino davvero a vincere uno scontrio. Tsunami e Ayame sostengono il Chakra dell'originale se si trova nel raggio dei loro bonus; non possono potenziare i cloni di Itachi. Questi ultimi non ottengono Chakra e non segnano punti, quindi usa Naruto Uzumaki (Moltiplicazione superiore del corpo) e le altre unità per la pressione sulla base. Akahoshi aggiunge Blocco su più bersagli. Non consumare tutto il Chakra di Itachi soltanto per riempire il campo.",
+    "cards": [
+      "S3_082",
+      "S1_014",
+      "S1_061",
+      "S2_065",
+      "S1_024",
+      "S1_038",
+      "S1_003",
+      "S1_044",
+      "S3_100",
+      "S3_089"
+    ],
+    "cover": "S3_082"
+  },
+  {
+    "id": "19",
+    "name": "Supporto Uchiha",
+    "author": null,
+    "description": "Prepara Fugaku Uchiha, Itachi Uchiha (Fratello maggiore) e Mikoto Uchiha prima del Sasuke da valorizzare. Itachi sostiene il prossimo Sasuke con Chakra e Scatto nella propria corsia, oppure Difesa e Rallentamento in un'altra: scegli il posizionamento prima di schierarlo. Fugaku concede Difesa e Rallentamento agli Uchiha con massimo 3 Chakra, altrimenti Chakra e Blocco. Sasuke Uchiha (Rilascio del segno maledetto) amplifica il primo aumento di Chakra; Sasuke Uchiha (Previsione evoluta) sfrutta le attivazioni di Difesa per crescere. Conserva Sasuke Uchiha (Palla di Fuoco) per i gruppi nel medio raggio e Itachi Uchiha (Fuga da Amaterasu) per applicare Brucia che ignora Difesa e può propagarsi per contatto, ricordando il suo costo in Chakra a ogni attivazione.",
+    "cards": [
+      "S3_033",
+      "S3_050",
+      "S3_019",
+      "S3_083",
+      "S3_043",
+      "S1_081",
+      "S3_076",
+      "S3_052",
+      "S2_003",
+      "S1_044"
+    ],
+    "cover": "S3_033"
+  },
+  {
+    "id": "20",
+    "name": "Kiba e Akamaru",
+    "author": null,
+    "description": "Sviluppa prima Kiba e Akamaru. Kiba Inuzuka (Migliore Amico) Evoca un Akamaru casuale dal mazzo con Chakra aggiuntivo; Kiba Inuzuka (Moltiplicazione selvatica) trasforma il prossimo Akamaru schierato in una propria copia con Scatto. Tsume Inuzuka prepara il prossimo alleato con Chakra e Scatto, mentre Tsume Inuzuka (Maestra dei segugi) Evoca Kuromaru e potenzia il prossimo Cane Ninja. Aspetta che queste unità abbiano dato valore, poi usa Kiba Inuzuka (Combinazione di trasformazione): ritira gli altri Kiba e Akamaru, ne assorbe il Chakra e riceve un bonus per ogni ritiro. Prepara Zabuza Momochi (Collasso) nella corsia interessata per sfruttare il primo ritiro alleato. Evita di riunire tutto su un Kiba troppo presto, perdendo pressione sulle altre corsie.",
+    "cards": [
+      "S3_079",
+      "S2_077",
+      "S1_033",
+      "S1_034",
+      "S3_055",
+      "S2_044",
+      "S3_028",
+      "S2_043",
+      "S1_061",
+      "S1_054"
+    ],
+    "cover": "S3_079"
+  },
+  {
+    "id": "21",
+    "name": "Scudo di sabbia",
+    "author": null,
+    "description": "Prepara Kankuro e Temari (Prudente) prima del prossimo Gaara per concedergli rispettivamente Chakra e Difesa; usa Karura quando le carte Gaara sono già attive. Gaara (Pericoloso) si schiera nel medio raggio e ottiene il proprio bonus se lì è presente un avversario. Gaara (Scudo di sabbia) cresce alle attivazioni della sua Difesa, mentre Gaara (Scudo di Shukaku) protegge gli alleati alle sue spalle consumando le proprie cariche. Con Gaara (Sete di sangue) attivo, gli Indebolimenti di Tobirama Senju, Sasuke Uchiha (Palla di Fuoco) e Sakura Haruno alimentano anche la crescita di Gaara. Scegli quale versione preparare in base al campo: supporti giocati senza un Gaara da potenziare rallentano la rotazione.",
+    "cards": [
+      "S2_081",
+      "S2_060",
+      "S2_010",
+      "S3_078",
+      "S2_011",
+      "S2_012",
+      "S1_081",
+      "S1_006",
+      "S2_088",
+      "S2_041"
+    ],
+    "cover": "S2_081"
+  },
+  {
+    "id": "22",
+    "name": "Season 1 Only",
+    "author": null,
+    "description": "Le due ondate di cloni di Naruto Uzumaki (Moltiplicazione Superiore Estrema del Corpo) distribuiscono pressione sulle corsie; il loro ritiro fa crescere l'originale e alimenta anche Naruto Uzumaki (La Furia di Kyubi). Pianifica il bonus di Hiruzen Sarutobi (Volontà del Fuoco), che arriva dopo dieci secondi, quando hai più unità attive. Kakashi Hatake apre il passaggio contro Difesa, mentre Kakashi Hatake e Zabuza Momochi respingono e Indeboliscono i gruppi di corsia. Usa Hinata Hyuga (Pugno Gentile) contro il primo rivale incontrato con massimo 3 Chakra.",
+    "cards": [
+      "S1_077",
+      "S1_081",
+      "S1_078",
+      "S1_073",
+      "S1_070",
+      "S1_069",
+      "S1_074",
+      "S1_032",
+      "S1_029",
+      "S1_014"
+    ],
+    "cover": "S1_077"
+  },
+  {
+    "id": "23",
+    "name": "Focus",
+    "author": null,
+    "description": "Prepara Itachi Uchiha (Compostezza) e Jiraiya (Allenamento avanzato). Schierare nella corsia di Jiraiya un alleato con massimo 3 Chakra gli concede Concentrazione, facendo crescere Itachi già all'attivazione; il bonus dell'allenamento arriva invece soltanto se viene completata. Ino Yamanaka, Kidomaru, Raiga Kurosuki e Rock Lee (Pugno barcollante) aggiungono altre Concentrazioni e strumenti di controllo. Homura Mitokado protegge la carta che deve completare la preparazione.",
+    "cards": [
+      "S2_058",
+      "S3_010",
+      "S3_056",
+      "S3_080",
+      "S3_086",
+      "S3_084",
+      "S3_090",
+      "S2_037",
+      "S2_036",
+      "S2_061"
+    ],
+    "cover": "S3_056"
+  },
+  {
+    "id": "24",
+    "name": "Deckbot",
+    "author": null,
+    "description": "Schiera Sakon & Ukon, poi aumenta il numero di alleati con Difesa usando Orochimaru (Protetto) e Sasuke Uchiha (Difesa alata). Ogni Difesa alleata attivata aumenta il Chakra di entrambe le unità del duo. Contro effetti ripetuti su più bersagli, come Tsunami di sabbia, più difensori possono produrre numerose attivazioni: sviluppali prima delle ondate avversarie. Tsunade sostiene il piano difensivo e Ichibi offre pressione nel lungo raggio.",
+    "cards": [
+      "S3_011",
+      "S3_098",
+      "S3_077",
+      "S2_091",
+      "S2_092",
+      "S2_099",
+      "S3_066",
+      "S3_086",
+      "S3_097",
+      "S1_042"
+    ],
+    "cover": "S3_098"
+  },
+  {
+    "id": "25",
+    "name": "Control",
+    "author": null,
+    "description": "Riduci le minacce con Neji Hyuga (Byakugan), poi completa gli scontri con gli Indebolimenti adatti alla posizione: Sakura Haruno (Lancio del Kunai) nel lungo raggio o Sasuke Uchiha (Palla di Fuoco) nel medio. Kakashi Hatake permette di affrontare bersagli protetti da Difesa. Usa Tsunade (Cura disperata) per conservare le carte già potenziate e Kakashi Hatake (Caposquadra) per sostenere gli alleati di corsia nel corto raggio. Ichibi mantiene pressione con le proprie attivazioni periodiche.",
+    "cards": [
+      "S2_091",
+      "S1_070",
+      "S1_069",
+      "S2_099",
+      "S3_062",
+      "S3_097",
+      "S2_054",
+      "S1_081",
+      "S1_006",
+      "S1_010"
+    ],
+    "cover": "S2_099"
+  },
+  {
+    "id": "26",
+    "name": "Rage",
+    "author": "Pluto",
+    "description": "Tieni Naruto Uzumaki (La Furia di Kyubi) attivo prima di usare Kiba Inuzuka (Combinazione di trasformazione): i ritiri di Kiba e Akamaru potenziano Naruto mentre il loro Chakra passa al nuovo Kiba. Tsunade (Cura disperata) sostiene la carta che deve continuare ad avanzare. Neji Hyuga (Byakugan) riduce i difensori più grandi prima degli scontri decisivi; Sasuke Uchiha (Palla di Fuoco) gestisce i gruppi nel medio raggio.",
+    "cards": [
+      "S1_078",
+      "S2_091",
+      "S2_092",
+      "S3_062",
+      "S1_033",
+      "S1_034",
+      "S3_079",
+      "S2_054",
+      "S1_081",
+      "S3_097"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "27",
+    "name": "Control",
+    "author": "Pluto",
+    "description": "Usa Kyubi (Catastrofe Naturale) per intervenire su tutto il campo, valutando anche il danno agli alleati; Tsunade (Cura disperata) può limitarne le conseguenze nella propria corsia. Ichibi mantiene pressione nel lungo raggio con Indebolimenti ripetuti, mentre Kakashi Hatake supera Difesa. Naruto Uzumaki (Volontà di Proteggere) e Sasuke Uchiha (Segno maledetto) sono le minacce da mantenere attive.",
+    "cards": [
+      "S3_097",
+      "S2_091",
+      "S2_092",
+      "S1_070",
+      "S2_061",
+      "S2_054",
+      "S1_081",
+      "S1_085",
+      "S2_099",
+      "S3_062"
+    ],
+    "cover": "S1_085"
+  },
+  {
+    "id": "28",
+    "name": "Deck",
+    "author": "ALX",
+    "description": "Usa Orochimaru (Tradimento) per attraversare la prima parte della corsia ignorando abilità e scontri avversari; nel medio raggio riceve il proprio bonus e diventa vulnerabile. Nel frattempo, Ichibi controlla il lungo raggio e Kakashi Hatake gestisce i bersagli protetti. Kakashi Hatake (Caposquadra) sostiene gli alleati nel corto raggio, mentre Temari concede spazio con le sue Spinte.",
+    "cards": [
+      "S1_081",
+      "S2_091",
+      "S2_092",
+      "S2_099",
+      "S1_070",
+      "S2_084",
+      "S3_062",
+      "S2_061",
+      "S1_010",
+      "S2_054"
+    ],
+    "cover": "S2_099"
+  },
+  {
+    "id": "29",
+    "name": "Focus",
+    "author": "Denn",
+    "description": "Prepara Shikamaru Nara e Itachi Uchiha (Compostezza) prima delle carte con Concentrazione: il primo potenzia l'alleato che si Concentra, il secondo cresce a ogni attivazione. Gaara (Tsunami di sabbia) controlla il campo durante la preparazione; Rock Lee (Quinta Porta) diventa una minaccia dopo averla completata. Gato aggiunge una Concentrazione e un'Evocazione casuale di Costo massimo 3.",
+    "cards": [
+      "S2_058",
+      "S3_056",
+      "S3_080",
+      "S3_094",
+      "S3_090",
+      "S2_078",
+      "S2_099",
+      "S2_094",
+      "S2_036",
+      "S1_060"
+    ],
+    "cover": "S2_078"
+  },
+  {
+    "id": "30",
+    "name": "Carnage",
+    "author": null,
+    "description": "Mantieni Enma attivo per dare Chakra a Itachi Uchiha (Carneficina) ogni volta che Cambia corsia. Schierare Mizuki Toji (Preda Facile) nella corsia di Itachi permette di sfruttare il suo effetto di ritiro, se l'Indebolimento lo elimina, mentre Itachi si sposta e riceve il bonus di Enma. Tsunade (Cura disperata) sostiene l'originale durante le successive attivazioni.",
+    "cards": [
+      "S1_006",
+      "S1_070",
+      "S1_081",
+      "S2_054",
+      "S2_091",
+      "S2_092",
+      "S3_062",
+      "S3_096",
+      "S1_021",
+      "S2_090"
+    ],
+    "cover": "S3_096"
+  },
+  {
+    "id": "31",
+    "name": "Gaara",
+    "author": null,
+    "description": "Schiera Gaara (Sete di sangue) prima di Kyubi: gli Indebolimenti inflitti sia ai rivali sia agli alleati alimentano la crescita di Gaara. Tsunade (Cura disperata) aiuta a sostenere la corsia danneggiata. Dopo la Concentrazione, Rock Lee (Quinta Porta) aggiunge Indebolimenti a ogni scontro, mentre le versioni Raikiri ed Esplosione Acquatica di Kakashi Hatake coprono esigenze difensive diverse.",
+    "cards": [
+      "S2_081",
+      "S1_085",
+      "S1_070",
+      "S3_062",
+      "S1_069",
+      "S1_081",
+      "S2_054",
+      "S1_006",
+      "S2_036",
+      "S2_094"
+    ],
+    "cover": "S2_081"
+  },
+  {
+    "id": "32",
+    "name": "Simo BP",
+    "author": null,
+    "description": "Mantieni Kakashi Hatake (Piano di Battaglia) attivo prima degli Indebolimenti su più bersagli, soprattutto quelli globali di Tobirama Senju. Conserva il primo aumento di Chakra di Hiruzen Sarutobi (Maestro degli elementi) per ottenere l'ondata aggiuntiva di Indebolimento e Brucia. Homura Mitokado va giocato prima della carta da proteggere: soprattutto Kakashi o Neji Hyuga (Sessantaquattro Palmi), oppure Hiruzen quando serve la sua attivazione.",
+    "cards": [
+      "S1_082",
+      "S2_054",
+      "S3_077",
+      "S3_030",
+      "S1_081",
+      "S2_088",
+      "S2_097",
+      "S3_058",
+      "S2_095",
+      "S2_036"
+    ],
+    "cover": "S1_082"
+  },
+  {
+    "id": "33",
+    "name": "Forbidden List",
+    "author": null,
+    "description": "Sakon & Ukon trasforma le attivazioni della Difesa alleata in Chakra per entrambe le unità, punendo gli Indebolimenti avversari contro un campo già preparato. Homura Mitokado protegge Neji Hyuga (Sessantaquattro Palmi), che riduce permanentemente di 2 il Chakra base dei rivali fatti ritirare. Sasuke Uchiha (Chidori nero) offre un intervento che ignora Difesa per completare gli scontri.",
+    "cards": [
+      "S1_081",
+      "S2_091",
+      "S3_097",
+      "S3_098",
+      "S1_010",
+      "S2_036",
+      "S2_054",
+      "S3_062",
+      "S2_095",
+      "S3_091"
+    ],
+    "cover": "S3_098"
+  },
+  {
+    "id": "34",
+    "name": "Concentrazione Gato",
+    "author": null,
+    "description": "Prepara Shikamaru Nara e Itachi Uchiha (Compostezza), poi usa le Concentrazioni di Gato, Rock Lee (Pugno barcollante), Raiga Kurosuki e Ichibi per generare Chakra. L'Evocazione di Gato è casuale fra le carte ammissibili di Costo massimo 3. Homura Mitokado può proteggere Jiraiya (Lanciafiamme dell'olio di rospo) prima della Concentrazione, aiutandolo a raggiungere la seconda applicazione globale di Brucia.",
+    "cards": [
+      "S3_056",
+      "S2_078",
+      "S3_080",
+      "S1_060",
+      "S3_090",
+      "S2_099",
+      "S3_084",
+      "S2_036",
+      "S2_091",
+      "S3_098"
+    ],
+    "cover": "S3_056"
+  },
+  {
+    "id": "35",
+    "name": "Shogi Master",
+    "author": "Bart",
+    "description": "Mantieni Shikamaru Nara protetto e schiera le carte con Concentrazione mentre è attivo. Con Itachi Uchiha (Compostezza) presente, ogni nuova attivazione potenzia anche lui. Usa Ino Yamanaka per sottrarre temporaneamente una minaccia, Raiga Kurosuki per liberare la corsia e Homura Mitokado prima di Rock Lee (Quinta Porta) quando devi proteggerne la preparazione. Ichibi offre attivazioni periodiche nelle partite prolungate.",
+    "cards": [
+      "S3_090",
+      "S2_036",
+      "S3_080",
+      "S2_058",
+      "S2_054",
+      "S2_099",
+      "S3_056",
+      "S2_094",
+      "S2_078",
+      "S2_061"
+    ],
+    "cover": "S2_078"
+  },
+  {
+    "id": "36",
+    "name": "Furia e controllo",
+    "author": null,
+    "description": "Fai crescere Naruto Uzumaki (La Furia di Kyubi) attraverso i ritiri: Student Trio aggiunge altre tre unità che possono continuare il ciclo. Naruto Uzumaki (Volontà di Proteggere) aumenta invece permanentemente il proprio Chakra base a ogni ritiro. Tsunade (Cura disperata) aiuta a recuperare verso quel valore crescente, mentre Ichibi e Neji Hyuga mantengono aperte le corsie.",
+    "cards": [
+      "S1_078",
+      "S2_016",
+      "S2_036",
+      "S2_054",
+      "S2_091",
+      "S3_062",
+      "S3_097",
+      "S2_099",
+      "S1_081",
+      "S2_092"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "37",
+    "name": "Control",
+    "author": "ALX",
+    "description": "Usa Kakashi Hatake (Esplosione Acquatica) per Indebolire e respingere i rivali di corsia, quindi sfrutta Ichibi contro quelli nel lungo raggio. Neji Hyuga (Byakugan) gestisce le carte che hanno accumulato molto Chakra. Orochimaru (Tradimento) offre pressione mentre ruoti le risposte, e Tsunade (Cura disperata) permette di conservare una minaccia invece di sostituirla immediatamente.",
+    "cards": [
+      "S2_091",
+      "S2_061",
+      "S3_062",
+      "S2_099",
+      "S1_081",
+      "S3_097",
+      "S1_069",
+      "S2_084",
+      "S2_092",
+      "S2_054"
+    ],
+    "cover": "S2_099"
+  },
+  {
+    "id": "38",
+    "name": "Control",
+    "author": "Hans",
+    "description": "Abbina Gaara (Controllo della sabbia) a Itachi Uchiha (Tsukuyomi): i Blocca applicati da Gaara riattivano l'abilità di Itachi, mentre Gaara tratta diversamente i rivali già Bloccati. Kyubi (Destini Incrociati) può potenziare una minaccia come Sasuke Uchiha (Difesa alata). Kimimaro (Lealtà incrollabile) agisce separatamente: non può ricevere bonus o Cure dalle abilità alleate.",
+    "cards": [
+      "S2_091",
+      "S3_077",
+      "S1_070",
+      "S2_100",
+      "S3_095",
+      "S2_096",
+      "S3_100",
+      "S1_010",
+      "S3_097",
+      "S2_092"
+    ],
+    "cover": "S2_096"
+  },
+  {
+    "id": "39",
+    "name": "Control",
+    "author": "Jad",
+    "description": "Ruota Homura Mitokado prima di Neji Hyuga (Sessantaquattro Palmi) per proteggerlo negli scontri che possono ridurre permanentemente il Chakra base avversario. Choji Akimichi trasforma le attivazioni della propria Difesa in Chakra, mentre Kakashi Hatake (Caposquadra) può sostenerlo nel corto raggio. Nel tempo supplementare, valuta quando usare Naruto Uzumaki e Tsunade per avanzare verso la base invece di inseguire ogni carta nemica.",
+    "cards": [
+      "S3_097",
+      "S2_036",
+      "S2_061",
+      "S2_091",
+      "S2_092",
+      "S1_010",
+      "S3_093",
+      "S2_095",
+      "S2_054",
+      "S3_077"
+    ],
+    "cover": "S2_095"
+  },
+  {
+    "id": "40",
+    "name": "Control",
+    "author": "Kebob",
+    "description": "Usa le due versioni di Neji Hyuga con ruoli distinti: Byakugan riduce subito una minaccia grande, Sessantaquattro Palmi premia gli scontri conclusi con un ritiro avversario. Sasuke Uchiha (Chidori nero) aiuta contro Difesa. Jiraiya (Lanciafiamme dell'olio di rospo) applica Brucia a tutto il campo avversario e lo applica nuovamente se completa la Concentrazione; Homura Mitokado e Tsunade sostengono le carte da mantenere attive.",
+    "cards": [
+      "S2_054",
+      "S2_091",
+      "S3_062",
+      "S1_010",
+      "S2_095",
+      "S2_036",
+      "S3_084",
+      "S2_092",
+      "S1_069",
+      "S3_091"
+    ],
+    "cover": "S2_095"
+  },
+  {
+    "id": "41",
+    "name": "Primi passi",
+    "author": null,
+    "description": "Usa Naruto Uzumaki (Solitudine) su una corsia senza alleati per ottenere il bonus iniziale. In un'altra corsia, il ritiro di Naruto Uzumaki (Innocenza) può Indebolire un rivale e attivare Zabuza Momochi (Collasso), se è il primo ritiro alleato osservato nella corsia. Neji Hyuga dimezza le minacce grandi, mentre Asuma Sarutobi beneficia degli scontri contro rivali con più Chakra.",
+    "cards": [
+      "S1_006",
+      "S1_010",
+      "S1_030",
+      "S1_045",
+      "S1_054",
+      "S1_081",
+      "S2_010",
+      "S2_054",
+      "S1_042",
+      "S2_061"
+    ],
+    "cover": "S1_010"
+  },
+  {
+    "id": "42",
+    "name": "Difesa e Indebolimento",
+    "author": null,
+    "description": "Scegli l'Indebolimento in base al bersaglio: Zabuza Momochi (Assalto) colpisce il rivale di corsia più vicino, Genma Shiranui interviene nel medio raggio e Kakashi Hatake (Esplosione Acquatica) agisce sull'intera corsia. Raiga Kurosuki devia le carte che si avvicinano. Usa Shizune (Nebbia velenosa) quando puoi sfruttare la sua abilità senza disattivare anche quelle degli alleati che vuoi preservare.",
+    "cards": [
+      "S1_005",
+      "S1_013",
+      "S2_039",
+      "S2_042",
+      "S3_037",
+      "S3_062",
+      "S3_069",
+      "S3_066",
+      "S3_046",
+      "S1_069"
+    ],
+    "cover": "S1_069"
+  },
+  {
+    "id": "43",
+    "name": "God Save Rage",
+    "author": null,
+    "description": "Mantieni Naruto Uzumaki (La Furia di Kyubi) attivo mentre fai ritirare le unità economiche. Il pacchetto Kiba Inuzuka e Akamaru riunisce Chakra tramite Kiba Inuzuka (Combinazione di trasformazione); Student Trio aggiunge altri corpi sulle tre corsie. Homura Mitokado protegge Naruto prima degli scontri, mentre Neji Hyuga e Tsunade servono a mantenere viva la minaccia già cresciuta.",
+    "cards": [
+      "S2_061",
+      "S1_078",
+      "S2_091",
+      "S1_033",
+      "S3_079",
+      "S2_036",
+      "S1_034",
+      "S2_054",
+      "S3_097",
+      "S2_016"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "44",
+    "name": "Difesa",
+    "author": null,
+    "description": "Prepara Sakon & Ukon, poi usa Homura Mitokado per aggiungere Difesa a una carta come Choji Akimichi. Le attivazioni potenziano sia il duo sia Choji; Sasuke Uchiha (Difesa alata) riattiva la propria abilità quando consuma Difesa. Tieni Kakashi Hatake (Caposquadra) in una posizione utile a sostenere gli alleati di corsia nel corto raggio.",
+    "cards": [
+      "S3_077",
+      "S3_098",
+      "S1_010",
+      "S2_091",
+      "S2_054",
+      "S3_097",
+      "S3_062",
+      "S3_093",
+      "S2_036",
+      "S2_092"
+    ],
+    "cover": "S3_098"
+  },
+  {
+    "id": "45",
+    "name": "Byakugō",
+    "author": null,
+    "description": "Usa Gaara (Pericoloso) quando è presente un rivale nel medio raggio, così beneficia subito del suo bonus Chakra. Neji Hyuga (Byakugan) e Kakashi Hatake (Esplosione Acquatica) gestiscono gli scontri successivi. Homura Mitokado protegge la carta che vuoi mantenere, mentre le due versioni di Tsunade offrono rispettivamente una minaccia resistente e Cura agli alleati di corsia.",
+    "cards": [
+      "S1_010",
+      "S1_069",
+      "S2_091",
+      "S2_092",
+      "S2_054",
+      "S2_061",
+      "S2_010",
+      "S3_097",
+      "S3_062",
+      "S2_036"
+    ],
+    "cover": "S3_097"
+  },
+  {
+    "id": "46",
+    "name": "Arrow Kyubi",
+    "author": null,
+    "description": "Prepara Kyubi (Destini Incrociati) e schiera subito dopo Sasuke Uchiha (Difesa alata) per assegnare il bonus sulla carta scelta. Il legame fa ritirare entrambi quando uno dei due si ritira: considera anche la sicurezza di Kyubi. Prima della giocata finale, usa Neji Hyuga (Byakugan) per dimezzare il difensore più grande e Kakashi Hatake per superare Difesa. Tsunade sostiene il piano difensivo.",
+    "cards": [
+      "S3_097",
+      "S3_084",
+      "S2_100",
+      "S2_091",
+      "S2_092",
+      "S2_061",
+      "S2_054",
+      "S1_070",
+      "S1_010",
+      "S3_077"
+    ],
+    "cover": "S2_100"
+  },
+  {
+    "id": "47",
+    "name": "Deck",
+    "author": "Sabo",
+    "description": "Proteggi Naruto Uzumaki (La Furia di Kyubi) usando Homura Mitokado, poi alimentalo con i ritiri di Kiba Inuzuka, Akamaru e delle unità di Student Trio. Ino Yamanaka controlla temporaneamente il rivale più importante nel medio raggio, mentre Gaara (Tsunami di sabbia) agisce sul resto del campo. Kotetsu Hagane ridistribuisce gli alleati con Cambi corsia casuali.",
+    "cards": [
+      "S1_078",
+      "S3_094",
+      "S2_091",
+      "S1_070",
+      "S2_058",
+      "S1_033",
+      "S1_034",
+      "S2_016",
+      "S2_036",
+      "S2_028"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "48",
+    "name": "Control",
+    "author": "Louis",
+    "description": "Usa Kakashi Hatake (Caposquadra) a sostegno di Choji Akimichi, soprattutto quando Choji conserva ancora Difesa. Prepara Homura Mitokado prima di Neji Hyuga (Sessantaquattro Palmi) per facilitarne gli scontri favorevoli; Neji Hyuga (Byakugan) serve invece contro i rivali molto potenziati. Contro Concentrazione, cerca di rimuovere Shikamaru Nara con gli Indebolimenti disponibili prima che il suo supporto moltiplichi il Chakra avversario.",
+    "cards": [
+      "S1_010",
+      "S1_081",
+      "S2_054",
+      "S2_091",
+      "S2_092",
+      "S3_097",
+      "S2_061",
+      "S3_093",
+      "S2_036",
+      "S2_095"
+    ],
+    "cover": "S2_095"
+  },
+  {
+    "id": "49",
+    "name": "Simo BP Raikiri",
+    "author": null,
+    "description": "Mantieni Kakashi Hatake (Piano di Battaglia) attivo e usa Kakashi Hatake per colpire una minaccia ignorandone Difesa. Kakashi Hatake (Caposquadra) fornisce Chakra agli alleati di corsia nel corto raggio. Amachi e gli altri Indebolimenti economici coprono le prime risposte; conserva Hiruzen Sarutobi e Neji Hyuga (Byakugan) per sostenere Piano di Battaglia quando avanza, compensando l'assenza di Tobirama.",
+    "cards": [
+      "S1_082",
+      "S2_054",
+      "S3_077",
+      "S3_030",
+      "S1_081",
+      "S2_097",
+      "S2_095",
+      "S3_058",
+      "S1_010",
+      "S1_070"
+    ],
+    "cover": "S1_082"
+  },
+  {
+    "id": "50",
+    "name": "Doki e cloni",
+    "author": null,
+    "description": "Schiera Tayuya prima delle Evocazioni e usa le carte da Costo 1 per tornare rapidamente ai generatori di unità. I cloni delle due versioni di Naruto Uzumaki e la Squadra Speciale Anbu di Koharu Utatane ricevono il suo bonus Chakra. Completare la Concentrazione di Tayuya aggiunge Doki sulle tre corsie; Gaara e Jiraiya (Lanciafiamme dell'olio di rospo) permettono di riprendere controllo mentre sviluppi lo sciame.",
+    "cards": [
+      "S1_003",
+      "S1_034",
+      "S2_014",
+      "S2_004",
+      "S3_011",
+      "S2_037",
+      "S1_077",
+      "S3_099",
+      "S3_094",
+      "S3_084"
+    ],
+    "cover": "S3_099"
+  },
+  {
+    "id": "51",
+    "name": "Furia dell’Edo",
+    "author": null,
+    "description": "Schiera Naruto Uzumaki (La Furia di Kyubi) prima dei sacrifici. Porta Student Trio (Squadra Konohamaru) e un secondo alleato tra le due carte alleate con meno Chakra, entrambe a 2 Chakra o meno. Gioca Orochimaru (Edo Tensei) mentre Hashirama Senju è ancora nel mazzo. I ritiri attivano l’Evocazione e danno Chakra e Scatto a Naruto. Il trio ridistribuisce i tre studenti sulle corsie e i loro ritiri successivi alimentano di nuovo Naruto. Kiba Inuzuka (Migliore Amico) può Evocare Akamaru per fare pressione a basso costo, mentre Kiba Inuzuka (Combinazione di trasformazione) offre un secondo modo per innescare i ritiri.",
+    "cards": [
+      "S1_033",
+      "S1_034",
+      "S1_078",
+      "S2_016",
+      "S2_091",
+      "S3_079",
+      "S2_036",
+      "S2_068",
+      "S2_086",
+      "S2_088"
+    ],
+    "cover": "S2_086"
+  },
+  {
+    "id": "52",
+    "name": "Vento e fuoco",
+    "author": "Kebon",
+    "description": "Fai ruotare presto Naruto Uzumaki (Volontà di Proteggere) per aumentare il suo Chakra base a ogni ritiro. Usa Ichibi (Proiettili d'aria) contro i gruppi a lungo raggio e tieni Sasuke Uchiha (Palla di Fuoco) per chi è già a medio raggio. Fai avanzare Orochimaru (Tradimento) nella corsia contesa e usa Neji Hyuga (Byakugan) per dimezzare il difensore quando Orochimaru diventa vulnerabile.",
+    "cards": [
+      "S1_010",
+      "S3_097",
+      "S2_091",
+      "S2_092",
+      "S2_084",
+      "S3_062",
+      "S2_061",
+      "S2_054",
+      "S1_081",
+      "S2_099"
+    ],
+    "cover": "S2_091"
+  },
+  {
+    "id": "53",
+    "name": "Pressione a medio raggio",
+    "author": "max5",
+    "description": "Schiera Gaara (Pericoloso) dove c’è già un avversario a medio raggio per ottenere il bonus Chakra. Usa Naruto Uzumaki (Rasengan della volpe demoniaca) contro un difensore per rimuoverne la Difesa e aprire la corsia. Fai avanzare Orochimaru (Tradimento) nella corsia contesa e usa Neji Hyuga (Byakugan) per dimezzare il difensore quando Orochimaru diventa vulnerabile. Fai ruotare presto Naruto Uzumaki (Volontà di Proteggere) per aumentare il suo Chakra base a ogni ritiro.",
+    "cards": [
+      "S2_091",
+      "S2_092",
+      "S2_010",
+      "S3_092",
+      "S2_084",
+      "S2_054",
+      "S2_061",
+      "S1_081",
+      "S2_099",
+      "S3_097"
+    ],
+    "cover": "S2_010"
+  },
+  {
+    "id": "54",
+    "name": "Controllo delle corsie",
+    "author": "Tobi",
+    "description": "Fai ruotare presto Naruto Uzumaki (Volontà di Proteggere) per aumentare il suo Chakra base a ogni ritiro. Tieni Kakashi Hatake (Esplosione Acquatica) per quando più avversari occupano la stessa corsia, poi respingili e indeboliscili insieme. Naruto Uzumaki (Volontà di Proteggere) può avanzare nello spazio guadagnato. Metti Tsunade (Cura disperata) vicino all’alleato da sostenere e riserva Tsunade (Rigenerazione mitotica) a una corsia dove la sua prima rigenerazione può ribaltare più scontri.",
+    "cards": [
+      "S1_010",
+      "S2_091",
+      "S2_092",
+      "S2_010",
+      "S3_062",
+      "S2_054",
+      "S1_081",
+      "S1_069",
+      "S2_099",
+      "S3_097"
+    ],
+    "cover": "S2_091"
+  },
+  {
+    "id": "55",
+    "name": "Assorbimento e scaglie",
+    "author": "Pluto",
+    "description": "Metti Seimei (Forma definitiva) nella corsia della minaccia principale. Blocco e Assorbimento ripetuto la tengono ferma mentre sviluppi le altre corsie. Gioca Hoki (Formazione a scaglie inverse) quando i tuoi alleati raggiungono 5 Chakra totali in ciascuna corsia. Sfrutta il suo Indebolimento quando vale la perdita di 2 Chakra per ogni alleato. Tieni Kakashi Hatake (Raikiri) per colpire attraverso la Difesa e Temari (Ventaglio gigante) per respingere gli avversari in una corsia affollata.",
+    "cards": [
+      "S1_010",
+      "S2_091",
+      "S2_061",
+      "S2_054",
+      "S1_081",
+      "S1_070",
+      "SR_002",
+      "SR_004",
+      "S3_084",
+      "S1_045"
+    ],
+    "cover": "SR_002"
+  },
+  {
+    "id": "56",
+    "name": "Furia e Doki",
+    "author": "KaKAO",
+    "description": "Tieni Naruto Uzumaki (La Furia di Kyubi) attivo prima dei ritiri alleati per dargli Chakra e Scatto a ogni ritiro. Fai evocare Akamaru (Impazienza) da Kiba Inuzuka (Migliore Amico), poi schiera Kiba Inuzuka (Combinazione di trasformazione) per ritirarli entrambi, trasferire il loro Chakra e potenziare ancora Naruto. Usa Student Trio (Squadra Konohamaru) per ripopolare le corsie al ritiro. Dai a Tayuya (Evocazione dei Doki) il tempo di completare la Concentrazione e schierare Doki su tutte e tre.",
+    "cards": [
+      "S3_099",
+      "S3_094",
+      "S2_036",
+      "S2_061",
+      "S2_016",
+      "S1_033",
+      "S1_034",
+      "S3_079",
+      "S1_078",
+      "S2_091"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "57",
+    "name": "Contrattacco",
+    "author": "Feli4",
+    "description": "Schiera Gaara (Pericoloso) dove c’è già un avversario a medio raggio per ottenere il bonus Chakra. Usa Naruto Uzumaki (Rasengan della volpe demoniaca) contro un difensore per rimuoverne la Difesa e aprire la corsia. Usa Ichibi (Proiettili d'aria) contro i gruppi a lungo raggio e tieni Sasuke Uchiha (Palla di Fuoco) per chi è già a medio raggio. Fai ruotare presto Naruto Uzumaki (Volontà di Proteggere) per aumentare il suo Chakra base a ogni ritiro.",
+    "cards": [
+      "S2_091",
+      "S1_081",
+      "S2_099",
+      "S3_092",
+      "S3_097",
+      "S2_010",
+      "S1_010",
+      "S2_054",
+      "S2_092",
+      "S2_061"
+    ],
+    "cover": "S2_010"
+  },
+  {
+    "id": "58",
+    "name": "Catena di concentrazione",
+    "author": "Tobi",
+    "description": "Schiera Shikamaru Nara (Maestro di Shogi) prima delle carte con Concentrazione. Rock Lee (Pugno barcollante) e Kidomaru (Arco del ragno) guadagnano così Chakra quando iniziano a concentrarsi. Tieni Itachi Uchiha (Compostezza) attivo per sfruttare ogni Concentrazione. Usa Temari (Ventaglio gigante) per guadagnare spazio mentre Raiga Kurosuki (Tornado del drago del tuono) o Jiraiya (Lanciafiamme dell'olio di rospo) prepara un effetto più forte.",
+    "cards": [
+      "S2_078",
+      "S3_056",
+      "S2_099",
+      "S3_090",
+      "S3_084",
+      "S3_080",
+      "S2_036",
+      "S2_061",
+      "S3_086",
+      "S2_058"
+    ],
+    "cover": "S2_078"
+  },
+  {
+    "id": "59",
+    "name": "Difesa alata",
+    "author": "Arrow",
+    "description": "Tieni Neji Hyuga (Byakugan) per la carta con più Chakra dell’avversario e usa Tsunade (Rigenerazione mitotica) per tenere la corsia più contesa. Per la spinta decisiva, gioca Kyubi (Destini Incrociati) subito prima di Sasuke Uchiha (Difesa alata). Proteggili entrambi finché Sasuke sfrutta il bonus, perché il ritiro di uno ritira anche l’altro. Usa Jiraiya (Lanciafiamme dell'olio di rospo) per logorare più corsie insieme. Tieni Kakashi Hatake (Raikiri) per un avversario con Difesa che resiste alla pressione.",
+    "cards": [
+      "S1_010",
+      "S1_070",
+      "S2_054",
+      "S2_058",
+      "S2_091",
+      "S2_092",
+      "S2_100",
+      "S3_077",
+      "S3_084",
+      "S3_097"
+    ],
+    "cover": "S2_054"
+  },
+  {
+    "id": "60",
+    "name": "Squadra Hyuga",
+    "author": "Nate",
+    "description": "Tieni Hiashi Hyuga (Capo degli Hyuga) attivo per dare Chakra e Spinta agli Hyuga. Hizashi Hyuga (Sacrificio del Fratello) può ritirarsi al suo posto quando Hiashi sta per cedere. Sfrutta il bonus Chakra con Neji Hyuga (Destino infelice) per ottenere un guadagno extra. Dimezza un bersaglio forte con Neji Hyuga (Byakugan) e fallo ritirare con Neji Hyuga (Sessantaquattro Palmi) per ridurgli il Chakra base in modo permanente.",
+    "cards": [
+      "S2_022",
+      "S2_023",
+      "S2_095",
+      "S2_076",
+      "S2_054",
+      "S2_055",
+      "S2_021",
+      "S1_032",
+      "S2_007",
+      "S3_006"
+    ],
+    "cover": "S2_022"
+  },
+  {
+    "id": "61",
+    "name": "Edo del Suono",
+    "author": "Nate",
+    "description": "Usa alleati con poco Chakra come Kaiza (Martirio) per i sacrifici di Orochimaru (Edo Tensei). Lascia Hashirama Senju (Resurrezione di Edo) e Tobirama Senju (Resurrezione di Edo) nel mazzo per evocarli con Scatto quando gli alleati si ritirano. Schiera Tayuya (Nord) o Jirobo (Sud) prima dell’Orochimaru da potenziare. Orochimaru (Esperienza) è il bersaglio più economico mentre prepari le Evocazioni.",
+    "cards": [
+      "S2_086",
+      "S2_068",
+      "S2_069",
+      "S3_059",
+      "S2_049",
+      "S2_046",
+      "S2_047",
+      "S2_048",
+      "S1_021",
+      "S1_019"
+    ],
+    "cover": "S2_086"
+  },
+  {
+    "id": "62",
+    "name": "Quinta porta",
+    "author": "Arrow 1",
+    "description": "Gioca Homura Mitokado (Rassicurazione) subito prima di Rock Lee (Quinta Porta) e lascia spazio a Rock Lee per completare la Concentrazione. Asuma Sarutobi (Corpo a Corpo) può affrontare un rivale più forte e guadagnare Chakra allo scontro. Usa Sasuke Uchiha (Segno maledetto) in una corsia con scontri successivi, così può accumulare Chakra a ogni scambio. Fai ruotare presto Naruto Uzumaki (Volontà di Proteggere) per aumentare il suo Chakra base a ogni ritiro.",
+    "cards": [
+      "S1_010",
+      "S1_030",
+      "S1_070",
+      "S1_081",
+      "S2_036",
+      "S2_061",
+      "S2_091",
+      "S2_092",
+      "S2_094",
+      "S3_066"
+    ],
+    "cover": "S2_036"
+  },
+  {
+    "id": "63",
+    "name": "Squadra dei rospi",
+    "author": "Pluto",
+    "description": "Usa Gama (Rotolo di Rospo) per evocare un rospo e schierane altri prima di Gamahiro (Peso), che guadagna Chakra per ognuno. Prepara Gamatatsu (Fame motivante) quando hai energia per pagare le sue attivazioni. Tieni Gamabunta (Cooperazione del Rospo) attivo quando Temari (Ventaglio gigante) respinge una corsia o Choji Akimichi (Proiettile umano) respinge durante lo Scatto. Le Spinte alleate fanno guadagnare Chakra a Gamabunta.",
+    "cards": [
+      "S1_076",
+      "S2_032",
+      "S2_073",
+      "S3_035",
+      "S2_091",
+      "S1_070",
+      "S3_039",
+      "S2_057",
+      "S2_061",
+      "S3_069"
+    ],
+    "cover": "S1_076"
+  },
+  {
+    "id": "64",
+    "name": "Controllo a distanza",
+    "author": "max5",
+    "description": "Usa Sakura Haruno (Lancio del Kunai) per colpire un rivale a lungo raggio e Ichibi (Proiettili d'aria) per indebolire un gruppo prima che si avvicini. Tieni Kakashi Hatake (Esplosione Acquatica) per quando più avversari occupano la stessa corsia, poi respingili e indeboliscili insieme. Naruto Uzumaki (Volontà di Proteggere) può avanzare nello spazio guadagnato. Metti Tsunade (Cura disperata) vicino all’alleato da sostenere e riserva Tsunade (Rigenerazione mitotica) a una corsia dove la sua prima rigenerazione può ribaltare più scontri.",
+    "cards": [
+      "S1_006",
+      "S2_092",
+      "S2_091",
+      "S1_070",
+      "S1_069",
+      "S3_097",
+      "S1_081",
+      "S3_062",
+      "S2_099",
+      "S1_010"
+    ],
+    "cover": "S1_006"
+  },
+  {
+    "id": "65",
+    "name": "Legame di Kyubi",
+    "author": "Arrow",
+    "description": "Per la spinta decisiva, gioca Kyubi (Destini Incrociati) subito prima di Sasuke Uchiha (Difesa alata). Proteggili entrambi finché Sasuke sfrutta il bonus, perché il ritiro di uno ritira anche l’altro. Tieni Kakashi Hatake (Esplosione Acquatica) per quando più avversari occupano la stessa corsia, poi respingili e indeboliscili insieme. Naruto Uzumaki (Volontà di Proteggere) può avanzare nello spazio guadagnato. Usa Jiraiya (Lanciafiamme dell'olio di rospo) per logorare più corsie insieme. Tieni Kakashi Hatake (Raikiri) per un avversario con Difesa che resiste alla pressione.",
+    "cards": [
+      "S2_100",
+      "S3_077",
+      "S2_091",
+      "S2_092",
+      "S1_070",
+      "S3_061",
+      "S2_061",
+      "S1_081",
+      "S1_069",
+      "S3_084"
+    ],
+    "cover": "S2_100"
+  },
+  {
+    "id": "66",
+    "name": "Edo e Tsukuyomi",
+    "author": "Rostin",
+    "description": "Metti Student Trio (Squadra Konohamaru) tra gli alleati più deboli prima di schierare Orochimaru (Edo Tensei). Se si ritira, i tre studenti tornano sulle tre corsie. Schiera Itachi Uchiha (Esercito dello Tsukuyomi) prima che Hashirama Senju (Crescita rigogliosa) blocchi il campo avversario, così il Blocco può generare cloni al costo di Chakra per Itachi. Prosegui con Tobirama Senju (Onda violenta) per indebolire e rallentare il campo avversario. Temari (Ventaglio gigante) respinge una corsia affollata e le attivazioni della Difesa alleata danno Chakra a Sakon & Ukon (Difesa sincronizzata).",
+    "cards": [
+      "S2_086",
+      "S2_016",
+      "S2_087",
+      "S2_088",
+      "S3_082",
+      "S2_092",
+      "S1_070",
+      "S3_098",
+      "S2_061",
+      "S3_069"
+    ],
+    "cover": "S2_086"
+  },
+  {
+    "id": "67",
+    "name": "Marchio e Difesa",
+    "author": "Zack",
+    "description": "Gioca Mikoto Uchiha (Conforto) prima di Sasuke Uchiha (Difesa alata) o Sasuke Uchiha (Previsione evoluta) per potenziare quel Sasuke e curarlo la prima volta che scende sotto il Chakra base. Per la spinta decisiva, gioca Kyubi (Destini Incrociati) subito prima di Sasuke Uchiha (Difesa alata). Proteggili entrambi finché Sasuke sfrutta il bonus, perché il ritiro di uno ritira anche l’altro. Usa Kimimaro (Lealtà incrollabile) per chiudere in autonomia. Prima di uno scontro che può farlo ritirare, valuta l’Indebolimento che colpirebbe anche gli alleati fragili.",
+    "cards": [
+      "S3_039",
+      "S3_092",
+      "S3_076",
+      "S3_077",
+      "S3_043",
+      "S1_070",
+      "S2_061",
+      "S2_100",
+      "S3_100",
+      "S3_062"
+    ],
+    "cover": "S3_043"
+  },
+  {
+    "id": "68",
+    "name": "Vecchi amici",
+    "author": "Louis",
+    "description": "Tieni Enma (Re Scimmia) attivo prima dei cambi di corsia di Iruka Umino (Testa Quadra) o Kotetsu Hagane (Depistaggio), così la carta che cambia guadagna Chakra. Lascia che Sakura Haruno (Inflessibile) pari i colpi con la Difesa per attivare il Cambio. Usa Kotetsu Hagane (Depistaggio) quando puoi gestire le corsie casuali e il Rallentamento. Tieni Choza Akimichi (Vecchi Amici), Inoichi Yamanaka (Vecchi Amici) e Shikaku Nara (Vecchi Amici) attivi insieme per sostenere le corsie con i loro bonus Chakra reciproci.",
+    "cards": [
+      "S1_051",
+      "S1_075",
+      "S2_093",
+      "S2_090",
+      "S2_028",
+      "S1_022",
+      "S2_061",
+      "S2_020",
+      "S2_019",
+      "S2_018"
+    ],
+    "cover": "S2_090"
+  },
+  {
+    "id": "69",
+    "name": "Furia in movimento",
+    "author": "Dezed",
+    "description": "Tieni Naruto Uzumaki (La Furia di Kyubi) attivo prima dei ritiri alleati per dargli Chakra e Scatto a ogni ritiro. Fai evocare Akamaru (Impazienza) da Kiba Inuzuka (Migliore Amico), poi schiera Kiba Inuzuka (Combinazione di trasformazione) per ritirarli entrambi, trasferire il loro Chakra e potenziare ancora Naruto. Tieni Enma (Re Scimmia) attivo prima dei cambi di corsia di Iruka Umino (Testa Quadra) o Kotetsu Hagane (Depistaggio), così la carta che cambia guadagna Chakra.",
+    "cards": [
+      "S2_036",
+      "S1_051",
+      "S2_090",
+      "S2_091",
+      "S1_033",
+      "S1_034",
+      "S3_079",
+      "S1_078",
+      "S2_061",
+      "S2_028"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "70",
+    "name": "Amaterasu",
+    "author": "Markline",
+    "description": "Tieni Enma (Re Scimmia) attivo mentre Iruka Umino (Testa Quadra) cambia corsia per guadagnare Chakra. Fai usare a Haku (Specchi di Ghiaccio) il suo effetto allo scontro, poi sfrutta il Chakra del Cambio per riattivarlo. Manda Itachi Uchiha (Fuga da Amaterasu) verso una corsia dove la Bruciatura può propagarsi. Quando un rivale cambia corsia, seguilo con Orochimaru (Kusanagi) per ottenere Difesa e tenerlo sotto pressione. Tieni Kakashi Hatake (Raikiri) per colpire attraverso la Difesa e Temari (Ventaglio gigante) per respingere gli avversari in una corsia affollata.",
+    "cards": [
+      "S2_036",
+      "S3_083",
+      "S2_085",
+      "S1_075",
+      "S1_051",
+      "S2_090",
+      "S1_070",
+      "S2_061",
+      "S1_079",
+      "S3_069"
+    ],
+    "cover": "S2_090"
+  },
+  {
+    "id": "71",
+    "name": "Drago e foresta",
+    "author": "Broly",
+    "description": "Schiera Itachi Uchiha (Esercito dello Tsukuyomi) prima che Hashirama Senju (Crescita rigogliosa) blocchi il campo avversario, così il Blocco può generare cloni al costo di Chakra per Itachi. Usa Akahoshi (Drago della stella) per bloccare un gruppo e creare altri cloni, e Sakon & Ukon (Fusione maledetta) per bloccare e consumare Chakra a un rivale dopo essersi teletrasportati alle sue spalle. Tieni Kakashi Hatake (Esplosione Acquatica) per quando più avversari occupano la stessa corsia, poi respingili e indeboliscili insieme. Naruto Uzumaki (Volontà di Proteggere) può avanzare nello spazio guadagnato.",
+    "cards": [
+      "S1_069",
+      "S1_070",
+      "S2_091",
+      "S2_092",
+      "S2_054",
+      "S3_069",
+      "S3_082",
+      "S2_087",
+      "S3_067",
+      "S3_089"
+    ],
+    "cover": "S3_082"
+  },
+  {
+    "id": "72",
+    "name": "Specchi e nebbia",
+    "author": "Pluto",
+    "description": "Tieni Enma (Re Scimmia) attivo mentre Iruka Umino (Testa Quadra) cambia corsia per guadagnare Chakra. Fai usare a Haku (Specchi di Ghiaccio) il suo effetto allo scontro, poi sfrutta il Chakra del Cambio per riattivarlo. Usa Shizune (Nebbia velenosa) quando il medio raggio si affolla. La nebbia colpisce anche gli alleati, quindi lascia completare la Concentrazione a Jiraiya (Lanciafiamme dell'olio di rospo) prima di piazzarla nella sua zona. Tieni Kakashi Hatake (Raikiri) per colpire attraverso la Difesa e Temari (Ventaglio gigante) per respingere gli avversari in una corsia affollata.",
+    "cards": [
+      "S1_010",
+      "S1_075",
+      "S1_051",
+      "S2_090",
+      "S2_091",
+      "S1_070",
+      "S2_061",
+      "S1_006",
+      "S3_084",
+      "S3_069"
+    ],
+    "cover": "S1_075"
+  }
+]

@@ -1,0 +1,4898 @@
+[
+  {
+    "id": "S1_001",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Potenziale",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "La prima volta che questa carta guadagna Chakra, ottiene un ulteriore Chakra(+1).",
+      "La prima volta che questa carta guadagna Chakra, ottiene un ulteriore Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S1_002",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Addestramento",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ottiene Chakra(+2) dopo 6 secondi.",
+      "Ottiene Chakra(+3) dopo 6 secondi."
+    ]
+  },
+  {
+    "id": "S1_003",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Moltiplicazione superiore del corpo",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Evocazione"
+    ],
+    "descriptions": [
+      "Evoca 1 clone su un'altra corsia con Chakra(1).",
+      "Evoca 1 clone su un'altra corsia con Chakra(2)."
+    ]
+  },
+  {
+    "id": "S1_004",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Giuramento",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ottiene Chakra(+1) dopo uno scontro vinto.",
+      "Ottiene Chakra(+2) dopo uno scontro vinto."
+    ]
+  },
+  {
+    "id": "S1_005",
+    "season": 1,
+    "name": "SASUKE UCHIHA",
+    "ability": "Padronanza del Kunai",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "In caso di scontro, Indebolisce(2) la carta avversaria.",
+      "In caso di scontro, Indebolisce(3) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S1_006",
+    "season": 1,
+    "name": "SAKURA HARUNO",
+    "ability": "Lancio del Kunai",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(2) un avversario di corsia casuale nel lungo raggio.",
+      "Quando viene giocata, Indebolisce(3) un avversario di corsia casuale nel lungo raggio."
+    ]
+  },
+  {
+    "id": "S1_007",
+    "season": 1,
+    "name": "SAKURA HARUNO",
+    "ability": "Equilibrio dei Chakra",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando gli alleati di corsia vincono uno scontro, fornisce loro Chakra(+1) e si Blocca(3s).",
+      "Quando gli alleati di corsia vincono uno scontro, fornisce loro Chakra(+1) e si Blocca(5s)."
+    ]
+  },
+  {
+    "id": "S1_008",
+    "season": 1,
+    "name": "SAKURA HARUNO",
+    "ability": "Calcio Rotante",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Spinta",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "In caso di scontro, Respinge(1) e Indebolisce(1) la carta avversaria.",
+      "In caso di scontro, Respinge(2) e Indebolisce(1) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S1_009",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(5s)",
+      "Scatta(6s)"
+    ]
+  },
+  {
+    "id": "S1_010",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Caposquadra",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "In caso di scontro, fornisce Chakra(+2) a un alleato di corsia nel corto raggio.",
+      "In caso di scontro, fornisce Chakra(+3) a un alleato di corsia nel corto raggio."
+    ]
+  },
+  {
+    "id": "S1_011",
+    "season": 1,
+    "name": "IRUKA UMINO",
+    "ability": "Sensei",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Fornisce Chakra(+2) al prossimo alleato schierato.",
+      "Fornisce Chakra(+3) al prossimo alleato schierato."
+    ]
+  },
+  {
+    "id": "S1_012",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Ingresso Minaccioso",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Rallentamento",
+      "Cambio",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Viene schierata nel medio raggio, Rallenta(4s) e Cambia corsia all'avversario con più Chakra della propria corsia.",
+      "Viene schierata nel medio raggio, Rallenta(6s) e Cambia corsia all'avversario con più Chakra della propria corsia."
+    ]
+  },
+  {
+    "id": "S1_013",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Assalto",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene schierata, Indebolisce(3) la carta avversaria più vicina sulla corsia.",
+      "Quando viene schierata, Indebolisce(4) la carta avversaria più vicina sulla corsia."
+    ]
+  },
+  {
+    "id": "S1_014",
+    "season": 1,
+    "name": "HAKU",
+    "ability": "Aghi",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(6s) l'avversario di corsia più vicino.",
+      "Quando viene giocata, Blocca(7s) l'avversario di corsia più vicino."
+    ]
+  },
+  {
+    "id": "S1_015",
+    "season": 1,
+    "name": "KONOHAMARU SARUTOBI",
+    "ability": "Lancio dello Shuriken",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(1) un avversario di corsia casuale nel corto raggio.",
+      "Quando viene giocata, Indebolisce(2) un avversario di corsia casuale nel corto raggio."
+    ]
+  },
+  {
+    "id": "S1_016",
+    "season": 1,
+    "name": "EBISU",
+    "ability": "Insegnamento Lampo",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, fornisce Chakra(+2) all'alleato di corsia più vicino.",
+      "Quando viene giocata, fornisce Chakra(+3) all'alleato di corsia più vicino."
+    ]
+  },
+  {
+    "id": "S1_017",
+    "season": 1,
+    "name": "TAZUNA",
+    "ability": "Punto di Raccordo",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [],
+    "descriptions": [
+      "Quando viene giocata, richiama 2 alleati di corsia nel medio raggio su questa carta.",
+      "Quando viene giocata, richiama 3 alleati di corsia nel medio raggio su questa carta."
+    ]
+  },
+  {
+    "id": "S1_018",
+    "season": 1,
+    "name": "INARI",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(2s)",
+      "Scatta(3s)"
+    ]
+  },
+  {
+    "id": "S1_019",
+    "season": 1,
+    "name": "KAIZA",
+    "ability": "Martirio",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Al ritiro, fornisce Chakra(+1) agli alleati di corsia.",
+      "Al ritiro, fornisce Chakra(+2) agli alleati di corsia."
+    ]
+  },
+  {
+    "id": "S1_020",
+    "season": 1,
+    "name": "MIZUKI TOJI",
+    "ability": "Intento Nascosto",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(2) un alleato casuale della corsia e Chakra(+3) per questa carta.",
+      "Quando viene giocata, Indebolisce(2) un alleato casuale della corsia e Chakra(+4) per questa carta."
+    ]
+  },
+  {
+    "id": "S1_021",
+    "season": 1,
+    "name": "MIZUKI TOJI",
+    "ability": "Preda Facile",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Al ritiro, fornisce Chakra(+1) a 3 alleati casuali.",
+      "Al ritiro, fornisce Chakra(+2) a 3 alleati casuali."
+    ]
+  },
+  {
+    "id": "S1_022",
+    "season": 1,
+    "name": "MADAME SHIJIMI",
+    "ability": "Salvataggio del Gatto",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, fornisce Chakra(+1) e Rallentamento(3s) a 3 alleati di corsia nel corto raggio.",
+      "Quando viene giocata, fornisce Chakra(+2) e Rallentamento(3s) a 3 alleati di corsia nel corto raggio."
+    ]
+  },
+  {
+    "id": "S1_023",
+    "season": 1,
+    "name": "GOZU",
+    "ability": "Agguato",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento",
+      "Teletrasporto"
+    ],
+    "descriptions": [
+      "In caso di scontro, Indebolisce(1) la carta avversaria e si Teletrasporta alle sue spalle.",
+      "In caso di scontro, Indebolisce(2) la carta avversaria e si Teletrasporta alle sue spalle."
+    ]
+  },
+  {
+    "id": "S1_024",
+    "season": 1,
+    "name": "TSUNAMI",
+    "ability": "Ospitalità",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, fornisce Chakra(+1) agli alleati di corsia (bersagli: 2).",
+      "Quando viene giocata, fornisce Chakra(+1) agli alleati di corsia (bersagli: 3)."
+    ]
+  },
+  {
+    "id": "S1_025",
+    "season": 1,
+    "name": "WARAJI",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(3s)",
+      "Scatta(4s)"
+    ]
+  },
+  {
+    "id": "S1_026",
+    "season": 1,
+    "name": "ZORI",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(3s)",
+      "Scatta(4s)"
+    ]
+  },
+  {
+    "id": "S1_027",
+    "season": 1,
+    "name": "INO YAMANAKA",
+    "ability": "Fascino",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Quando viene giocata, fornisce Chakra(+1) all'alleato più vicino nel corto raggio e lo Respinge nel medio raggio.",
+      "Quando viene giocata, fornisce Chakra(+2) all'alleato più vicino nel corto raggio e lo Respinge nel medio raggio."
+    ]
+  },
+  {
+    "id": "S1_028",
+    "season": 1,
+    "name": "SHIKAMARU NARA",
+    "ability": "Strangolamento dell'Ombra",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(10s) se stessa e la carta avversaria di corsia più vicina.",
+      "Quando viene giocata, Blocca(12s) se stessa e la carta avversaria di corsia più vicina."
+    ]
+  },
+  {
+    "id": "S1_029",
+    "season": 1,
+    "name": "CHOJI AKIMICHI",
+    "ability": "Forza",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 2,
+    "effects": [
+      "Spinta"
+    ],
+    "descriptions": [
+      "In caso di scontro, Respinge(1) la carta avversaria.",
+      "In caso di scontro, Respinge(2) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S1_030",
+    "season": 1,
+    "name": "ASUMA SARUTOBI",
+    "ability": "Corpo a Corpo",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "In caso di scontro, ottiene Chakra(+3) se la carta avversaria ha un Chakra più alto.",
+      "In caso di scontro, ottiene Chakra(+4) se la carta avversaria ha un Chakra più alto."
+    ]
+  },
+  {
+    "id": "S1_031",
+    "season": 1,
+    "name": "HINATA HYUGA",
+    "ability": "Timidezza",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Spinta"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Respinge(2) la carta di corsia dell'avversario più vicino nel corto raggio.",
+      "Quando viene giocata, Respinge(3) la carta di corsia dell'avversario più vicino nel corto raggio."
+    ]
+  },
+  {
+    "id": "S1_032",
+    "season": 1,
+    "name": "HINATA HYUGA",
+    "ability": "Pugno Gentile",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 2,
+    "effects": [
+      "Spinta"
+    ],
+    "descriptions": [
+      "Al primo scontro, Respinge(1) solo l'avversario incontrato, se ha Chakra inferiore o uguale a 3.",
+      "Al primo scontro, Respinge(2) solo l'avversario incontrato, se ha Chakra inferiore o uguale a 3."
+    ]
+  },
+  {
+    "id": "S1_033",
+    "season": 1,
+    "name": "KIBA INUZUKA",
+    "ability": "Migliore Amico",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Evocazione",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Evoca un Akamaru casuale dal tuo mazzo e dagli Chakra(+1). Se non c'è Akamaru, questa carta ottiene invece Chakra(+1).",
+      "Evoca un Akamaru casuale dal tuo mazzo e dagli Chakra(+2). Se non c'è Akamaru, questa carta ottiene invece Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S1_034",
+    "season": 1,
+    "name": "AKAMARU",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(6s)",
+      "Scatta(7s)"
+    ]
+  },
+  {
+    "id": "S1_035",
+    "season": 1,
+    "name": "SHINO ABURAME",
+    "ability": "Insetti di Chakra",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "In caso di scontro, ottiene Chakra(+2) e Indebolisce(1) la carta avversaria.",
+      "In caso di scontro, ottiene Chakra(+2) e Indebolisce(2) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S1_036",
+    "season": 1,
+    "name": "KURENAI YUHI",
+    "ability": "Finta",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Spinta",
+      "Blocco"
+    ],
+    "descriptions": [
+      "In caso di scontro, Respinge(2) e Blocca(2s) la carta avversaria.",
+      "In caso di scontro, Respinge(2) e Blocca(4s) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S1_037",
+    "season": 1,
+    "name": "PAKKUN",
+    "ability": "Fiuto Acuto",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Ignora tutte le abilità e gli scontri avversari fino a raggiungere il medio raggio. Gli alleati ottengono Scatta(+2s) quando vengono schierati su questa corsia mentre questa carta è attiva.",
+      "Ignora tutte le abilità e gli scontri avversari fino a raggiungere il medio raggio. Gli alleati ottengono Scatta(+3s) quando vengono schierati su questa corsia mentre questa carta è attiva."
+    ]
+  },
+  {
+    "id": "S1_038",
+    "season": 1,
+    "name": "AYAME",
+    "ability": "Pasto Fresco",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, fornisce Chakra(+2) a 2 alleati di corsia nel medio raggio.",
+      "Quando viene giocata, fornisce Chakra(+2) a 3 alleati di corsia nel medio raggio."
+    ]
+  },
+  {
+    "id": "S1_039",
+    "season": 1,
+    "name": "MOEGI KAZAMATSURI",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(2s)",
+      "Scatta(3s)"
+    ]
+  },
+  {
+    "id": "S1_040",
+    "season": 1,
+    "name": "UDON ISE",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(2s)",
+      "Scatta(3s)"
+    ]
+  },
+  {
+    "id": "S1_041",
+    "season": 1,
+    "name": "Truppe ninja",
+    "ability": "Avanguardia",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Scatta(2s). Al ritiro, fornisce Chakra(+3) all'ultimo alleato schierato.",
+      "Scatta(3s). Al ritiro, fornisce Chakra(+3) all'ultimo alleato schierato."
+    ]
+  },
+  {
+    "id": "S1_042",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Innocenza",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Al ritiro, Indebolisce(3) la carta avversaria.",
+      "Al ritiro, Indebolisce(4) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S1_043",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Beffa",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Rallenta(10s) tutte le carte sulla corsia.",
+      "Quando viene giocata, Rallenta(12s) tutte le carte sulla corsia."
+    ]
+  },
+  {
+    "id": "S1_044",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Tecnica dell'Erotismo",
+    "rarity": "Rare",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(4s) una carta avversaria di corsia nel medio raggio.",
+      "Quando viene giocata, Blocca(5s) una carta avversaria di corsia nel medio raggio."
+    ]
+  },
+  {
+    "id": "S1_045",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Solitudine",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, ottiene Chakra(+3) e Rallenta(6s) se non sono presenti alleati in corsia.",
+      "Quando viene giocata, ottiene Chakra(+4) e Rallenta(6s) se non sono presenti alleati in corsia."
+    ]
+  },
+  {
+    "id": "S1_046",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Promozione",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ottiene Chakra(+1) per ogni alleato di corsia nel corto raggio.",
+      "Ottiene Chakra(+2) per ogni alleato di corsia nel corto raggio."
+    ]
+  },
+  {
+    "id": "S1_047",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Tecnica della Trasformazione",
+    "rarity": "Rare",
+    "cost": 1,
+    "chakra": 2,
+    "effects": [],
+    "descriptions": [
+      "Quando viene giocata, assume l'aspetto di un'altra carta dal tuo mazzo con Costo fino a 3. Torna all'aspetto originale allo scontro o quando viene Indebolita.",
+      "Quando viene giocata, assume l'aspetto di un'altra carta dal tuo mazzo con Costo fino a 4. Torna all'aspetto originale allo scontro o quando viene Indebolita."
+    ]
+  },
+  {
+    "id": "S1_048",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Astuzia",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Blocco",
+      "Teletrasporto"
+    ],
+    "descriptions": [
+      "In caso di scontro, Blocca(4s) la carta avversaria e si Teletrasporta alle sue spalle.",
+      "In caso di scontro, Blocca(6s) la carta avversaria e si Teletrasporta alle sue spalle."
+    ]
+  },
+  {
+    "id": "S1_049",
+    "season": 1,
+    "name": "SASUKE UCHIHA",
+    "ability": "Proiezione",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Blocco",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Il prossimo alleato viene schierato a media distanza. Applica Blocco(4s) a un avversario casuale della corsia a media distanza e gli fa Cambiare corsia.",
+      "Il prossimo alleato viene schierato a media distanza. Applica Blocco(8s) a un avversario casuale della corsia a media distanza e gli fa Cambiare corsia."
+    ]
+  },
+  {
+    "id": "S1_050",
+    "season": 1,
+    "name": "HIRUZEN SARUTOBI",
+    "ability": "Tecnica della Chiaroveggenza",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Quando gli alleati ottengono Scatto, applica loro Chakra(+1) e Scatto(+1s).",
+      "Quando gli alleati ottengono Scatto, applica loro Chakra(+1) e Scatto(+2s)."
+    ]
+  },
+  {
+    "id": "S1_051",
+    "season": 1,
+    "name": "IRUKA UMINO",
+    "ability": "Testa Quadra",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Cambio"
+    ],
+    "descriptions": [
+      "Cambia corsia casualmente ogni 8 secondi.",
+      "Cambia corsia casualmente ogni 6 secondi."
+    ]
+  },
+  {
+    "id": "S1_052",
+    "season": 1,
+    "name": "IRUKA UMINO",
+    "ability": "Sacrificio",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Viene schierata nel medio raggio e fornisce Chakra(+1) all'alleato di corsia più vicino.",
+      "Viene schierata nel medio raggio e fornisce Chakra(+2) all'alleato di corsia più vicino."
+    ]
+  },
+  {
+    "id": "S1_053",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Velo di Nebbia",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Blocco",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(6s) e Indebolisce(1) tutti gli avversari della propria corsia nel corto raggio.",
+      "Quando viene giocata, Blocca(6s) e Indebolisce(2) tutti gli avversari della propria corsia nel corto raggio."
+    ]
+  },
+  {
+    "id": "S1_054",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Collasso",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ottiene Chakra(+3) la prima volta che un alleato di corsia si ritira.",
+      "Ottiene Chakra(+4) la prima volta che un alleato di corsia si ritira."
+    ]
+  },
+  {
+    "id": "S1_055",
+    "season": 1,
+    "name": "KONOHAMARU SARUTOBI",
+    "ability": "Tecnica Seducente Imperfetta",
+    "rarity": "Rare",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, ha il 50% di possibilità di Bloccare(6s) una carta avversaria di corsia nel medio raggio.",
+      "Quando viene giocata, ha il 50% di possibilità di Bloccare(8s) una carta avversaria di corsia nel medio raggio."
+    ]
+  },
+  {
+    "id": "S1_056",
+    "season": 1,
+    "name": "KONOHAMARU SARUTOBI",
+    "ability": "Eredità",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 1,
+    "effects": [
+      "Evocazione",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, ha il 50% di possibilità di Evocare un Hiruzen casuale dal mazzo, altrimenti ottiene Chakra(+2).",
+      "Quando viene giocata, ha il 50% di possibilità di Evocare un Hiruzen casuale dal mazzo, altrimenti ottiene Chakra(+3)."
+    ]
+  },
+  {
+    "id": "S1_057",
+    "season": 1,
+    "name": "KONOHAMARU SARUTOBI",
+    "ability": "Tecnica dell'Erotismo",
+    "rarity": "Rare",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(4s) una carta avversaria di corsia nel medio raggio.",
+      "Quando viene giocata, Blocca(5s) una carta avversaria di corsia nel medio raggio."
+    ]
+  },
+  {
+    "id": "S1_058",
+    "season": 1,
+    "name": "EBISU",
+    "ability": "Lezioni Difficili",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "I prossimi alleati schierati ottengono Chakra(+2), ma questa carta viene Indebolita(1) ogni volta.",
+      "I prossimi alleati schierati ottengono Chakra(+3), ma questa carta viene Indebolita(1) ogni volta."
+    ]
+  },
+  {
+    "id": "S1_059",
+    "season": 1,
+    "name": "INARI",
+    "ability": "In Azione",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Indebolimento",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(1) e Rallenta(6s) il primo avversario di corsia più vicino nel lungo raggio.",
+      "Quando viene giocata, Indebolisce(1) e Rallenta(8s) il primo avversario di corsia più vicino nel lungo raggio."
+    ]
+  },
+  {
+    "id": "S1_060",
+    "season": 1,
+    "name": "GATO",
+    "ability": "Capoclan del Male",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Concentrazione",
+      "Evocazione"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Concentrazione(6s). Se la Concentrazione riesce, Evoca una carta casuale con un Costo massimo di 3 dal tuo mazzo.",
+      "Quando viene giocata, Concentrazione(4s). Se la Concentrazione riesce, Evoca una carta casuale con un Costo massimo di 3 dal tuo mazzo."
+    ]
+  },
+  {
+    "id": "S1_061",
+    "season": 1,
+    "name": "Segugi ninja",
+    "ability": "Inseguimento Vorace",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(6s) sé stessa e l'avversario di corsia con più Chakra.",
+      "Quando viene giocata, Blocca(8s) sé stessa e l'avversario di corsia con più Chakra."
+    ]
+  },
+  {
+    "id": "S1_062",
+    "season": 1,
+    "name": "TEUCHI",
+    "ability": "La Via del Ramen",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+1) agli alleati nella sua corsia dopo 8 secondi.",
+      "Chakra(+2) agli alleati nella sua corsia dopo 8 secondi."
+    ]
+  },
+  {
+    "id": "S1_063",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Determinazione",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Evocazione"
+    ],
+    "descriptions": [
+      "Quando un Iruka alleato sta per ritirarsi, lo riporta all'inizio della corsia ed Evoca 3 cloni con Chakra(1) distribuiti su tutte le corsie.",
+      "Quando un Iruka alleato sta per ritirarsi, lo riporta all'inizio della corsia ed Evoca 5 cloni con Chakra(1) distribuiti su tutte le corsie."
+    ]
+  },
+  {
+    "id": "S1_064",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Esibizionismo",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ottiene Chakra(+5) dopo 10 secondi.",
+      "Ottiene Chakra(+6) dopo 10 secondi."
+    ]
+  },
+  {
+    "id": "S1_065",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Tecnica dell'Erotismo Multipla",
+    "rarity": "Epic",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Blocco",
+      "Scatto"
+    ],
+    "descriptions": [
+      "In caso di scontro, Blocca(6s) la carta avversaria, si Teletrasporta dietro di essa e Scatta(2s).",
+      "In caso di scontro, Blocca(8s) la carta avversaria, si Teletrasporta dietro di essa e Scatta(4s)."
+    ]
+  },
+  {
+    "id": "S1_066",
+    "season": 1,
+    "name": "SASUKE UCHIHA",
+    "ability": "Previsione",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [],
+    "descriptions": [
+      "Non viene Indebolita durante gli scontri con carte avversarie da 2 o meno Chakra.",
+      "Non viene Indebolita durante gli scontri con carte avversarie da 3 o meno Chakra."
+    ]
+  },
+  {
+    "id": "S1_067",
+    "season": 1,
+    "name": "SAKURA HARUNO",
+    "ability": "Fuoco Interiore",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ottiene Chakra(+3) la prima volta che un avversario viene schierato sulla stessa corsia; poi ottiene Chakra(+1) ogni volta che un avversario viene schierato su questa corsia o vi arriva con un Cambio di corsia.",
+      "Ottiene Chakra(+3) la prima volta che un avversario viene schierato sulla stessa corsia; poi ottiene Chakra(+2) ogni volta che un avversario viene schierato su questa corsia o vi arriva con un Cambio di corsia."
+    ]
+  },
+  {
+    "id": "S1_068",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Dolore Millenario",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Salta sulla prima carta avversaria che si avvicina, Indebolendola(1) e Respingendola(3).",
+      "Salta sulla prima carta avversaria che si avvicina, Indebolendola(1) e Respingendola(4)."
+    ]
+  },
+  {
+    "id": "S1_069",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Esplosione Acquatica",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Spinta",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Respinge(3) e Indebolisce(2) tutti gli avversari di corsia.",
+      "Quando viene giocata, Respinge(3) e Indebolisce(3) tutti gli avversari di corsia."
+    ]
+  },
+  {
+    "id": "S1_070",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Raikiri",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Indebolimento",
+      "Difesa"
+    ],
+    "descriptions": [
+      "Salta sulla prima carta avversaria che si avvicina e la Indebolisce(3). Ignora Difesa.",
+      "Salta sulla prima carta avversaria che si avvicina e la Indebolisce(4). Ignora Difesa."
+    ]
+  },
+  {
+    "id": "S1_071",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Bluff",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Evocazione",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Consuma l'energia rimanente per Evocare fino a 5 cloni con Chakra(2) camuffati come l'originale.",
+      "Consuma l'energia rimanente per Evocare fino a 6 cloni con Chakra(2) camuffati come l'originale."
+    ]
+  },
+  {
+    "id": "S1_072",
+    "season": 1,
+    "name": "IRUKA UMINO",
+    "ability": "Rimprovero",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Mentre questa carta è attiva, fornisce Chakra(+1) e Blocca(2s) agli alleati con 2 Chakra quando vengono schierati.",
+      "Mentre questa carta è attiva, fornisce Chakra(+2) e Blocca(2s) agli alleati con 2 Chakra quando vengono schierati."
+    ]
+  },
+  {
+    "id": "S1_073",
+    "season": 1,
+    "name": "HIRUZEN SARUTOBI",
+    "ability": "Volontà del Fuoco",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Dopo 10 secondi, fornisce Chakra(+1) a tutti gli alleati.",
+      "Dopo 10 secondi, fornisce Chakra(+2) a tutti gli alleati."
+    ]
+  },
+  {
+    "id": "S1_074",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Tecnica del Drago Acquatico",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(1) e Respinge(1) tutti gli avversari di corsia nel corto e medio raggio.",
+      "Quando viene giocata, Indebolisce(1) e Respinge(3) tutti gli avversari di corsia nel corto e medio raggio."
+    ]
+  },
+  {
+    "id": "S1_075",
+    "season": 1,
+    "name": "HAKU",
+    "ability": "Specchi di Ghiaccio",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Blocco",
+      "Indebolimento",
+      "Cambio"
+    ],
+    "descriptions": [
+      "In caso di scontro, Blocca(2s) e Indebolisce(1) gli avversari vicini della propria corsia, poi Cambia corsia. Questa abilità si riattiva ogni volta che viene ottenuto del Chakra.",
+      "In caso di scontro, Blocca(4s) e Indebolisce(1) gli avversari vicini della propria corsia, poi Cambia corsia. Questa abilità si riattiva ogni volta che viene ottenuto del Chakra."
+    ]
+  },
+  {
+    "id": "S1_076",
+    "season": 1,
+    "name": "GAMABUNTA",
+    "ability": "Cooperazione del Rospo",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Chakra(+1) ogni volta che gli alleati Respingono gli avversari.",
+      "Chakra(+2) ogni volta che gli alleati Respingono gli avversari."
+    ]
+  },
+  {
+    "id": "S1_077",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Moltiplicazione Superiore Estrema del Corpo",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Scatto",
+      "Evocazione"
+    ],
+    "descriptions": [
+      "Evoca 2 cloni sulle altre corsie con Chakra(2) e Scatta(4s), poi 2 nuovi cloni dopo 10s. Chakra(+1) ogni volta che questi cloni si ritirano.",
+      "Evoca 2 cloni sulle altre corsie con Chakra(2) e Scatta(6s), poi 2 nuovi cloni dopo 10s. Chakra(+1) ogni volta che questi cloni si ritirano."
+    ]
+  },
+  {
+    "id": "S1_078",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "La Furia di Kyubi",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Quando gli alleati si ritirano, Chakra(+1) e Scatto(1s)",
+      "Quando gli alleati si ritirano, Chakra(+2) e Scatto(1s)"
+    ]
+  },
+  {
+    "id": "S1_079",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Pugno Vigoroso",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Viene schierata nel medio raggio, Indebolisce(2) e Respinge(1) tutti gli avversari di corsia.",
+      "Viene schierata nel medio raggio, Indebolisce(2) e Respinge(3) tutti gli avversari di corsia."
+    ]
+  },
+  {
+    "id": "S1_080",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Risolutezza",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ottiene Chakra(+2) ogni 8 secondi.",
+      "Ottiene Chakra(+2) ogni 6 secondi."
+    ]
+  },
+  {
+    "id": "S1_081",
+    "season": 1,
+    "name": "SASUKE UCHIHA",
+    "ability": "Palla di Fuoco",
+    "rarity": "Legendary",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(2) tutti gli avversari nel medio raggio.",
+      "Quando viene giocata, Indebolisce(3) tutti gli avversari nel medio raggio."
+    ]
+  },
+  {
+    "id": "S1_082",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Piano di Battaglia",
+    "rarity": "Legendary",
+    "cost": 7,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Mentre è attivo, Chakra(+1) ogni volta che gli alleati Indeboliscono i rivali. Gli alleati ottengono Chakra(+1) per ogni carta influenzata la prima volta che Indeboliscono i rivali.",
+      "Mentre è attivo, Chakra(+2) ogni volta che gli alleati Indeboliscono i rivali. Gli alleati ottengono Chakra(+1) per ogni carta influenzata la prima volta che Indeboliscono i rivali."
+    ]
+  },
+  {
+    "id": "S1_083",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Demone",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(1) tutte le carte. Se hanno 3 o meno Chakra, invece Indebolisce(3).",
+      "Quando viene giocata, Indebolisce(1) tutte le carte. Se hanno 4 o meno Chakra, invece Indebolisce(4)."
+    ]
+  },
+  {
+    "id": "S1_084",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Carica Spericolata",
+    "rarity": "Legendary",
+    "cost": 7,
+    "chakra": 5,
+    "effects": [
+      "Indebolimento",
+      "Scatto",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Ad ogni scontro, Indebolisce(2) le carte avversarie con 4 o meno Chakra e le fa Cambiare corsia. Scatta continuamente.",
+      "Ad ogni scontro, Indebolisce(3) le carte avversarie con 4 o meno Chakra e le fa Cambiare corsia. Scatta continuamente."
+    ]
+  },
+  {
+    "id": "S1_085",
+    "season": 1,
+    "name": "KYUBI",
+    "ability": "Catastrofe Naturale",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 7,
+    "effects": [
+      "Indebolimento",
+      "Spinta",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Viene schierato a media distanza e applica Spinta(1) e Indebolimento(3) a tutte le carte. Finché è attivo, applica Indebolimento(1) alle nuove carte schierate. Rallentamento permanente.",
+      "Viene schierato a media distanza e applica Spinta(1) e Indebolimento(4) a tutte le carte. Finché è attivo, applica Indebolimento(1) alle nuove carte schierate. Rallentamento permanente."
+    ]
+  },
+  {
+    "id": "S2_001",
+    "season": 2,
+    "name": "Naruto Uzumaki",
+    "ability": "Manipolazione del Chakra",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, ha il 50% di possibilità di ottenere Chakra(+3).",
+      "Quando viene giocata, ha il 50% di possibilità di ottenere Chakra(+4)."
+    ]
+  },
+  {
+    "id": "S2_002",
+    "season": 2,
+    "name": "Naruto Uzumaki",
+    "ability": "Sfidante",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Blocco",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, si Blocca(1s) e ottiene Chakra(+2) per ogni avversario di corsia con più Chakra.",
+      "Quando viene giocata, si Blocca(2s) e ottiene Chakra(+2) per ogni avversario di corsia con più Chakra."
+    ]
+  },
+  {
+    "id": "S2_003",
+    "season": 2,
+    "name": "Sasuke Uchiha",
+    "ability": "Attacco concatenato del leone",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Salta sulla prima carta avversaria che si avvicina e la Indebolisce(2).",
+      "Salta sulla prima carta avversaria che si avvicina e la Indebolisce(3)."
+    ]
+  },
+  {
+    "id": "S2_004",
+    "season": 2,
+    "name": "Sakura Haruno",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(2s)",
+      "Scatta(3s)"
+    ]
+  },
+  {
+    "id": "S2_005",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Protezione",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(+3s) ogni volta che un avversario è schierato su questa corsia.",
+      "Scatta(+4s) ogni volta che un avversario è schierato su questa corsia."
+    ]
+  },
+  {
+    "id": "S2_006",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Bomba d'amore",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Fornisce Chakra(+1) al prossimo alleato schierato. Mentre questa carta è attiva, Cambia corsia a quell'alleato ogni 8 secondi.",
+      "Fornisce Chakra(+2) al prossimo alleato schierato. Mentre questa carta è attiva, Cambia corsia a quell'alleato ogni 8 secondi."
+    ]
+  },
+  {
+    "id": "S2_007",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Pugno Gentile",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "In caso di scontro, Indebolisce(2) e Respinge(1).",
+      "In caso di scontro, Indebolisce(2) e Respinge(2)."
+    ]
+  },
+  {
+    "id": "S2_008",
+    "season": 2,
+    "name": "Tenten",
+    "ability": "Ascesa dei due draghi",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(1) e Rallenta(6s) tutti gli avversari nel lungo raggio.",
+      "Quando viene giocata, Indebolisce(1) e Rallenta(8s) tutti gli avversari nel lungo raggio."
+    ]
+  },
+  {
+    "id": "S2_009",
+    "season": 2,
+    "name": "Gai Maito",
+    "ability": "Potere della giovinezza",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Mentre questa carta è attiva, fornisce Chakra(+2) alle carte Rock Lee che vengono schierate.",
+      "Mentre questa carta è attiva, fornisce Chakra(+3) alle carte Rock Lee che vengono schierate."
+    ]
+  },
+  {
+    "id": "S2_010",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Pericoloso",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Viene schierata nel medio raggio, ottiene Chakra(+3) se c'è una carta avversaria nel medio raggio.",
+      "Viene schierata nel medio raggio, ottiene Chakra(+4) se c'è una carta avversaria nel medio raggio."
+    ]
+  },
+  {
+    "id": "S2_011",
+    "season": 2,
+    "name": "Kankuro",
+    "ability": "Sfacciato",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Fornisce Chakra(+3) al prossimo Gaara alleato schierato.",
+      "Fornisce Chakra(+4) al prossimo Gaara alleato schierato."
+    ]
+  },
+  {
+    "id": "S2_012",
+    "season": 2,
+    "name": "Temari",
+    "ability": "Prudente",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Difesa",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Fornisce Difesa(1) e Rallentamento(6s) al prossimo Gaara alleato schierato.",
+      "Fornisce Difesa(1) e Rallentamento(10s) al prossimo Gaara alleato schierato."
+    ]
+  },
+  {
+    "id": "S2_013",
+    "season": 2,
+    "name": "Baki",
+    "ability": "Resiliente",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Difesa"
+    ],
+    "descriptions": [
+      "Scatta(3s) e Difesa(1).",
+      "Scatta(4s) e Difesa(1)."
+    ]
+  },
+  {
+    "id": "S2_014",
+    "season": 2,
+    "name": "Ino Yamanaka",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(2s)",
+      "Scatta(3s)"
+    ]
+  },
+  {
+    "id": "S2_015",
+    "season": 2,
+    "name": "Kabuto Yakushi",
+    "ability": "Spiegazione",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, tutti gli alleati nel corto raggio ottengono casualmente Chakra(+1) o Blocco(4s).",
+      "Quando viene giocata, tutti gli alleati nel corto raggio ottengono casualmente Chakra(+2) o Blocco(4s)."
+    ]
+  },
+  {
+    "id": "S2_016",
+    "season": 2,
+    "name": "Student Trio",
+    "ability": "Squadra Konohamaru",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Scatto",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Al ritiro, schiera nuovamente Konohamaru, Moegi e Udon con Scatto(3s) e Chakra(1) su ogni corsia.",
+      "Al ritiro, schiera nuovamente Konohamaru, Moegi e Udon con Scatto(4s) e Chakra(1) su ogni corsia."
+    ]
+  },
+  {
+    "id": "S2_017",
+    "season": 2,
+    "name": "Ibiki Morino",
+    "ability": "Regole Rigorose",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Spinta",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Respinge(2) o Blocca(4s) tutti gli avversari di corsia.",
+      "Quando viene giocata, Respinge(3) o Blocca(5s) tutti gli avversari di corsia."
+    ]
+  },
+  {
+    "id": "S2_018",
+    "season": 2,
+    "name": "Choza Akimichi",
+    "ability": "Vecchi Amici",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Mentre questa carta è attiva, fornisce Chakra(+1) alle carte Shikaku e Inoichi alleate.",
+      "Mentre questa carta è attiva, fornisce Chakra(+2) alle carte Shikaku e Inoichi alleate."
+    ]
+  },
+  {
+    "id": "S2_019",
+    "season": 2,
+    "name": "Inoichi Yamanaka",
+    "ability": "Vecchi Amici",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Mentre questa carta è attiva, fornisce Chakra(+1) alle carte Choza e Shikaku alleate.",
+      "Mentre questa carta è attiva, fornisce Chakra(+2) alle carte Choza e Shikaku alleate."
+    ]
+  },
+  {
+    "id": "S2_020",
+    "season": 2,
+    "name": "Shikaku Nara",
+    "ability": "Vecchi Amici",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Mentre questa carta è attiva, fornisce Chakra(+1) alle carte Inoichi e Choza alleate.",
+      "Mentre questa carta è attiva, fornisce Chakra(+2) alle carte Inoichi e Choza alleate."
+    ]
+  },
+  {
+    "id": "S2_021",
+    "season": 2,
+    "name": "Hanabi Hyuga",
+    "ability": "Prodigio",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Scatto",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Scatta(2s). In caso di scontro, Respinge(2).",
+      "Scatta(3s). In caso di scontro, Respinge(3)."
+    ]
+  },
+  {
+    "id": "S2_022",
+    "season": 2,
+    "name": "Hiashi Hyuga",
+    "ability": "Capo degli Hyuga",
+    "rarity": "Common",
+    "cost": 6,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Mentre questa carta è attiva, fornisce Chakra(+2) e Respinge(1) alle carte Hyuga alleate.",
+      "Mentre questa carta è attiva, fornisce Chakra(+3) e Respinge(1) alle carte Hyuga alleate."
+    ]
+  },
+  {
+    "id": "S2_023",
+    "season": 2,
+    "name": "Hizashi Hyuga",
+    "ability": "Sacrificio del Fratello",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(2s). Quando l'Hiashi alleato sta per ritirarsi, lo riporta all'inizio della corsia e si ritira al suo posto.",
+      "Scatta(3s). Quando l'Hiashi alleato sta per ritirarsi, lo riporta all'inizio della corsia e si ritira al suo posto."
+    ]
+  },
+  {
+    "id": "S2_024",
+    "season": 2,
+    "name": "Zaku Abumi",
+    "ability": "Onda tagliente",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Spinta",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Respinge(2) e Cambia corsia a 2 carte avversarie nel medio raggio.",
+      "Quando viene giocata, Respinge(2) e Cambia corsia a 3 carte avversarie nel medio raggio."
+    ]
+  },
+  {
+    "id": "S2_025",
+    "season": 2,
+    "name": "Dosu Kinuta",
+    "ability": "Onda di suono",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento",
+      "Blocco",
+      "Cambio"
+    ],
+    "descriptions": [
+      "In caso di scontro, Indebolisce(2) la carta avversaria. Se l'avversario non si ritira, la fa Bloccare(4s) e Cambia corsia.",
+      "In caso di scontro, Indebolisce(2) la carta avversaria. Se l'avversario non si ritira, la fa Bloccare(5s) e Cambia corsia."
+    ]
+  },
+  {
+    "id": "S2_026",
+    "season": 2,
+    "name": "Kin Tsuchi",
+    "ability": "Senbon d'ombra",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(1) e Blocca(2s) la carta avversaria più vicina.",
+      "Quando viene giocata, Indebolisce(2) e Blocca(2s) la carta avversaria più vicina."
+    ]
+  },
+  {
+    "id": "S2_027",
+    "season": 2,
+    "name": "Izumo Kamizuki",
+    "ability": "Sabotaggio",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(2s) 2 alleati di corsia casuali.",
+      "Quando viene giocata, Blocca(2s) 3 alleati di corsia casuali."
+    ]
+  },
+  {
+    "id": "S2_028",
+    "season": 2,
+    "name": "Kotetsu Hagane",
+    "ability": "Depistaggio",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Rallentamento",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Rallenta(4s) e Cambia corsia a 2 alleati casuali.",
+      "Quando viene giocata, Rallenta(4s) e Cambia corsia a 3 alleati casuali."
+    ]
+  },
+  {
+    "id": "S2_029",
+    "season": 2,
+    "name": "Oboro",
+    "ability": "Clone di fumo",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Evocazione"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Evoca 2 cloni con Chakra(1). Quando i cloni si ritirano, ha il 50% di possibilità di creare un altro clone sulla stessa corsia.",
+      "Quando viene giocata, Evoca 2 cloni con Chakra(2). Quando i cloni si ritirano, ha il 50% di possibilità di creare un altro clone sulla stessa corsia."
+    ]
+  },
+  {
+    "id": "S2_030",
+    "season": 2,
+    "name": "Yoroi Akado",
+    "ability": "Assorbimento del Chakra",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "In caso di scontro, ottiene Chakra(+1) e Indebolisce(1) la carta avversaria. Disattiva anche qualsiasi abilità attiva.",
+      "In caso di scontro, ottiene Chakra(+2) e Indebolisce(1) la carta avversaria. Disattiva anche qualsiasi abilità attiva."
+    ]
+  },
+  {
+    "id": "S2_031",
+    "season": 2,
+    "name": "Ningame",
+    "ability": "Temperanza",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Scatto",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ogni volta che gli alleati di corsia ottengono Scatto, viene convertito in Chakra(+1).",
+      "Ogni volta che gli alleati di corsia ottengono Scatto, viene convertito in Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_032",
+    "season": 2,
+    "name": "Gama",
+    "ability": "Rotolo di Rospo",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Evocazione",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Evoca un rospo casuale dal mazzo e gli conferisce Chakra(+1).",
+      "Quando viene giocata, Evoca un rospo casuale dal mazzo e gli conferisce Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_033",
+    "season": 2,
+    "name": "Gamakichi",
+    "ability": "Bocca larga",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Spinta",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Mentre questa carta è attiva, i rospi alleati applicano Respinge(1) durante lo scontro. Chakra(+1) ogni volta che un rospo Respinge un avversario.",
+      "Mentre questa carta è attiva, i rospi alleati applicano Respinge(2) durante lo scontro. Chakra(+1) ogni volta che un rospo Respinge un avversario."
+    ]
+  },
+  {
+    "id": "S2_034",
+    "season": 2,
+    "name": "Giant Snake",
+    "ability": "Movimento del serpente",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Cambio"
+    ],
+    "descriptions": [
+      "Viene schierata nel medio raggio e Cambia corsia ad altre 2 carte presenti nel medio raggio.",
+      "Viene schierata nel medio raggio e Cambia corsia ad altre 3 carte presenti nel medio raggio."
+    ]
+  },
+  {
+    "id": "S2_035",
+    "season": 2,
+    "name": "Raido Namiashi",
+    "ability": "Guardia del Corpo",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(2s). Quando l'Hiruzen alleato sta per ritirarsi, lo riporta all'inizio della corsia e si ritira al suo posto.",
+      "Scatta(3s). Quando l'Hiruzen alleato sta per ritirarsi, lo riporta all'inizio della corsia e si ritira al suo posto."
+    ]
+  },
+  {
+    "id": "S2_036",
+    "season": 2,
+    "name": "Homura Mitokado",
+    "ability": "Rassicurazione",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Difesa",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Il prossimo alleato schierato ottiene Difesa(1) e Chakra(+1).",
+      "Il prossimo alleato schierato ottiene Difesa(1) e Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_037",
+    "season": 2,
+    "name": "Koharu Utatane",
+    "ability": "Sicurezza",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Evocazione"
+    ],
+    "descriptions": [
+      "Dopo 10 secondi, Evoca una Squadra Speciale Anbu.",
+      "Dopo 8 secondi, Evoca una Squadra Speciale Anbu."
+    ]
+  },
+  {
+    "id": "S2_038",
+    "season": 2,
+    "name": "Genma Shiranui",
+    "ability": "Esaminatore",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Concentrazione",
+      "Evocazione",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Concentrazione(6s). Se la Concentrazione riesce, Evoca una carta casuale con un Costo massimo di 4 dal tuo mazzo. Se ha 3 o meno Chakra, le fornisce Chakra(+2).",
+      "Quando viene giocata, Concentrazione(4s). Se la Concentrazione riesce, Evoca una carta casuale con un Costo massimo di 4 dal tuo mazzo. Se ha 3 o meno Chakra, le fornisce Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_039",
+    "season": 2,
+    "name": "Genma Shiranui",
+    "ability": "Attenzione",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(3) carte avversarie di corsia nel medio raggio (bersagli: 1).",
+      "Quando viene giocata, Indebolisce(3) carte avversarie di corsia nel medio raggio (bersagli: 2)."
+    ]
+  },
+  {
+    "id": "S2_040",
+    "season": 2,
+    "name": "Yashamaru",
+    "ability": "Che seccatura",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Al ritiro, Indebolisce(3) tutte le carte vicine.",
+      "Al ritiro, Indebolisce(4) tutte le carte vicine."
+    ]
+  },
+  {
+    "id": "S2_041",
+    "season": 2,
+    "name": "Karura",
+    "ability": "Amore di Mamma",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, fornisce Chakra(+2) e Rallentamento(3s) alle carte Gaara alleate.",
+      "Quando viene giocata, fornisce Chakra(+2) e Rallentamento(5s) alle carte Gaara alleate."
+    ]
+  },
+  {
+    "id": "S2_042",
+    "season": 2,
+    "name": "Yugao Uzuki",
+    "ability": "Giuramento di vendetta",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Difesa",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Scatta(3s). Difesa(1). In caso di scontro, Indebolisce(2).",
+      "Scatta(4s). Difesa(1). In caso di scontro, Indebolisce(2)."
+    ]
+  },
+  {
+    "id": "S2_043",
+    "season": 2,
+    "name": "Hana Inuzuka",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(4s)",
+      "Scatta(5s)"
+    ]
+  },
+  {
+    "id": "S2_044",
+    "season": 2,
+    "name": "Tsume Inuzuka",
+    "ability": "Alla carica",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Scatta(4s). Il prossimo alleato schierato ottiene Scatto(+3s) e Chakra(+1).",
+      "Scatta(4s). Il prossimo alleato schierato ottiene Scatto(+3s) e Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_045",
+    "season": 2,
+    "name": "Shibi Aburame",
+    "ability": "Aiuto tempestivo",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Scatto",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Scatta(5s). Fornisce Chakra(+1) agli alleati che raggiunge.",
+      "Scatta(6s). Fornisce Chakra(+1) agli alleati che raggiunge."
+    ]
+  },
+  {
+    "id": "S2_046",
+    "season": 2,
+    "name": "Jirobo",
+    "ability": "Sud",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Il prossimo Orochimaru schierato ottiene Chakra(+3).",
+      "Il prossimo Orochimaru schierato ottiene Chakra(+4)."
+    ]
+  },
+  {
+    "id": "S2_047",
+    "season": 2,
+    "name": "Kidomaru",
+    "ability": "Est",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Il prossimo Orochimaru schierato ottiene Scatto(+4s).",
+      "Il prossimo Orochimaru schierato ottiene Scatto(+5s)."
+    ]
+  },
+  {
+    "id": "S2_048",
+    "season": 2,
+    "name": "Sakon",
+    "ability": "Ovest",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Il prossimo Orochimaru schierato Indebolirà(3) la carta avversaria più vicina.",
+      "Il prossimo Orochimaru schierato Indebolirà(4) la carta avversaria più vicina."
+    ]
+  },
+  {
+    "id": "S2_049",
+    "season": 2,
+    "name": "Tayuya",
+    "ability": "Nord",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Difesa"
+    ],
+    "descriptions": [
+      "Il prossimo Orochimaru schierato ottiene Difesa(1).",
+      "Il prossimo Orochimaru schierato ottiene Difesa(2)."
+    ]
+  },
+  {
+    "id": "S2_050",
+    "season": 2,
+    "name": "Anbu",
+    "ability": "Squadra Speciale",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Quando viene giocata, ottiene casualmente Chakra(+2) o Scatto(4s).",
+      "Quando viene giocata, ottiene casualmente Chakra(+3) o Scatto(5s)."
+    ]
+  },
+  {
+    "id": "S2_051",
+    "season": 2,
+    "name": "Naruto Uzumaki",
+    "ability": "Distruttore del destino",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Scatto",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Difesa(2). Quando Difesa si attiva, riavvia Scatto(2s). Quando lo Scatto termina, Cambia corsia.",
+      "Difesa(3). Quando Difesa si attiva, riavvia Scatto(2s). Quando lo Scatto termina, Cambia corsia."
+    ]
+  },
+  {
+    "id": "S2_052",
+    "season": 2,
+    "name": "Sakura Haruno",
+    "ability": "Fermezza",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento",
+      "Difesa"
+    ],
+    "descriptions": [
+      "In caso di scontro, Indebolisce(1) la carta avversaria e Difesa(1).",
+      "In caso di scontro, Indebolisce(1) la carta avversaria e Difesa(2)."
+    ]
+  },
+  {
+    "id": "S2_053",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Vento della foglia",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Spinta",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "In caso di scontro, Respinge(1) e Indebolisce(2) la carta avversaria.",
+      "In caso di scontro, Respinge(2) e Indebolisce(2) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S2_054",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Byakugan",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Quando viene giocata, dimezza il Chakra della carta rivale più vicina e ottiene Scatto(2s).",
+      "Quando viene giocata, dimezza il Chakra della carta rivale più vicina e ottiene Scatto(4s)."
+    ]
+  },
+  {
+    "id": "S2_055",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Destino infelice",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ogni volta che questa carta ottiene Chakra, ottiene Chakra(+1) aggiuntivo. Può raggiungere un massimo di 10 Chakra.",
+      "Ogni volta che questa carta ottiene Chakra, ottiene Chakra(+2) aggiuntivo. Può raggiungere un massimo di 10 Chakra."
+    ]
+  },
+  {
+    "id": "S2_056",
+    "season": 2,
+    "name": "Gai Maito",
+    "ability": "Rimproverare",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Viene schierata nel medio raggio. L'alleato di corsia più vicino ottiene Chakra(+2) e viene Bloccato(2s).",
+      "Viene schierata nel medio raggio. L'alleato di corsia più vicino ottiene Chakra(+2) e viene Bloccato(6s)."
+    ]
+  },
+  {
+    "id": "S2_057",
+    "season": 2,
+    "name": "Choji Akimichi",
+    "ability": "Proiettile umano",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento",
+      "Spinta",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatto(3s). A ogni combattimento, applica Spinta(2) e Indebolimento(1) se Scatto è attivo.",
+      "Scatto(4s). A ogni combattimento, applica Spinta(2) e Indebolimento(1) se Scatto è attivo."
+    ]
+  },
+  {
+    "id": "S2_058",
+    "season": 2,
+    "name": "Ino Yamanaka",
+    "ability": "Trasmissione spirituale",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Concentrazione"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Concentrazione(8s) e prende il controllo dell'avversario nel medio raggio di corsia con il Chakra più alto. Al termine della Concentrazione, restituisce il controllo della carta al tuo avversario.",
+      "Quando viene giocata, Concentrazione(12s) e prende il controllo dell'avversario nel medio raggio di corsia con il Chakra più alto. Al termine della Concentrazione, restituisce il controllo della carta al tuo avversario."
+    ]
+  },
+  {
+    "id": "S2_059",
+    "season": 2,
+    "name": "Hinata Hyuga",
+    "ability": "Deviare",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Spinta",
+      "Cambio"
+    ],
+    "descriptions": [
+      "In caso di scontro, Respinge(1) la carta avversaria e le fa Cambiare corsia.",
+      "In caso di scontro, Respinge(2) la carta avversaria e le fa Cambiare corsia."
+    ]
+  },
+  {
+    "id": "S2_060",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Scudo di sabbia",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Difesa(2). Quando \"Difesa\" si attiva, ottiene Chakra(+1).",
+      "Difesa(3). Quando \"Difesa\" si attiva, ottiene Chakra(+1)."
+    ]
+  },
+  {
+    "id": "S2_061",
+    "season": 2,
+    "name": "Temari",
+    "ability": "Ventaglio gigante",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Difesa",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Difesa(2). Quando viene giocata e quando \"Difesa\" si attiva, Respinge(2) tutti gli avversari di corsia.",
+      "Difesa(3). Quando viene giocata e quando \"Difesa\" si attiva, Respinge(3) tutti gli avversari di corsia."
+    ]
+  },
+  {
+    "id": "S2_062",
+    "season": 2,
+    "name": "Anko Mitarashi",
+    "ability": "Ombra della serpe",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Indebolimento",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(2) e Blocca(4s) carte avversarie di corsia nel medio raggio (bersagli: 1).",
+      "Quando viene giocata, Indebolisce(2) e Blocca(4s) carte avversarie di corsia nel medio raggio (bersagli: 2)."
+    ]
+  },
+  {
+    "id": "S2_063",
+    "season": 2,
+    "name": "Choza Akimichi",
+    "ability": "Espansione",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Spinta",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "In caso di scontro, Respinge(3) e Indebolisce(2) la carta avversaria.",
+      "In caso di scontro, Respinge(3) e Indebolisce(3) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S2_064",
+    "season": 2,
+    "name": "Inoichi Yamanaka",
+    "ability": "Sconvolgimento spirituale",
+    "rarity": "Rare",
+    "cost": 6,
+    "chakra": 5,
+    "effects": [
+      "Concentrazione",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Concentrazione(10s) e prendi il controllo del rivale di corsia più vicino a media distanza, lo Rallenta(10s) e disabilita permanentemente qualsiasi abilità attiva. Al termine della Concentrazione, restituisce il controllo della carta al tuo avversario.",
+      "Quando viene giocata, Concentrazione(14s) e prendi il controllo del rivale di corsia più vicino a media distanza, lo Rallenta(10s) e disabilita permanentemente qualsiasi abilità attiva. Al termine della Concentrazione, restituisce il controllo della carta al tuo avversario."
+    ]
+  },
+  {
+    "id": "S2_065",
+    "season": 2,
+    "name": "Shikaku Nara",
+    "ability": "Controllo dell'ombra",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(10s) se stessa e 2 avversari di corsia nel lungo raggio.",
+      "Quando viene giocata, Blocca(12s) se stessa e 2 avversari di corsia nel lungo raggio."
+    ]
+  },
+  {
+    "id": "S2_066",
+    "season": 2,
+    "name": "Jiraiya",
+    "ability": "Eremita porcello",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Cambio"
+    ],
+    "descriptions": [
+      "Cambia corsia casualmente ogni 10 secondi.",
+      "Cambia corsia casualmente ogni 8 secondi."
+    ]
+  },
+  {
+    "id": "S2_067",
+    "season": 2,
+    "name": "Orochimaru",
+    "ability": "Macchinazioni",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata e al ritiro, Indebolisce(1) fino a 4 carte qualsiasi.",
+      "Quando viene giocata e al ritiro, Indebolisce(1) fino a 6 carte qualsiasi."
+    ]
+  },
+  {
+    "id": "S2_068",
+    "season": 2,
+    "name": "Hashirama Senju",
+    "ability": "Resurrezione di Edo",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando è al di sotto del suo livello di Chakra, ottiene Chakra(+1) ogni 4s fino a tornare al suo livello.",
+      "Quando è al di sotto del suo livello di Chakra, ottiene Chakra(+1) ogni 3s fino a tornare al suo livello."
+    ]
+  },
+  {
+    "id": "S2_069",
+    "season": 2,
+    "name": "Tobirama Senju",
+    "ability": "Resurrezione di Edo",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando è al di sotto del suo livello di Chakra, ottiene Chakra(+1) ogni 4s fino a tornare al suo livello.",
+      "Quando è al di sotto del suo livello di Chakra, ottiene Chakra(+1) ogni 3s fino a tornare al suo livello."
+    ]
+  },
+  {
+    "id": "S2_070",
+    "season": 2,
+    "name": "Hiruzen Sarutobi",
+    "ability": "Il Terzo",
+    "rarity": "Rare",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "In caso di scontro, ottiene Chakra(+2). Al ritiro, fornisce Chakra(+2) a tutti gli alleati.",
+      "In caso di scontro, ottiene Chakra(+3). Al ritiro, fornisce Chakra(+2) a tutti gli alleati."
+    ]
+  },
+  {
+    "id": "S2_071",
+    "season": 2,
+    "name": "Hayate Gekko",
+    "ability": "Danza della luna crescente",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "In caso di scontro, Indebolisce(1) 3 volte. Se il rivale non si ritira, Respinge(2).",
+      "In caso di scontro, Indebolisce(1) 3 volte. Se il rivale non si ritira, Respinge(3)."
+    ]
+  },
+  {
+    "id": "S2_072",
+    "season": 2,
+    "name": "Ibiki Morino",
+    "ability": "Interrogatorio",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Indebolimento",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(1) e Rallenta(4s) tutte le carte.",
+      "Quando viene giocata, Indebolisce(1) e Rallenta(6s) tutte le carte."
+    ]
+  },
+  {
+    "id": "S2_073",
+    "season": 2,
+    "name": "Gamahiro",
+    "ability": "Peso",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene schierato, ottiene Chakra(+2) per ogni Rospo alleato in campo. Rallentamento permanente.",
+      "Quando viene schierato, ottiene Chakra(+3) per ogni Rospo alleato in campo. Rallentamento permanente."
+    ]
+  },
+  {
+    "id": "S2_074",
+    "season": 2,
+    "name": "Sasuke Uchiha",
+    "ability": "Chidori",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento",
+      "Difesa"
+    ],
+    "descriptions": [
+      "In caso di scontro, supera i rivali vicini e Indebolisce(2) ognuno di loro. Ignora Difesa.",
+      "In caso di scontro, supera i rivali vicini e Indebolisce(3) ognuno di loro. Ignora Difesa."
+    ]
+  },
+  {
+    "id": "S2_075",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Alleggerimento",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Scatto",
+      "Spinta",
+      "Indebolimento",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Scatta(3s). Ad ogni scontro, se la carta avversaria ha un Chakra più alto, Respinge(1) e Indebolisce(2), poi Cambia corsia.",
+      "Scatta(3s). Ad ogni scontro, se la carta avversaria ha un Chakra più alto, Respinge(2) e Indebolisce(2), poi Cambia corsia."
+    ]
+  },
+  {
+    "id": "S2_076",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Rotazione",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Spinta",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "In caso di scontro, Respinge(2) e Indebolisce(3) tutte le carte avversarie vicine.",
+      "In caso di scontro, Respinge(4) e Indebolisce(3) tutte le carte avversarie vicine."
+    ]
+  },
+  {
+    "id": "S2_077",
+    "season": 2,
+    "name": "Kiba Inuzuka",
+    "ability": "Moltiplicazione selvatica",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Il prossimo Akamaru schierato diventa una copia esatta di questa carta con Scatto(4s).",
+      "Il prossimo Akamaru schierato diventa una copia esatta di questa carta con Scatto(5s)."
+    ]
+  },
+  {
+    "id": "S2_078",
+    "season": 2,
+    "name": "Shikamaru Nara",
+    "ability": "Maestro di Shogi",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 2,
+    "effects": [
+      "Blocco",
+      "Chakra",
+      "Concentrazione"
+    ],
+    "descriptions": [
+      "Quando viene giocata, si Blocca(10s) e ottiene Chakra(+3). Mentre questa carta è attiva, ogni volta che Blocchi altre carte alleate o queste ottengono Concentrazione, ottengono Chakra(+3).",
+      "Quando viene giocata, si Blocca(12s) e ottiene Chakra(+4). Mentre questa carta è attiva, ogni volta che Blocchi altre carte alleate o queste ottengono Concentrazione, ottengono Chakra(+3)."
+    ]
+  },
+  {
+    "id": "S2_079",
+    "season": 2,
+    "name": "Asuma Sarutobi",
+    "ability": "Lame di Chakra",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Indebolimento",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Ad ogni scontro, Indebolisce(1). Quando questa carta fa ritirare un avversario, Scatta(+1s).",
+      "Ad ogni scontro, Indebolisce(2). Quando questa carta fa ritirare un avversario, Scatta(+1s)."
+    ]
+  },
+  {
+    "id": "S2_080",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Instabile",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Indebolimento",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(2) e Rallenta(6s) tutte le carte sulla corsia.",
+      "Quando viene giocata, Indebolisce(2) e Rallenta(8s) tutte le carte sulla corsia."
+    ]
+  },
+  {
+    "id": "S2_081",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Sete di sangue",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Ottiene Chakra(+1) ogni volta che le carte alleate Indeboliscono qualsiasi carta.",
+      "Ottiene Chakra(+2) ogni volta che le carte alleate Indeboliscono qualsiasi carta."
+    ]
+  },
+  {
+    "id": "S2_082",
+    "season": 2,
+    "name": "Kankuro",
+    "ability": "Marionettista",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Indebolimento",
+      "Rallentamento",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Applica Indebolimento(3) e Rallentamento(2s) al primo avversario che si avvicina. Se l'avversario non si ritira, gli fa Cambiare corsia. Quando un altro alleato fa Cambiare corsia a un avversario, ottiene Chakra(+1) e riattiva questa abilità.",
+      "Applica Indebolimento(3) e Rallentamento(5s) al primo avversario che si avvicina. Se l'avversario non si ritira, gli fa Cambiare corsia. Quando un altro alleato fa Cambiare corsia a un avversario, ottiene Chakra(+1) e riattiva questa abilità."
+    ]
+  },
+  {
+    "id": "S2_083",
+    "season": 2,
+    "name": "Jiraya",
+    "ability": "Eremita dei Rospi",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Mentre questa carta è attiva, fornisce Chakra(+3) ai rospi alleati.",
+      "Mentre questa carta è attiva, fornisce Chakra(+4) ai rospi alleati."
+    ]
+  },
+  {
+    "id": "S2_084",
+    "season": 2,
+    "name": "Orochimaru",
+    "ability": "Tradimento",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ignora tutte le abilità e gli scontri avversari. Nel medio raggio, ottiene Chakra(+2) e diventa vulnerabile.",
+      "Ignora tutte le abilità e gli scontri avversari. Nel medio raggio, ottiene Chakra(+3) e diventa vulnerabile."
+    ]
+  },
+  {
+    "id": "S2_085",
+    "season": 2,
+    "name": "Orochimaru",
+    "ability": "Kusanagi",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Indebolimento",
+      "Cambio",
+      "Difesa"
+    ],
+    "descriptions": [
+      "Ad ogni scontro, Indebolisce(2). Ogni volta che una carta avversaria Cambia corsia, Cambia alla stessa corsia e ottiene Difesa(1).",
+      "Ad ogni scontro, Indebolisce(3). Ogni volta che una carta avversaria Cambia corsia, Cambia alla stessa corsia e ottiene Difesa(1)."
+    ]
+  },
+  {
+    "id": "S2_086",
+    "season": 2,
+    "name": "Orochimaru",
+    "ability": "Edo Tensei",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Indebolimento",
+      "Evocazione",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(2) 2 alleati con Chakra più basso. Per ogni ritiro, Evoca Edo Hashirama e Tobirama dal mazzo, conferendo loro Scatto(3s).",
+      "Quando viene giocata, Indebolisce(2) 2 alleati con Chakra più basso. Per ogni ritiro, Evoca Edo Hashirama e Tobirama dal mazzo, conferendo loro Scatto(5s)."
+    ]
+  },
+  {
+    "id": "S2_087",
+    "season": 2,
+    "name": "Hashirama Senju",
+    "ability": "Crescita rigogliosa",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(12s) tutte le carte avversarie.",
+      "Quando viene giocata, Blocca(14s) tutte le carte avversarie."
+    ]
+  },
+  {
+    "id": "S2_088",
+    "season": 2,
+    "name": "Tobirama Senju",
+    "ability": "Onda violenta",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Indebolimento",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(2) e Rallenta(4s) tutte le carte avversarie.",
+      "Quando viene giocata, Indebolisce(2) e Rallenta(8s) tutte le carte avversarie."
+    ]
+  },
+  {
+    "id": "S2_089",
+    "season": 2,
+    "name": "Hiruzen Sarutobi",
+    "ability": "Bombe del drago",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Indebolimento",
+      "Bruciatura"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(3) e Brucia(4) la carta avversaria più vicina.",
+      "Quando viene giocata, Indebolisce(3) e Brucia(5) la carta avversaria più vicina."
+    ]
+  },
+  {
+    "id": "S2_090",
+    "season": 2,
+    "name": "Enma",
+    "ability": "Re Scimmia",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Fornisce Chakra(+1) agli alleati quando Cambiano corsia.",
+      "Fornisce Chakra(+2) agli alleati quando Cambiano corsia."
+    ]
+  },
+  {
+    "id": "S2_091",
+    "season": 2,
+    "name": "Naruto Uzumaki",
+    "ability": "Volontà di Proteggere",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Scatto"
+    ],
+    "descriptions": [
+      "La prima volta che questa carta va sotto il suo livello di Chakra, ottiene Chakra(+4) e Scatto(3s). Al ritiro, aumenta permanentemente il livello di Chakra di 2.",
+      "La prima volta che questa carta va sotto il suo livello di Chakra, ottiene Chakra(+5) e Scatto(3s). Al ritiro, aumenta permanentemente il livello di Chakra di 2."
+    ]
+  },
+  {
+    "id": "S2_092",
+    "season": 2,
+    "name": "Sasuke Uchiha",
+    "ability": "Segno maledetto",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, ottiene Chakra(+3). Dopo ogni scontro, ottiene Chakra(+2).",
+      "Quando viene giocata, ottiene Chakra(+4). Dopo ogni scontro, ottiene Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_093",
+    "season": 2,
+    "name": "Sakura Haruno",
+    "ability": "Inflessibile",
+    "rarity": "Legendary",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Difesa",
+      "Chakra",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Ottiene Difesa permanentemente. Ogni volta che Difesa si attiva, ottiene Chakra(+1) e Cambia corsia.",
+      "Ottiene Difesa permanentemente. Ogni volta che Difesa si attiva, ottiene Chakra(+2) e Cambia corsia."
+    ]
+  },
+  {
+    "id": "S2_094",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Quinta Porta",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Indebolimento",
+      "Concentrazione"
+    ],
+    "descriptions": [
+      "Quando viene schierato, avvia Concentrazione(5s). Se riesce, ottiene Chakra(+7) e attiva il resto dell'abilità. Salta sul primo avversario che si avvicina. A ogni combattimento, applica Indebolimento(2) all'avversario e Indebolimento(1) a sé stesso.",
+      "Quando viene schierato, avvia Concentrazione(3s). Se riesce, ottiene Chakra(+7) e attiva il resto dell'abilità. Salta sul primo avversario che si avvicina. A ogni combattimento, applica Indebolimento(2) all'avversario e Indebolimento(1) a sé stesso."
+    ]
+  },
+  {
+    "id": "S2_095",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Sessantaquattro Palmi",
+    "rarity": "Legendary",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Spinta",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Ad ogni scontro, Respinge(1) e Indebolisce(1). Quando questa carta fa ritirare un rivale, riduce anche permanentemente il Chakra base di quel rivale di 2.",
+      "Ad ogni scontro, Respinge(1) e Indebolisce(2). Quando questa carta fa ritirare un rivale, riduce anche permanentemente il Chakra base di quel rivale di 2."
+    ]
+  },
+  {
+    "id": "S2_096",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Controllo della sabbia",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Blocco",
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Difesa(1). Ogni volta che una carta avversaria si avvicina, la Blocca(8s) e ottiene Chakra(+2). Se l'avversario è già Bloccato, lo Indebolisce(3) e ottiene invece Difesa(1).",
+      "Difesa(2). Ogni volta che una carta avversaria si avvicina, la Blocca(8s) e ottiene Chakra(+2). Se l'avversario è già Bloccato, lo Indebolisce(3) e ottiene invece Difesa(1)."
+    ]
+  },
+  {
+    "id": "S2_097",
+    "season": 2,
+    "name": "Hiruzen Sarutobi",
+    "ability": "Maestro degli elementi",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Indebolimento",
+      "Rallentamento",
+      "Bruciatura"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(1) e Rallenta(8s) tutti gli avversari di corsia. La prima volta che questa carta ottiene Chakra, Indebolisce(2) e Brucia(3) tutti gli avversari di corsia.",
+      "Quando viene giocata, Indebolisce(1) e Rallenta(12s) tutti gli avversari di corsia. La prima volta che questa carta ottiene Chakra, Indebolisce(2) e Brucia(4) tutti gli avversari di corsia."
+    ]
+  },
+  {
+    "id": "S2_098",
+    "season": 2,
+    "name": "Hiruzen Sarutobi",
+    "ability": "Sigillo del diavolo",
+    "rarity": "Legendary",
+    "cost": 7,
+    "chakra": 6,
+    "effects": [
+      "Concentrazione",
+      "Sigillo"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Concentrazione(4s). Se la Concentrazione riesce, attiva il resto di questa abilità. Quando una carta avversaria si avvicina con Chakra uguale o superiore, le rimuove fino a 12 Chakra e disattiva qualsiasi abilità attiva. Se il bersaglio si ritira, applica Sigillo(15s). Al proprio ritiro, applica Sigillo(15s) a se stessa. Si ritira all'istante dopo aver Sigillato 3 carte.",
+      "Quando viene giocata, Concentrazione(4s). Se la Concentrazione riesce, attiva il resto di questa abilità. Quando una carta avversaria si avvicina con Chakra uguale o superiore, le rimuove fino a 15 Chakra e disattiva qualsiasi abilità attiva. Se il bersaglio si ritira, applica Sigillo(15s). Al proprio ritiro, applica Sigillo(15s) a se stessa. Si ritira all'istante dopo aver Sigillato 3 carte."
+    ]
+  },
+  {
+    "id": "S2_099",
+    "season": 2,
+    "name": "Ichibi",
+    "ability": "Proiettili d'aria",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 8,
+    "effects": [
+      "Indebolimento",
+      "Concentrazione"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(2) tutti gli avversari di corsia nel lungo raggio. Ogni 10 secondi, Concentrazione(2s). Se la Concentrazione riesce, Indebolisce(2) tutti gli avversari di corsia nel lungo raggio.",
+      "Quando viene giocata, Indebolisce(3) tutti gli avversari di corsia nel lungo raggio. Ogni 10 secondi, Concentrazione(2s). Se la Concentrazione riesce, Indebolisce(3) tutti gli avversari di corsia nel lungo raggio."
+    ]
+  },
+  {
+    "id": "S2_100",
+    "season": 2,
+    "name": "Kyubi",
+    "ability": "Destini Incrociati",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 8,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Fornisce Chakra(+7) al prossimo alleato schierato. Le carte sono collegate, quindi quando una si ritira così fa l'altra.",
+      "Fornisce Chakra(+8) al prossimo alleato schierato. Le carte sono collegate, quindi quando una si ritira così fa l'altra."
+    ]
+  },
+  {
+    "id": "S3_001",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "Sogno condiviso",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ogni volta che un'altra carta con Sogno Condiviso si ritira, questa carta ottiene Chakra(+1).",
+      "Ogni volta che un'altra carta con Sogno Condiviso si ritira, questa carta ottiene Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S3_002",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Allenamento della palla di fuoco",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Scatto",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Scatta(1s). Quando viene giocata, Chakra(+1) per ogni carta avversaria affetta da Brucia.",
+      "Scatta(2s). Quando viene giocata, Chakra(+1) per ogni carta avversaria affetta da Brucia."
+    ]
+  },
+  {
+    "id": "S3_003",
+    "season": 3,
+    "name": "Choji Akimichi",
+    "ability": "Espansione parziale del braccio",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Quando una carta avversaria si avvicina, Indebolisce(1) e Respinge(2).",
+      "Quando una carta avversaria si avvicina, Indebolisce(1) e Respinge(4)."
+    ]
+  },
+  {
+    "id": "S3_004",
+    "season": 3,
+    "name": "Kankuro",
+    "ability": "Scambio di marionette",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Teletrasporto",
+      "Indebolimento",
+      "Blocco"
+    ],
+    "descriptions": [
+      "In caso di scontro, si Teletrasporta dietro la carta avversaria, la Indebolisce(2) e la Blocca(5s).",
+      "In caso di scontro, si Teletrasporta dietro la carta avversaria, la Indebolisce(2) e la Blocca(8s)."
+    ]
+  },
+  {
+    "id": "S3_005",
+    "season": 3,
+    "name": "Kankuro",
+    "ability": "Vergine di ferro",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando una carta avversaria si avvicina, la attira verso questa carta e ne disattiva l'abilità, poi la Indebolisce(2).",
+      "Quando una carta avversaria si avvicina, la attira verso questa carta e ne disattiva l'abilità, poi la Indebolisce(3)."
+    ]
+  },
+  {
+    "id": "S3_006",
+    "season": 3,
+    "name": "Neji Hyuga",
+    "ability": "Difesa ravvicinata",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Difesa(2). Quando Difesa si attiva, 50% di probabilità di Bloccare(6s) se stessa.",
+      "Difesa(3). Quando Difesa si attiva, 50% di probabilità di Bloccare(6s) se stessa."
+    ]
+  },
+  {
+    "id": "S3_007",
+    "season": 3,
+    "name": "Shikamaru Nara",
+    "ability": "Scansafatiche",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(2s)",
+      "Scatta(3s)"
+    ]
+  },
+  {
+    "id": "S3_008",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(4s)",
+      "Scatta(5s)"
+    ]
+  },
+  {
+    "id": "S3_009",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Trappola della bocca del rospo",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(6s) tutte le carte sulla corsia.",
+      "Quando viene giocata, Blocca(10s) tutte le carte sulla corsia."
+    ]
+  },
+  {
+    "id": "S3_010",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Allenamento avanzato",
+    "rarity": "Common",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Concentrazione",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ogni volta che giochi un alleato di corsia con 3 o meno Chakra, gli concede Concentrazione(8s). Se quella Concentrazione riesce, la carta alleata ottiene Chakra(+3).",
+      "Ogni volta che giochi un alleato di corsia con 3 o meno Chakra, gli concede Concentrazione(8s). Se quella Concentrazione riesce, la carta alleata ottiene Chakra(+4)."
+    ]
+  },
+  {
+    "id": "S3_011",
+    "season": 3,
+    "name": "Orochimaru",
+    "ability": "Protetto",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 2,
+    "effects": [
+      "Difesa"
+    ],
+    "descriptions": [
+      "Difesa(1)",
+      "Difesa(2)"
+    ]
+  },
+  {
+    "id": "S3_012",
+    "season": 3,
+    "name": "Orochimaru",
+    "ability": "Sfuggente",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Scatto",
+      "Indebolimento",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Scatta(3s). Quando una carta avversaria si avvicina, la Indebolisce(1) e Cambia corsia.",
+      "Scatta(5s). Quando una carta avversaria si avvicina, la Indebolisce(1) e Cambia corsia."
+    ]
+  },
+  {
+    "id": "S3_013",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Impazienza",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Scatta(3s)",
+      "Scatta(4s)"
+    ]
+  },
+  {
+    "id": "S3_014",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Colpo di potenza",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Difesa",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Difesa(1). Quando una carta avversaria si avvicina, le salta addosso e la Respinge(2).",
+      "Difesa(1). Quando una carta avversaria si avvicina, le salta addosso e la Respinge(4)."
+    ]
+  },
+  {
+    "id": "S3_015",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Esperienza",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Scatta(3s). In caso di scontro, Respinge(1).",
+      "Scatta(4s). In caso di scontro, Respinge(1)."
+    ]
+  },
+  {
+    "id": "S3_016",
+    "season": 3,
+    "name": "Manda",
+    "ability": "Serpente colossale",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 7,
+    "effects": [
+      "Scatto",
+      "Difesa",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Scatta(4s) e Difesa(1). Quando Difesa si attiva, Cambia corsia.",
+      "Scatta(4s) e Difesa(2). Quando Difesa si attiva, Cambia corsia."
+    ]
+  },
+  {
+    "id": "S3_017",
+    "season": 3,
+    "name": "Katsuyu",
+    "ability": "Getto acido",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Indebolimento",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(2) e Rallenta(6s) tutti gli avversari nel medio raggio.",
+      "Quando viene giocata, Indebolisce(3) e Rallenta(6s) tutti gli avversari nel medio raggio."
+    ]
+  },
+  {
+    "id": "S3_018",
+    "season": 3,
+    "name": "Hiruzen Sarutobi",
+    "ability": "Prova dei campanelli",
+    "rarity": "Common",
+    "cost": 7,
+    "chakra": 5,
+    "effects": [
+      "Rallentamento",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Rallenta(6s) i prossimi 3 alleati giocati, fornendo loro Chakra(+1) ogni 3 secondi finché subiscono questo Rallenta.",
+      "Rallenta(9s) i prossimi 3 alleati giocati, fornendo loro Chakra(+1) ogni 3 secondi finché subiscono questo Rallenta."
+    ]
+  },
+  {
+    "id": "S3_019",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Fratello maggiore",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Scatto",
+      "Difesa",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Il prossimo Sasuke giocato ottiene Chakra(+2) e Scatta(4s) se giocato sulla stessa corsia, oppure Difesa(2) e Rallenta(10s) se giocato su un'altra corsia.",
+      "Il prossimo Sasuke giocato ottiene Chakra(+2) e Scatta(5s) se giocato sulla stessa corsia, oppure Difesa(2) e Rallenta(12s) se giocato su un'altra corsia."
+    ]
+  },
+  {
+    "id": "S3_020",
+    "season": 3,
+    "name": "Jirobo",
+    "ability": "Rilascio del segno maledetto",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Difesa(1). In caso di scontro, Respinge(1).",
+      "Difesa(2). In caso di scontro, Respinge(1)."
+    ]
+  },
+  {
+    "id": "S3_021",
+    "season": 3,
+    "name": "Kidomaru",
+    "ability": "Rilascio del segno maledetto",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Difesa(1) e Scatta(2s).",
+      "Difesa(1) e Scatta(4s)."
+    ]
+  },
+  {
+    "id": "S3_022",
+    "season": 3,
+    "name": "Kidomaru",
+    "ability": "Pioggia di ragni",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Blocco",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(4s) o Rallenta(6s) casualmente tutte le carte avversarie.",
+      "Quando viene giocata, Blocca(6s) o Rallenta(8s) casualmente tutte le carte avversarie."
+    ]
+  },
+  {
+    "id": "S3_023",
+    "season": 3,
+    "name": "Kimimaro",
+    "ability": "Controllo delle ossa",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Scatto",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Scatta(2s). In caso di scontro, Indebolisce(3).",
+      "Scatta(4s). In caso di scontro, Indebolisce(3)."
+    ]
+  },
+  {
+    "id": "S3_024",
+    "season": 3,
+    "name": "Sakon & Ukon",
+    "ability": "Rilascio del segno maledetto",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Difesa(1). In caso di scontro, Indebolisce(1).",
+      "Difesa(1). In caso di scontro, Indebolisce(2)."
+    ]
+  },
+  {
+    "id": "S3_025",
+    "season": 3,
+    "name": "Tayuya",
+    "ability": "Rilascio del segno maledetto",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Difesa(1) e Scatta(2s).",
+      "Difesa(1) e Scatta(4s)."
+    ]
+  },
+  {
+    "id": "S3_026",
+    "season": 3,
+    "name": "Kimimaro",
+    "ability": "Rilascio del segno maledetto",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Difesa",
+      "Blocco",
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Difesa(1). Quando una carta avversaria si avvicina, si Blocca(2s) e Chakra(+1). In caso di scontro, Indebolisce(1).",
+      "Difesa(2). Quando una carta avversaria si avvicina, si Blocca(2s) e Chakra(+1). In caso di scontro, Indebolisce(1)."
+    ]
+  },
+  {
+    "id": "S3_027",
+    "season": 3,
+    "name": "Shizune",
+    "ability": "Maialino devoto",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Evocazione",
+      "Chakra",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Evoca Tonton con Chakra(1) e Scatta(5s) sulla stessa corsia della Tsunade alleata. Raggiungendo una carta Tsunade alleata, le fornisce Chakra(+3) e poi si ritira.",
+      "Quando viene giocata, Evoca Tonton con Chakra(1) e Scatta(5s) sulla stessa corsia della Tsunade alleata. Raggiungendo una carta Tsunade alleata, le fornisce Chakra(+4) e poi si ritira."
+    ]
+  },
+  {
+    "id": "S3_028",
+    "season": 3,
+    "name": "Tsume Inuzuka",
+    "ability": "Maestra dei segugi",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Evocazione",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Evoca Kuromaru con Chakra(3) su un'altra corsia. Il prossimo Cane Ninja giocato ottiene Chakra(+2).",
+      "Quando viene giocata, Evoca Kuromaru con Chakra(3) su un'altra corsia. Il prossimo Cane Ninja giocato ottiene Chakra(+3)."
+    ]
+  },
+  {
+    "id": "S3_029",
+    "season": 3,
+    "name": "Akahoshi",
+    "ability": "Allenamento ingannevole",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Concentrazione",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Ogni volta che le carte alleate si Concentrano, concede loro Concentrazione(+4s). Indebolisce(1) le carte alleate ogni 4 secondi durante la Concentrazione.",
+      "Ogni volta che le carte alleate si Concentrano, concede loro Concentrazione(+6s). Indebolisce(1) le carte alleate ogni 4 secondi durante la Concentrazione."
+    ]
+  },
+  {
+    "id": "S3_030",
+    "season": 3,
+    "name": "Amachi",
+    "ability": "Palla di cannone acquatica",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Scatto",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Scatta(2s). Quando viene giocata, Indebolisce(1) la carta avversaria più vicina nel medio raggio.",
+      "Scatta(3s). Quando viene giocata, Indebolisce(2) la carta avversaria più vicina nel medio raggio."
+    ]
+  },
+  {
+    "id": "S3_031",
+    "season": 3,
+    "name": "Aoi Rokusho",
+    "ability": "Pioggia di aghi",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Indebolimento",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "In caso di scontro, Indebolisce(1) e Rallenta(3s) tutti gli avversari di corsia vicini.",
+      "In caso di scontro, Indebolisce(1) e Rallenta(5s) tutti gli avversari di corsia vicini."
+    ]
+  },
+  {
+    "id": "S3_032",
+    "season": 3,
+    "name": "Dan Kato",
+    "ability": "Sogno condiviso",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ogni volta che un'altra carta con Sogno Condiviso si ritira, questa carta ottiene Chakra(+1).",
+      "Ogni volta che un'altra carta con Sogno Condiviso si ritira, questa carta ottiene Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S3_033",
+    "season": 3,
+    "name": "Fugaku Uchiha",
+    "ability": "Capo degli Uchiha",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Difesa",
+      "Rallentamento",
+      "Chakra",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando vengono schierate carte Uchiha alleate, queste ottengono Difesa(+1) e Rallenta(6s) se hanno 3 o meno Chakra, altrimenti ottengono Chakra(+2) e Blocca(4s).",
+      "Quando vengono schierate carte Uchiha alleate, queste ottengono Difesa(+2) e Rallenta(6s) se hanno 3 o meno Chakra, altrimenti ottengono Chakra(+3) e Blocca(4s)."
+    ]
+  },
+  {
+    "id": "S3_034",
+    "season": 3,
+    "name": "Fūjin",
+    "ability": "Forza leggendaria",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Difesa(1). In caso di scontro, Indebolisce(1) e Respinge(3).",
+      "Difesa(2). In caso di scontro, Indebolisce(1) e Respinge(3)."
+    ]
+  },
+  {
+    "id": "S3_035",
+    "season": 3,
+    "name": "Gamatatsu",
+    "ability": "Fame motivante",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Concentrazione",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Si Concentra(12s). Ogni 4 secondi durante la Concentrazione, spende 1 energia se disponibile per fornire Chakra(+2) agli altri Rospi alleati.",
+      "Quando viene giocata, Si Concentra(16s). Ogni 4 secondi durante la Concentrazione, spende 1 energia se disponibile per fornire Chakra(+2) agli altri Rospi alleati."
+    ]
+  },
+  {
+    "id": "S3_036",
+    "season": 3,
+    "name": "Hanzaki",
+    "ability": "Piano di rapina",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Indebolimento",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Scatta(2s). Quando viene giocata, Indebolisce(1) tutti gli alleati di corsia, ottenendo Chakra(+2) per ogni alleato colpito.",
+      "Scatta(3s). Quando viene giocata, Indebolisce(1) tutti gli alleati di corsia, ottenendo Chakra(+2) per ogni alleato colpito."
+    ]
+  },
+  {
+    "id": "S3_037",
+    "season": 3,
+    "name": "Hanzaki",
+    "ability": "Affondo dello Zanbato",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Difesa",
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Difesa(1). Quando una carta avversaria si avvicina, le salta addosso e la Indebolisce(1) o la Respinge(1).",
+      "Difesa(2). Quando una carta avversaria si avvicina, le salta addosso e la Indebolisce(1) o la Respinge(1)."
+    ]
+  },
+  {
+    "id": "S3_038",
+    "season": 3,
+    "name": "Idate Morino",
+    "ability": "Corridore",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Scatto",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Scatta(4s). In caso di scontro, Cambia corsia.",
+      "Scatta(5s). In caso di scontro, Cambia corsia."
+    ]
+  },
+  {
+    "id": "S3_039",
+    "season": 3,
+    "name": "Jirocho Wasabi",
+    "ability": "Fiducia sincera",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Scatto",
+      "Difesa"
+    ],
+    "descriptions": [
+      "Il prossimo alleato schierato su un'altra corsia ottiene Scatto(2s) e Difesa(1). Quando raggiunge la media distanza, converte lo Scatto residuo in un massimo di 3 Chakra.",
+      "Il prossimo alleato schierato su un'altra corsia ottiene Scatto(3s) e Difesa(1). Quando raggiunge la media distanza, converte lo Scatto residuo in un massimo di 3 Chakra."
+    ]
+  },
+  {
+    "id": "S3_040",
+    "season": 3,
+    "name": "Arashi",
+    "ability": "Mandala vincolante",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Spinta",
+      "Blocco",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Respinge(2) e Blocca(8s) l'avversario di corsia con più Chakra. Finché quell'avversario resta Bloccato da questo effetto, Indebolisce(1) la carta avversaria ogni 4s.",
+      "Quando viene giocata, Respinge(4) e Blocca(8s) l'avversario di corsia con più Chakra. Finché quell'avversario resta Bloccato da questo effetto, Indebolisce(1) la carta avversaria ogni 4s."
+    ]
+  },
+  {
+    "id": "S3_041",
+    "season": 3,
+    "name": "Kagerō",
+    "ability": "Arte ninja di Kagero",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Indebolimento",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Indebolisce(3) 2 avversari di corsia nel medio raggio, poi Cambia corsia a sé stessa e a 2 alleati di corsia nel corto raggio.",
+      "Quando viene giocata, Indebolisce(4) 2 avversari di corsia nel medio raggio, poi Cambia corsia a sé stessa e a 2 alleati di corsia nel corto raggio."
+    ]
+  },
+  {
+    "id": "S3_042",
+    "season": 3,
+    "name": "Kyuroku Wagarashi",
+    "ability": "Disonorevole",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Scatto",
+      "Cambio",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Il prossimo alleato di corsia schierato ottiene Scatto(4s). Quando questa carta si ritira, quell'alleato Cambia corsia e tutti gli alleati di corsia vengono Rallentati(3s).",
+      "Il prossimo alleato di corsia schierato ottiene Scatto(5s). Quando questa carta si ritira, quell'alleato Cambia corsia e tutti gli alleati di corsia vengono Rallentati(3s)."
+    ]
+  },
+  {
+    "id": "S3_043",
+    "season": 3,
+    "name": "Mikoto Uchiha",
+    "ability": "Conforto",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Cura"
+    ],
+    "descriptions": [
+      "Il prossimo Sasuke giocato ottiene Chakra(+1). La prima volta che una carta Sasuke alleata scende sotto il Chakra base, la Cura(1).",
+      "Il prossimo Sasuke giocato ottiene Chakra(+1). La prima volta che una carta Sasuke alleata scende sotto il Chakra base, la Cura(2)."
+    ]
+  },
+  {
+    "id": "S3_044",
+    "season": 3,
+    "name": "Mizuki",
+    "ability": "Segno maledetto animale",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento",
+      "Chakra"
+    ],
+    "descriptions": [
+      "In caso di scontro, Indebolisce(4). Dopo 20 secondi, imposta il proprio Chakra a Chakra(1) e disattiva questa abilità.",
+      "In caso di scontro, Indebolisce(5). Dopo 20 secondi, imposta il proprio Chakra a Chakra(1) e disattiva questa abilità."
+    ]
+  },
+  {
+    "id": "S3_045",
+    "season": 3,
+    "name": "Nawaki",
+    "ability": "Sogno condiviso",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ogni volta che un'altra carta con Sogno Condiviso si ritira, questa carta ottiene Chakra(+1).",
+      "Ogni volta che un'altra carta con Sogno Condiviso si ritira, questa carta ottiene Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S3_046",
+    "season": 3,
+    "name": "Raiga Kurosuki",
+    "ability": "Spade del tuono",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Indebolimento",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Quando una carta avversaria si avvicina, la Indebolisce(1) e le Cambia corsia.",
+      "Quando una carta avversaria si avvicina, la Indebolisce(2) e le Cambia corsia."
+    ]
+  },
+  {
+    "id": "S3_047",
+    "season": 3,
+    "name": "Raijin",
+    "ability": "Forza leggendaria",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Difesa(1). In caso di scontro, Indebolisce(1) e Respinge(3).",
+      "Difesa(2). In caso di scontro, Indebolisce(1) e Respinge(3)."
+    ]
+  },
+  {
+    "id": "S3_048",
+    "season": 3,
+    "name": "Sumaru",
+    "ability": "Guida del luogo",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Scatto"
+    ],
+    "descriptions": [
+      "Quando viene giocata, 2 alleati nel corto raggio ottengono Scatta(3s).",
+      "Quando viene giocata, 3 alleati nel corto raggio ottengono Scatta(3s)."
+    ]
+  },
+  {
+    "id": "S3_049",
+    "season": 3,
+    "name": "Yoshino Nara",
+    "ability": "Severità",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Il prossimo Shikamaru giocato ottiene Chakra(+1) e Rallenta(8s).",
+      "Il prossimo Shikamaru giocato ottiene Chakra(+1) e Rallenta(12s)."
+    ]
+  },
+  {
+    "id": "S3_050",
+    "season": 3,
+    "name": "Trio Uchiha",
+    "ability": "Sospetto",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Scatta(4s). Quando è nel medio raggio, Chakra(+2).",
+      "Scatta(6s). Quando è nel medio raggio, Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S3_051",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "Manto della volpe demoniaca",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Chakra",
+      "Cura"
+    ],
+    "descriptions": [
+      "Scatta(3s). Quando viene giocata, Chakra(+2). La prima volta che questa carta scende sotto il Chakra base, Cura(2).",
+      "Scatta(5s). Quando viene giocata, Chakra(+2). La prima volta che questa carta scende sotto il Chakra base, Cura(2)."
+    ]
+  },
+  {
+    "id": "S3_052",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Rilascio del segno maledetto",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "La prima volta che questa carta ottiene Chakra, ottiene Chakra(+2) aggiuntivo.",
+      "La prima volta che questa carta ottiene Chakra, ottiene Chakra(+4) aggiuntivo."
+    ]
+  },
+  {
+    "id": "S3_053",
+    "season": 3,
+    "name": "Kankuro",
+    "ability": "Superiorità tattica",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Teletrasporto"
+    ],
+    "descriptions": [
+      "Ogni volta che gli alleati si Teletrasportano dietro gli avversari, ottiene Chakra(+2).",
+      "Ogni volta che gli alleati si Teletrasportano dietro gli avversari, ottiene Chakra(+3)."
+    ]
+  },
+  {
+    "id": "S3_054",
+    "season": 3,
+    "name": "Shikamaru Nara",
+    "ability": "Strangolamento dell'ombra",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando un avversario si avvicina, applica Blocco(6s) a lui e a sé stessa. L'avversario perde 1 Chakra ogni 2 secondi finché è sotto questo Blocco.",
+      "Quando un avversario si avvicina, applica Blocco(8s) a lui e a sé stessa. L'avversario perde 1 Chakra ogni 2 secondi finché è sotto questo Blocco."
+    ]
+  },
+  {
+    "id": "S3_055",
+    "season": 3,
+    "name": "Akamaru",
+    "ability": "Marcatura",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Rallentamento",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Rallenta(8s) tutti gli avversari di corsia. Finché questo Rallenta è attivo, Indebolimento(+1) alle abilità Indebolire alleate applicate agli avversari colpiti.",
+      "Quando viene giocata, Rallenta(12s) tutti gli avversari di corsia. Finché questo Rallenta è attivo, Indebolimento(+1) alle abilità Indebolire alleate applicate agli avversari colpiti."
+    ]
+  },
+  {
+    "id": "S3_056",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Compostezza",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Blocco",
+      "Concentrazione"
+    ],
+    "descriptions": [
+      "Ottiene Chakra(+1) e si Blocca(2s) ogni volta che una carta ottiene Concentrazione.",
+      "Ottiene Chakra(+2) e si Blocca(4s) ogni volta che una carta ottiene Concentrazione."
+    ]
+  },
+  {
+    "id": "S3_057",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Esperienza",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Scatta(3s). In caso di scontro, Cambia corsia.",
+      "Scatta(4s). In caso di scontro, Cambia corsia."
+    ]
+  },
+  {
+    "id": "S3_058",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Jizo degli aghi",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Difesa",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Difesa(2). Quando Difesa si attiva, Indebolisce(2) l'avversario che l'ha attivata. Ignora Difesa.",
+      "Difesa(3). Quando Difesa si attiva, Indebolisce(2) l'avversario che l'ha attivata. Ignora Difesa."
+    ]
+  },
+  {
+    "id": "S3_059",
+    "season": 3,
+    "name": "Orochimaru",
+    "ability": "Esperienza",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Scatta(3s). In caso di scontro, Indebolisce(1).",
+      "Scatta(4s). In caso di scontro, Indebolisce(1)."
+    ]
+  },
+  {
+    "id": "S3_060",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "La Quinta",
+    "rarity": "Rare",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Indebolimento",
+      "Cura"
+    ],
+    "descriptions": [
+      "Quando viene schierata, fornisce Chakra(+1) a tutti gli alleati sulle altre corsie. Finché questa carta è attiva, quando un alleato subisce Indebolimento per la prima volta, gli applica Cura(2).",
+      "Quando viene schierata, fornisce Chakra(+2) a tutti gli alleati sulle altre corsie. Finché questa carta è attiva, quando un alleato subisce Indebolimento per la prima volta, gli applica Cura(2)."
+    ]
+  },
+  {
+    "id": "S3_061",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Bersaglio leggendario",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Quando viene giocata, 10% di probabilità di ottenere Chakra(+6). Altrimenti, ottiene Scatta(3s).",
+      "Quando viene giocata, 10% di probabilità di ottenere Chakra(+7). Altrimenti, ottiene Scatta(4s)."
+    ]
+  },
+  {
+    "id": "S3_062",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Cura disperata",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Cura"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Cura(2) l'alleato di corsia più vicino. La prima volta che un alleato di corsia perde Chakra da qualsiasi fonte, lo Cura(2).",
+      "Quando viene giocata, Cura(3) l'alleato di corsia più vicino. La prima volta che un alleato di corsia perde Chakra da qualsiasi fonte, lo Cura(3)."
+    ]
+  },
+  {
+    "id": "S3_063",
+    "season": 3,
+    "name": "Gamabunta",
+    "ability": "Arte della spada del rospo",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Indebolimento",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Quando una carta avversaria si avvicina, le salta addosso e la Indebolisce(2). Ottiene Scatta(+3s) la prima volta che ottiene Chakra.",
+      "Quando una carta avversaria si avvicina, le salta addosso e la Indebolisce(3). Ottiene Scatta(+4s) la prima volta che ottiene Chakra."
+    ]
+  },
+  {
+    "id": "S3_064",
+    "season": 3,
+    "name": "Kabuto Yakuchi",
+    "ability": "Bisturi di chakra",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Teletrasporto",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Scatta(2s). In caso di scontro, si Teletrasporta dietro la carta avversaria e la Blocca in modo permanente.",
+      "Scatta(3s). In caso di scontro, si Teletrasporta dietro la carta avversaria e la Blocca in modo permanente."
+    ]
+  },
+  {
+    "id": "S3_065",
+    "season": 3,
+    "name": "Kisame Hoshigaki",
+    "ability": "Difesa di Samehada",
+    "rarity": "Rare",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Difesa",
+      "Indebolimento",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Difesa(3). Quando Difesa si attiva, Indebolisce(1) l'avversario che l'ha attivata e ottiene Chakra(+1).",
+      "Difesa(4). Quando Difesa si attiva, Indebolisce(1) l'avversario che l'ha attivata e ottiene Chakra(+1)."
+    ]
+  },
+  {
+    "id": "S3_066",
+    "season": 3,
+    "name": "Jirobo",
+    "ability": "Assorbimento del chakra",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "A ogni scontro, Chakra(+1) per questa carta e Indebolisce(1) la carta avversaria.",
+      "A ogni scontro, Chakra(+1) per questa carta e Indebolisce(2) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S3_067",
+    "season": 3,
+    "name": "Sakon & Ukon",
+    "ability": "Fusione maledetta",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Teletrasporto",
+      "Blocco"
+    ],
+    "descriptions": [
+      "In caso di scontro, si Teletrasporta dietro la carta avversaria poi Blocca(6s) lei e questa carta. L'avversario perde 1 Chakra ogni 2 secondi finché subisce questo Blocca.",
+      "In caso di scontro, si Teletrasporta dietro la carta avversaria poi Blocca(8s) lei e questa carta. L'avversario perde 1 Chakra ogni 2 secondi finché subisce questo Blocca."
+    ]
+  },
+  {
+    "id": "S3_068",
+    "season": 3,
+    "name": "Kurenai Yuhi",
+    "ability": "Finta illusoria",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Teletrasporto",
+      "Indebolimento",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "In caso di scontro, si Teletrasporta dietro la carta avversaria, la Indebolisce(2) e la Rallenta(4s).",
+      "In caso di scontro, si Teletrasporta dietro la carta avversaria, la Indebolisce(2) e la Rallenta(8s)."
+    ]
+  },
+  {
+    "id": "S3_069",
+    "season": 3,
+    "name": "Shizune",
+    "ability": "Nebbia velenosa",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Rallenta(8s) tutte le carte nel medio raggio e ne disattiva le abilità. Perdono 2 Chakra ogni 4 secondi finché subiscono questo Rallenta.",
+      "Quando viene giocata, Rallenta(12s) tutte le carte nel medio raggio e ne disattiva le abilità. Perdono 2 Chakra ogni 4 secondi finché subiscono questo Rallenta."
+    ]
+  },
+  {
+    "id": "S3_070",
+    "season": 3,
+    "name": "Akahoshi",
+    "ability": "Senza scrupoli",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Indebolimento",
+      "Difesa"
+    ],
+    "descriptions": [
+      "Difesa(1). Quando Difesa si attiva, applica Indebolimento(2) all'avversario che l'ha attivata. La prima volta che perde Chakra, applica Indebolimento(2) a un alleato casuale e ottiene Chakra(+2) e Difesa(+1).",
+      "Difesa(1). Quando Difesa si attiva, applica Indebolimento(2) all'avversario che l'ha attivata. La prima volta che perde Chakra, applica Indebolimento(2) a un alleato casuale e ottiene Chakra(+3) e Difesa(+1)."
+    ]
+  },
+  {
+    "id": "S3_071",
+    "season": 3,
+    "name": "Amachi",
+    "ability": "Mostro marino",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Blocco",
+      "Rallentamento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, si Blocca(6s). Finché è Bloccata, ogni 3 secondi Blocca(3s) o Rallenta(6s) tutti gli avversari di corsia.",
+      "Quando viene giocata, si Blocca(9s). Finché è Bloccata, ogni 3 secondi Blocca(3s) o Rallenta(6s) tutti gli avversari di corsia."
+    ]
+  },
+  {
+    "id": "S3_072",
+    "season": 3,
+    "name": "Aoi Rokusho",
+    "ability": "Spada Raijin",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Difesa",
+      "Indebolimento",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Difesa(2). In caso di scontro, Indebolisce(1) e Blocca(2s) la carta avversaria. Ignora Difesa.",
+      "Difesa(2). In caso di scontro, Indebolisce(2) e Blocca(4s) la carta avversaria. Ignora Difesa."
+    ]
+  },
+  {
+    "id": "S3_073",
+    "season": 3,
+    "name": "Sumaru",
+    "ability": "Chakra della stella",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Cambio",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Chakra(+1) e Cambia corsia se ci sono alleati di corsia. In caso di scontro, Indebolisce(2) la carta avversaria.",
+      "Quando viene giocata, Chakra(+1) e Cambia corsia se ci sono alleati di corsia. In caso di scontro, Indebolisce(3) la carta avversaria."
+    ]
+  },
+  {
+    "id": "S3_074",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "Rasengan",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "In caso di scontro, Indebolisce(2) e Respinge(4). Rimuove tutta la Difesa dalla carta avversaria.",
+      "In caso di scontro, Indebolisce(3) e Respinge(5). Rimuove tutta la Difesa dalla carta avversaria."
+    ]
+  },
+  {
+    "id": "S3_075",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "Forma a una coda",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Indebolimento",
+      "Cura"
+    ],
+    "descriptions": [
+      "A ogni scontro, Indebolisce(1). La prima volta che questa carta scende sotto il Chakra base, si Cura(3).",
+      "A ogni scontro, Indebolisce(1). La prima volta che questa carta scende sotto il Chakra base, si Cura(4)."
+    ]
+  },
+  {
+    "id": "S3_076",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Previsione evoluta",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Difesa(3). Quando Difesa si attiva, Chakra(+1). Non può essere Indebolita negli scontri con carte avversarie di 3 o meno Chakra.",
+      "Difesa(3). Quando Difesa si attiva, Chakra(+2). Non può essere Indebolita negli scontri con carte avversarie di 3 o meno Chakra."
+    ]
+  },
+  {
+    "id": "S3_077",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Difesa alata",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Difesa",
+      "Indebolimento",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Difesa(2). In caso di scontro, Indebolisce(2). Quando Difesa si attiva, ottiene Scatta(2s) e riattiva questa abilità.",
+      "Difesa(2). In caso di scontro, Indebolisce(2). Quando Difesa si attiva, ottiene Scatta(4s) e riattiva questa abilità."
+    ]
+  },
+  {
+    "id": "S3_078",
+    "season": 3,
+    "name": "Gaara",
+    "ability": "Scudo di Shukaku",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Difesa"
+    ],
+    "descriptions": [
+      "Difesa(3). Finché questa carta è attiva, gli alleati di corsia dietro di essa ignorano gli effetti delle abilità avversarie ma consumano la Difesa di questa carta.",
+      "Difesa(4). Finché questa carta è attiva, gli alleati di corsia dietro di essa ignorano gli effetti delle abilità avversarie ma consumano la Difesa di questa carta."
+    ]
+  },
+  {
+    "id": "S3_079",
+    "season": 3,
+    "name": "Kiba Inuzuka",
+    "ability": "Combinazione di trasformazione",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, ritira Akamaru e Kiba alleati e trasferisce il loro Chakra a questa carta, ottenendo Chakra(+1) aggiuntivo per ogni ritiro. A ogni scontro, Indebolisce(1).",
+      "Quando viene giocata, ritira Akamaru e Kiba alleati e trasferisce il loro Chakra a questa carta, ottenendo Chakra(+2) aggiuntivo per ogni ritiro. A ogni scontro, Indebolisce(1)."
+    ]
+  },
+  {
+    "id": "S3_080",
+    "season": 3,
+    "name": "Rock Lee",
+    "ability": "Pugno barcollante",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Indebolimento",
+      "Scatto",
+      "Difesa",
+      "Concentrazione"
+    ],
+    "descriptions": [
+      "Ogni 10s avvia Concentrazione(3s) su sé stesso. Se riesce, ottiene casualmente Scatto(2s), Difesa(1) o Chakra(+1). A ogni combattimento, applica Indebolimento(1).",
+      "Ogni 8s avvia Concentrazione(3s) su sé stesso. Se riesce, ottiene casualmente Scatto(2s), Difesa(1) o Chakra(+1). A ogni combattimento, applica Indebolimento(1)."
+    ]
+  },
+  {
+    "id": "S3_081",
+    "season": 3,
+    "name": "Temari",
+    "ability": "Danza della decapitazione rapida",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 2,
+    "effects": [
+      "Concentrazione",
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Si Concentra(9s). Ogni 3 secondi durante la Concentrazione, Indebolisce(1) e Respinge(2) tutti gli avversari nel medio e lungo raggio.",
+      "Quando viene giocata, Si Concentra(9s). Ogni 3 secondi durante la Concentrazione, Indebolisce(1) e Respinge(4) tutti gli avversari nel medio e lungo raggio."
+    ]
+  },
+  {
+    "id": "S3_082",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Esercito dello Tsukuyomi",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Evocazione",
+      "Scatto"
+    ],
+    "descriptions": [
+      "Finché questa carta è attiva, ogni volta che Blocchi carte avversarie, Evoca un clone di questa carta su quella stessa corsia con Scatta(4s) e perde 1 Chakra. I cloni non possono segnare punti né ottenere Chakra.",
+      "Finché questa carta è attiva, ogni volta che Blocchi carte avversarie, Evoca un clone di questa carta su quella stessa corsia con Scatta(6s) e perde 1 Chakra. I cloni non possono segnare punti né ottenere Chakra."
+    ]
+  },
+  {
+    "id": "S3_083",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Fuga da Amaterasu",
+    "rarity": "Epic",
+    "cost": 7,
+    "chakra": 6,
+    "effects": [
+      "Bruciatura",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Ogni volta che una carta avversaria si avvicina, la Brucia(10), poi Cambia corsia e perde 1 Chakra. Questo effetto Brucia può propagarsi ad altre carte al contatto e ignora Difesa.",
+      "Ogni volta che una carta avversaria si avvicina, la Brucia(15), poi Cambia corsia e perde 1 Chakra. Questo effetto Brucia può propagarsi ad altre carte al contatto e ignora Difesa."
+    ]
+  },
+  {
+    "id": "S3_084",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Lanciafiamme dell'olio di rospo",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Bruciatura",
+      "Concentrazione",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Brucia(3) tutte le carte avversarie poi Si Concentra(8s). Durante la Concentrazione, ottiene Chakra(+1) ogni volta che gli alleati applicano Brucia. Se la Concentrazione riesce, Brucia(4) tutte le carte avversarie.",
+      "Quando viene giocata, Brucia(3) tutte le carte avversarie poi Si Concentra(8s). Durante la Concentrazione, ottiene Chakra(+1) ogni volta che gli alleati applicano Brucia. Se la Concentrazione riesce, Brucia(5) tutte le carte avversarie."
+    ]
+  },
+  {
+    "id": "S3_085",
+    "season": 3,
+    "name": "Gamabunta",
+    "ability": "Combinazione dell'olio di rospo",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Bruciatura"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Brucia(3) tutti gli avversari di corsia. Se degli avversari subiscono già Brucia, attiva istantaneamente la quantità di Brucia rimanente.",
+      "Quando viene giocata, Brucia(4) tutti gli avversari di corsia. Se degli avversari subiscono già Brucia, attiva istantaneamente la quantità di Brucia rimanente."
+    ]
+  },
+  {
+    "id": "S3_086",
+    "season": 3,
+    "name": "Kidomaru",
+    "ability": "Arco del ragno",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Indebolimento",
+      "Blocco",
+      "Concentrazione"
+    ],
+    "descriptions": [
+      "Quando viene schierato, avvia Concentrazione(12s). Ogni 4 secondi durante Concentrazione, applica Indebolimento(2) e Blocco(6s) all'avversario con più Chakra a lunga distanza.",
+      "Quando viene schierato, avvia Concentrazione(16s). Ogni 4 secondi durante Concentrazione, applica Indebolimento(2) e Blocco(6s) all'avversario con più Chakra a lunga distanza."
+    ]
+  },
+  {
+    "id": "S3_087",
+    "season": 3,
+    "name": "Tayuya",
+    "ability": "Flauto demoniaco",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Chakra(+1). Finché questa carta è attiva, i Rallenta applicati dagli alleati non scadono.",
+      "Quando viene giocata, Chakra(+2). Finché questa carta è attiva, i Rallenta applicati dagli alleati non scadono."
+    ]
+  },
+  {
+    "id": "S3_088",
+    "season": 3,
+    "name": "Kimimaro",
+    "ability": "Arma vivente",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Difesa",
+      "Indebolimento",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Difesa(3). A ogni scontro, Indebolisce(2). Cambia corsia quando fa ritirare un avversario.",
+      "Difesa(5). A ogni scontro, Indebolisce(2). Cambia corsia quando fa ritirare un avversario."
+    ]
+  },
+  {
+    "id": "S3_089",
+    "season": 3,
+    "name": "Akahoshi",
+    "ability": "Drago della stella",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Spinta",
+      "Indebolimento",
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Respinge(2), Indebolisce(1) e Blocca(4s) tutti gli avversari di corsia.",
+      "Quando viene giocata, Respinge(2), Indebolisce(1) e Blocca(8s) tutti gli avversari di corsia."
+    ]
+  },
+  {
+    "id": "S3_090",
+    "season": 3,
+    "name": "Raiga Kurosuki",
+    "ability": "Tornado del drago del tuono",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Concentrazione",
+      "Indebolimento",
+      "Spinta"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Si Concentra(8s). Se la Concentrazione riesce, Indebolisce(3) e Respinge(2) tutti gli avversari di corsia nel corto e medio raggio.",
+      "Quando viene giocata, Si Concentra(6s). Se la Concentrazione riesce, Indebolisce(3) e Respinge(2) tutti gli avversari di corsia nel corto e medio raggio."
+    ]
+  },
+  {
+    "id": "S3_091",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Chidori nero",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Scatto",
+      "Chakra",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Scatta(4s). Salta alla prima carta rivale che si avvicina, ottiene Chakra(+2) e la Indebolisce(3). Indebolisce(2) tutte le altre carte vicine. Ignora Difesa.",
+      "Scatta(5s). Salta alla prima carta rivale che si avvicina, ottiene Chakra(+2) e la Indebolisce(4). Indebolisce(2) tutte le altre carte vicine. Ignora Difesa."
+    ]
+  },
+  {
+    "id": "S3_092",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "Rasengan della volpe demoniaca",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Indebolimento",
+      "Spinta",
+      "Scatto",
+      "Difesa"
+    ],
+    "descriptions": [
+      "Scatto(4s). Salta sul primo avversario che si avvicina, applicandogli Indebolimento(3) e Spinta(2). Applica Indebolimento(2) a tutte le altre carte vicine. Rimuove tutta la Difesa dell'avversario.",
+      "Scatto(5s). Salta sul primo avversario che si avvicina, applicandogli Indebolimento(4) e Spinta(2). Applica Indebolimento(2) a tutte le altre carte vicine. Rimuove tutta la Difesa dell'avversario."
+    ]
+  },
+  {
+    "id": "S3_093",
+    "season": 3,
+    "name": "Choji Akimichi",
+    "ability": "Furia della farfalla",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Indebolimento",
+      "Spinta",
+      "Difesa"
+    ],
+    "descriptions": [
+      "Difesa(3). Quando Difesa si attiva, ottiene Chakra(+2). Se l'avversario che ha attivato Difesa è vicino, salta su di lui. Finché Difesa è disponibile, applica Indebolimento(2) e Spinta(1) a ogni combattimento.",
+      "Difesa(3). Quando Difesa si attiva, ottiene Chakra(+3). Se l'avversario che ha attivato Difesa è vicino, salta su di lui. Finché Difesa è disponibile, applica Indebolimento(2) e Spinta(1) a ogni combattimento."
+    ]
+  },
+  {
+    "id": "S3_094",
+    "season": 3,
+    "name": "Gaara",
+    "ability": "Tsunami di sabbia",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 3,
+    "effects": [
+      "Concentrazione",
+      "Indebolimento",
+      "Spinta",
+      "Sigillo"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Si Concentra(6s). Ogni 2 secondi durante la Concentrazione, Indebolisce(1) e Respinge(1) tutte le carte avversarie. Se hanno 2 o meno Chakra, invece Indebolisce(2). Quando questa carta ne fa ritirare un'altra, la Sigilla(5s).",
+      "Quando viene giocata, Si Concentra(8s). Ogni 2 secondi durante la Concentrazione, Indebolisce(1) e Respinge(1) tutte le carte avversarie. Se hanno 3 o meno Chakra, invece Indebolisce(3). Quando questa carta ne fa ritirare un'altra, la Sigilla(5s)."
+    ]
+  },
+  {
+    "id": "S3_095",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Tsukuyomi",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Blocco"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Blocca(12s) la carta avversaria più vicina, poi perde 1 Chakra. Se la carta avversaria ha più di 1 Chakra, perde 1 Chakra al secondo. Ogni volta che gli alleati Bloccano carte avversarie, riattiva questa abilità per ogni avversario colpito.",
+      "Quando viene giocata, Blocca(16s) la carta avversaria più vicina, poi perde 1 Chakra. Se la carta avversaria ha più di 1 Chakra, perde 1 Chakra al secondo. Ogni volta che gli alleati Bloccano carte avversarie, riattiva questa abilità per ogni avversario colpito."
+    ]
+  },
+  {
+    "id": "S3_096",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Carneficina",
+    "rarity": "Legendary",
+    "cost": 7,
+    "chakra": 6,
+    "effects": [
+      "Indebolimento",
+      "Blocco",
+      "Cambio"
+    ],
+    "descriptions": [
+      "Ogni volta che una carta viene giocata sulla stessa corsia, la Indebolisce(1) e la Blocca(10s). Se ha 3 o meno Chakra, invece la Indebolisce(3). Poi Cambia corsia.",
+      "Ogni volta che una carta viene giocata sulla stessa corsia, la Indebolisce(2) e la Blocca(10s). Se ha 4 o meno Chakra, invece la Indebolisce(4). Poi Cambia corsia."
+    ]
+  },
+  {
+    "id": "S3_097",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Rigenerazione mitotica",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Cura"
+    ],
+    "descriptions": [
+      "La prima volta che scende sotto il Chakra base, si Cura fino a quel valore e ottiene Chakra(+4). Per i successivi 10 secondi ignora le abilità avversarie e applica Cura(4) a sé stessa dopo ogni combattimento. Quando si ritira, riduce permanentemente il proprio Chakra base di 1.",
+      "La prima volta che scende sotto il Chakra base, si Cura fino a quel valore e ottiene Chakra(+5). Per i successivi 10 secondi ignora le abilità avversarie e applica Cura(4) a sé stessa dopo ogni combattimento. Quando si ritira, riduce permanentemente il proprio Chakra base di 1."
+    ]
+  },
+  {
+    "id": "S3_098",
+    "season": 3,
+    "name": "Sakon & Ukon",
+    "ability": "Difesa sincronizzata",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Difesa",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Si schiera come Sakon e Ukon su corsie separate con Difesa(2). Ogni volta che la Difesa di un alleato si attiva, entrambe le carte ottengono Chakra(+1).",
+      "Si schiera come Sakon e Ukon su corsie separate con Difesa(4). Ogni volta che la Difesa di un alleato si attiva, entrambe le carte ottengono Chakra(+1)."
+    ]
+  },
+  {
+    "id": "S3_099",
+    "season": 3,
+    "name": "Tayuya",
+    "ability": "Evocazione dei Doki",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Evocazione",
+      "Concentrazione"
+    ],
+    "descriptions": [
+      "Quando viene schierata, avvia Concentrazione(8s). Se riesce, Evoca un demone Doki su ogni corsia. Ogni volta che Evochi altre carte, queste ottengono Chakra(+1). Ignora tutte le abilità e i combattimenti avversari finché i demoni sono attivi.",
+      "Quando viene schierata, avvia Concentrazione(6s). Se riesce, Evoca un demone Doki su ogni corsia. Ogni volta che Evochi altre carte, queste ottengono Chakra(+1). Ignora tutte le abilità e i combattimenti avversari finché i demoni sono attivi."
+    ]
+  },
+  {
+    "id": "S3_100",
+    "season": 3,
+    "name": "Kimimaro",
+    "ability": "Lealtà incrollabile",
+    "rarity": "Legendary",
+    "cost": 9,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Scatto",
+      "Difesa",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, ottiene Chakra(+6) e Scatta(5s). Difesa permanente finché Scatta è attivo. A ogni scontro, si Indebolisce(1) e Indebolisce(3) la carta avversaria. Al ritiro, Indebolisce(2) tutte le carte. Non può essere influenzata dalle abilità alleate.",
+      "Quando viene giocata, ottiene Chakra(+8) e Scatta(6s). Difesa permanente finché Scatta è attivo. A ogni scontro, si Indebolisce(1) e Indebolisce(3) la carta avversaria. Al ritiro, Indebolisce(2) tutte le carte. Non può essere influenzata dalle abilità alleate."
+    ]
+  },
+  {
+    "id": "SR_001",
+    "season": "Event",
+    "name": "Sakura Haruno",
+    "ability": "Allieva guaritrice",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Cura",
+      "Bruciatura",
+      "Blocco",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, Cura(1) l’alleato più vicino in corsia. Cura(2) il primo alleato in corsia colpito da Bruciatura, Blocco o Indebolimento avversari.",
+      "Quando viene giocata, Cura(1) l’alleato più vicino in corsia. Cura(4) il primo alleato in corsia colpito da Bruciatura, Blocco o Indebolimento avversari."
+    ]
+  },
+  {
+    "id": "SR_002",
+    "season": "Event",
+    "name": "Seimei",
+    "ability": "Forma definitiva",
+    "rarity": "Epic",
+    "cost": 8,
+    "chakra": 6,
+    "effects": [
+      "Difesa",
+      "Concentrazione",
+      "Blocco",
+      "Indebolimento",
+      "Assorbimento"
+    ],
+    "descriptions": [
+      "Difesa(1). Quando viene giocata, avvia Concentrazione(12s) su di sé e applica Blocco(12s) all’avversario in corsia con più Chakra. Durante la Concentrazione, assorbe(1) dallo stesso avversario ogni 3s. Al termine, applica Indebolimento(1) fino a tre volte ad avversari casuali. Nel medio raggio, assorbe(2) dall’avversario con più Chakra.",
+      "Difesa(1). Quando viene giocata, avvia Concentrazione(15s) su di sé e applica Blocco(15s) all’avversario in corsia con più Chakra. Durante la Concentrazione, assorbe(1) dallo stesso avversario ogni 3s. Al termine, applica Indebolimento(1) fino a tre volte ad avversari casuali. Nel medio raggio, assorbe(2) dall’avversario con più Chakra."
+    ]
+  },
+  {
+    "id": "SR_003",
+    "season": "Event",
+    "name": "Hoki",
+    "ability": "Arsenale completo",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 5,
+    "effects": [
+      "Difesa",
+      "Indebolimento",
+      "Assorbimento"
+    ],
+    "descriptions": [
+      "Difesa(1). Quando viene giocata, applica Indebolimento(1) fino a tre volte ad avversari casuali in corsia. A ogni scontro, assorbe(1) dall’avversario.",
+      "Difesa(2). Quando viene giocata, applica Indebolimento(1) fino a tre volte ad avversari casuali in corsia. A ogni scontro, assorbe(1) dall’avversario."
+    ]
+  },
+  {
+    "id": "SR_004",
+    "season": "Event",
+    "name": "Hoki",
+    "ability": "Formazione a scaglie inverse",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "Quando viene giocata, se gli alleati hanno almeno 5 Chakra totali in ogni corsia, applica Indebolimento(10) all’avversario con più Chakra. Poi tutti gli alleati perdono 2 Chakra.",
+      "Quando viene giocata, se gli alleati hanno almeno 5 Chakra totali in ogni corsia, applica Indebolimento(12) all’avversario con più Chakra. Poi tutti gli alleati perdono 2 Chakra."
+    ]
+  },
+  {
+    "id": "SR_005",
+    "season": "Event",
+    "name": "Gaara",
+    "ability": "Lancia di Shukaku",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Concentrazione",
+      "Indebolimento"
+    ],
+    "descriptions": [
+      "La prima volta che un avversario in corsia raggiunge almeno 10 Chakra, avvia Concentrazione(6s). Se la completa, applica Indebolimento(10) a quell’avversario ignorando la Difesa.",
+      "La prima volta che un avversario in corsia raggiunge almeno 10 Chakra, avvia Concentrazione(5s). Se la completa, applica Indebolimento(12) a quell’avversario ignorando la Difesa."
+    ]
+  }
+]

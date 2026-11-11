@@ -1,0 +1,4 @@
+/.env*
+/node_modules/
+/legacy-nexus/
+/naruto_db_project/

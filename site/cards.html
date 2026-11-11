@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Catalogo carte · NEXUS</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="js/cards.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">NEXUS</a>
+    <nav aria-label="Navigazione principale">
+      <a href="cards.html" aria-current="page">Carte</a>
+      <a href="decks.html">Mazzi</a>
+      <a href="top-decks.html">Top Decks</a>
+    </nav>
+  </header>
+  <main class="shell">
+    <div class="page-intro">
+      <p class="eyebrow">Database Naruto Ninja Cards</p>
+      <h1>Catalogo carte</h1>
+      <p>Cerca una carta e apri la sua scheda per leggere gli effetti di ciascun livello.</p>
+    </div>
+    <div class="filters" id="filters" hidden>
+      <label>Cerca <input type="search" id="search" placeholder="Nome, ID o abilità"></label>
+      <label>Collezione
+        <select id="season">
+          <option value="">Tutte</option>
+          <option value="1">Season 1</option>
+          <option value="2">Season 2</option>
+          <option value="3">Season 3</option>
+          <option value="Event">Event Scroll</option>
+        </select>
+      </label>
+      <label>Rarità <select id="rarity"><option value="">Tutte</option></select></label>
+    </div>
+    <noscript><p>Attiva JavaScript per consultare il catalogo.</p></noscript>
+    <p id="status" class="status" role="status">Caricamento del catalogo…</p>
+    <div id="cards" class="card-grid"></div>
+    <button id="more" class="button more" type="button" hidden>Mostra altre carte</button>
+    <dialog id="card-dialog" aria-labelledby="card-name">
+      <form method="dialog" class="dialog-close"><button class="button" aria-label="Chiudi la scheda">Chiudi</button></form>
+      <div id="card-detail" class="card-detail"></div>
+    </dialog>
+  </main>
+</body>
+</html>

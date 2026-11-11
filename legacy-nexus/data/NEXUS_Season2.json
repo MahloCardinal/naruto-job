@@ -1,0 +1,531 @@
+{
+  "season": 2,
+  "total": 105,
+  "cards": [
+    {
+      "url": "https://narutoninjacards.com/assets/upcoming-features-bg-61mrHl_T.webp",
+      "name": "",
+      "text": ""
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/upcoming-features-bg-desktop-BP60g0rE.webp",
+      "name": "",
+      "text": ""
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/ninja-cards-logo-ppOT_ccP.webp",
+      "name": "Carte Ninja di Naruto",
+      "text": ""
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/cta-button-season2-DA9n7IN1.webp",
+      "name": "",
+      "text": "STAGIONE 2"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_001-C_LwUHrP.png",
+      "name": "Naruto Uzumaki",
+      "text": "NARUTO UZUMAKI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_002-DrZt7eMs.png",
+      "name": "Naruto Uzumaki",
+      "text": "NARUTO UZUMAKI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_003-5R8pK_AQ.png",
+      "name": "Sasuke Uchiha",
+      "text": "SASUKE UCHIHA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_004-es9EEAX1.png",
+      "name": "Sakura Haruno",
+      "text": "SAKURA HARUNO\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_005-D4mWiZ6d.png",
+      "name": "Rock Lee",
+      "text": "ROCK LEE\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_006-C4YgrEJw.png",
+      "name": "Rock Lee",
+      "text": "ROCK LEE\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_007-nvmBRe-8.png",
+      "name": "Neji Hyuga",
+      "text": "NEJI HYUGA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_008-FctmBh6f.png",
+      "name": "Tenten",
+      "text": "TENTEN\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_009-D6oz9a_2.png",
+      "name": "Gai Maito",
+      "text": "GAI MAITO\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_010-CNhdqpWL.png",
+      "name": "Gaara",
+      "text": "GAARA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_011-CLmf5fl9.png",
+      "name": "Kankuro",
+      "text": "KANKURO\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_012-TT-q4Rez.png",
+      "name": "Temari",
+      "text": "TEMARI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_013-CqQ6iYqg.png",
+      "name": "Baki",
+      "text": "BAKI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_014-BQEtuB19.png",
+      "name": "Ino Yamanaka",
+      "text": "INO YAMANAKA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_015-BvTbIMzY.png",
+      "name": "Kabuto Yakushi",
+      "text": "KABUTO YAKUSHI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_016-AHVgYvyu.png",
+      "name": "Trio di studenti",
+      "text": "TRIO DI STUDENTI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_017-DaCWacs-.png",
+      "name": "Ibiki Morino",
+      "text": "IBIKI MORINO\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_018-BJ6PlIcY.png",
+      "name": "Choza Akimichi",
+      "text": "CHOZA AKIMICHI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_019-DA5t1CU5.png",
+      "name": "Inoichi Yamanaka",
+      "text": "INOICHI YAMANAKA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_020-CYCQ7C3N.png",
+      "name": "Shikaku Nara",
+      "text": "SHIKAKU NARA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_021-BBpShTxd.png",
+      "name": "Hanabi Hyuga",
+      "text": "HANABI HYUGA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_022-BJCt9KNa.png",
+      "name": "Hiashi Hyuga",
+      "text": "HIASHI HYUGA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_023-BbDiqGWz.png",
+      "name": "Hizashi Hyuga",
+      "text": "HIZASHI HYUGA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_024-tYNyzChg.png",
+      "name": "Zaku Abumi",
+      "text": "ZAKU ABUMI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_025-B164lu9r.png",
+      "name": "Dosu Kinuta",
+      "text": "DOSU KINUTA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_026-BX9d_Qvs.png",
+      "name": "Kin Tsuchi",
+      "text": "KIN TSUCHI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_027-DapYVLuR.png",
+      "name": "Izumo Kamizuki",
+      "text": "IZUMO KAMIZUKI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_028-DJHMzssM.png",
+      "name": "Kotetsu Hagane",
+      "text": "KOTETSU HAGANE\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_029-CJd3o4MR.png",
+      "name": "Oboro",
+      "text": "OBORO\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_030-CTzYFLvd.png",
+      "name": "Yoroi Akado",
+      "text": "YOROI AKADO\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_031-3md0qRu7.png",
+      "name": "Ningame",
+      "text": "NINGAME\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_032-DftKrJqv.png",
+      "name": "Gamma",
+      "text": "GAMMA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_033-By75Lrn2.png",
+      "name": "Gamakichi",
+      "text": "GAMAKICHI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_034-CBwqbLyB.png",
+      "name": "Serpente gigante",
+      "text": "SERPENTE GIGANTE\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_035-BzDS78R_.png",
+      "name": "Raido Namiashi",
+      "text": "RAIDO NAMIASHI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_036-D2Ap2fV5.png",
+      "name": "Homura Mitokado",
+      "text": "HOMURA MITOKADO\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_037-_pqkTg9w.png",
+      "name": "Koharu Utatane",
+      "text": "KOHARU UTATANE\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_038-WwmA4dxi.png",
+      "name": "Genma Shiranui",
+      "text": "GENMA SHIRANUI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_039-BbRyzlKy.png",
+      "name": "Genma Shiranui",
+      "text": "GENMA SHIRANUI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_040-2eMrzVZe.png",
+      "name": "Yashamaru",
+      "text": "YASHAMARU\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_041-Cl0nfH6j.png",
+      "name": "Karura",
+      "text": "KARURA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_042-BuCj8lS5.png",
+      "name": "Yugao Uzuki",
+      "text": "YUGAO UZUKI\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_043-B8Ot9u0_.png",
+      "name": "Hana Inuzuka",
+      "text": "HANA INUZUKA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_044-DV6sOaOp.png",
+      "name": "Tsume Inuzuka",
+      "text": "TSUME INUZUKA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_045-BWmATnMF.png",
+      "name": "Shibi Aburame",
+      "text": "SHIBI ABURAME\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_046-BKvxOe_X.png",
+      "name": "Jirobo",
+      "text": "JIROBO\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_047-G53zwvtA.png",
+      "name": "Kidomaru",
+      "text": "KIDOMARU\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_048-Bq6-ie8N.png",
+      "name": "Sakon",
+      "text": "SAKON\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_049-6yNMVpeW.png",
+      "name": "Tayuya",
+      "text": "TAYUYA\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_050-ChHZhP8o.png",
+      "name": "Anbu",
+      "text": "ANBU\nCOMUNE"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_051-geNu3edM.png",
+      "name": "Naruto Uzumaki",
+      "text": "NARUTO UZUMAKI\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_052-BGF0gJ4Z.png",
+      "name": "Sakura Haruno",
+      "text": "SAKURA HARUNO\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_053-BEhriXIP.png",
+      "name": "Rock Lee",
+      "text": "ROCK LEE\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_054-DQ5LbAOA.png",
+      "name": "Neji Hyuga",
+      "text": "NEJI HYUGA\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_055-DadO9BoR.png",
+      "name": "Neji Hyuga",
+      "text": "NEJI HYUGA\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_056-DBSFsunv.png",
+      "name": "Gai Maito",
+      "text": "GAI MAITO\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_057-CeEoXJ9E.png",
+      "name": "Choji Akimichi",
+      "text": "CHOJI AKIMICHI\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_058-BY9M8cSg.png",
+      "name": "Ino Yamanaka",
+      "text": "INO YAMANAKA\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_059-BL-1FcQL.png",
+      "name": "Hinata Hyuga",
+      "text": "HINATA HYUGA\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_060-BEForb3Z.png",
+      "name": "Gaara",
+      "text": "GAARA\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_061-g09pkM4i.png",
+      "name": "Temari",
+      "text": "TEMARI\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_062-NrqeItdb.png",
+      "name": "Anko Mitarashi",
+      "text": "ANKO MITARASHI\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_063-CJ8-2yrZ.png",
+      "name": "Choza Akimichi",
+      "text": "CHOZA AKIMICHI\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_064-AhDtnymc.png",
+      "name": "Inoichi Yamanaka",
+      "text": "INOICHI YAMANAKA\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_065-BDBSYdLP.png",
+      "name": "Shikaku Nara",
+      "text": "SHIKAKU NARA\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_066-DQbfSyMl.png",
+      "name": "Jiraiya",
+      "text": "JIRAIYA\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_067-D9jiNP4g.png",
+      "name": "Orochimaru",
+      "text": "OROCHIMARU\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_068-B1-8lx1F.png",
+      "name": "Hashirama Senju",
+      "text": "HASHIRAMA SENJU\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_069-Cfp5KNeW.png",
+      "name": "Tobirama Senju",
+      "text": "TOBIRAMA SENJU\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_070-15R-p7_V.png",
+      "name": "Hiruzen Sarutobi",
+      "text": "HIRUZEN SARUTOBI\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_071-DKFO0JQW.png",
+      "name": "Hayate Gekko",
+      "text": "HAYATE GEKKO\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_072-D3EagOht.png",
+      "name": "Ibiki Morino",
+      "text": "IBIKI MORINO\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_073-DPk-9_R9.png",
+      "name": "Gamahiro",
+      "text": "GAMAHIRO\nRARO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_074-CK8KT8kh.png",
+      "name": "Sasuke Uchiha",
+      "text": "SASUKE UCHIHA\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_075-Dav0zZIO.png",
+      "name": "Rock Lee",
+      "text": "ROCK LEE\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_076-Cit-FJfp.png",
+      "name": "Neji Hyuga",
+      "text": "NEJI HYUGA\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_077-BWvosiMu.png",
+      "name": "Kiba Inuzuka",
+      "text": "KIBA INUZUKA\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_078-CsQN0fAo.png",
+      "name": "Shikamaru Nara",
+      "text": "SHIKAMARU NARA\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_079-CIMlPiVN.png",
+      "name": "Asuma Sarutobi",
+      "text": "ASUMA SARUTOBI\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_080-CH1xIZd8.png",
+      "name": "Gaara",
+      "text": "GAARA\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_081-8DMTW47Q.png",
+      "name": "Gaara",
+      "text": "GAARA\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_082-fGHKbQ2J.png",
+      "name": "Kankuro",
+      "text": "KANKURO\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_083-DHjw1Smu.png",
+      "name": "Jiraya",
+      "text": "JIRAYA\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_084-YDDhp23T.png",
+      "name": "Orochimaru",
+      "text": "OROCHIMARU\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_085-BE0JT1fb.png",
+      "name": "Orochimaru",
+      "text": "OROCHIMARU\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_086-D4xFDB5j.png",
+      "name": "Orochimaru",
+      "text": "OROCHIMARU\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_087-DFjDzAGo.png",
+      "name": "Hashirama Senju",
+      "text": "HASHIRAMA SENJU\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_088-zB1xRxPu.png",
+      "name": "Tobirama Senju",
+      "text": "TOBIRAMA SENJU\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_089-BVbgeKx0.png",
+      "name": "Hiruzen Sarutobi",
+      "text": "HIRUZEN SARUTOBI\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_090-nqBHFAJW.png",
+      "name": "Enma",
+      "text": "ENMA\nEPICO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_091-IzjiEFwz.png",
+      "name": "Naruto Uzumaki",
+      "text": "NARUTO UZUMAKI\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_092-67Zn-jjS.png",
+      "name": "Sasuke Uchiha",
+      "text": "SASUKE UCHIHA\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_093-Bt21JcWq.png",
+      "name": "Sakura Haruno",
+      "text": "SAKURA HARUNO\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_094-EG8TRnxD.png",
+      "name": "Rock Lee",
+      "text": "ROCK LEE\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_095-DyxHRzJO.png",
+      "name": "Neji Hyuga",
+      "text": "NEJI HYUGA\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_096-DDxfJ15U.png",
+      "name": "Gaara",
+      "text": "GAARA\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_097-Dzes7JLS.png",
+      "name": "Hiruzen Sarutobi",
+      "text": "HIRUZEN SARUTOBI\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_098-ByKRatcy.png",
+      "name": "Hiruzen Sarutobi",
+      "text": "HIRUZEN SARUTOBI\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_099-DgALg1Kc.png",
+      "name": "Ichibi",
+      "text": "ICHIBI\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/S2_100-CoHLFjpF.png",
+      "name": "Kyubi",
+      "text": "KYUBI\nLEGGENDARIO"
+    },
+    {
+      "url": "https://narutoninjacards.com/assets/sekai-logo-Dpycg5SS.webp",
+      "name": "Sekai Studio",
+      "text": ""
+    }
+  ]
+}

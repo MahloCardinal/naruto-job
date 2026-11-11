@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Archivio mazzi · NEXUS</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="js/decks.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">NEXUS</a>
+    <nav aria-label="Navigazione principale">
+      <a href="cards.html">Carte</a>
+      <a href="decks.html" aria-current="page">Mazzi</a>
+      <a href="top-decks.html">Top Decks</a>
+    </nav>
+  </header>
+  <main class="shell" id="decks">
+    <div class="page-intro" id="deck-intro">
+      <p class="eyebrow">Liste della community</p>
+      <h1>Archivio mazzi</h1>
+      <p>Esplora i mazzi del Deck Builder e consulta le carte che compongono ogni lista.</p>
+    </div>
+    <div class="filters" id="deck-filters" hidden>
+      <label>Cerca <input type="search" id="deck-search" placeholder="Nome del mazzo, autore o carta"></label>
+    </div>
+    <noscript><p>Attiva JavaScript per consultare i mazzi.</p></noscript>
+    <p id="status" class="status" role="status">Caricamento dei mazzi…</p>
+    <div id="deck-list" class="deck-grid"></div>
+  </main>
+</body>
+</html>

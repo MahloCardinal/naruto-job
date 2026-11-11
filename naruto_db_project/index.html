@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="light" name="color-scheme"/>
+<title data-i18n="ui.pageTitle"></title>
+<link rel="icon" type="image/svg+xml" href="misc_images/naruto-icon.svg"/>
+
+<link href="styles.css" rel="stylesheet"/>
+<link rel="preload" as="script" href="app.js"/>
+<link rel="preload" as="script" href="locales/en.js"/>
+<script defer src="assets.js"></script>
+<script defer src="locales/manifest.js"></script>
+<script defer src="localization.js"></script>
+<script defer src="virtual-list.js"></script>
+<script defer src="search-index.js"></script>
+<script defer src="control-layout.js"></script>
+<script defer src="cards.js"></script>
+<script defer src="collection.js"></script>
+<script defer src="prebuilt-decks.js"></script>
+<script defer src="synergies.js"></script>
+<script defer src="calculator.js"></script>
+<script defer src="bootstrap.js"></script>
+</head>
+<body>
+<div class="shell">
+<header class="top">
+<div class="header-main">
+<div class="brand">
+<img class="brand-icon" src="misc_images/naruto-icon.svg" alt="" width="32" height="32" aria-hidden="true"/>
+<div>
+<h1 data-i18n="ui.heading"></h1>
+</div>
+</div>
+<div class="language-control"><label data-i18n="ui.language" for="language-select" id="language-label"></label><button aria-labelledby="language-label language-name" aria-haspopup="listbox" aria-expanded="false" aria-controls="language-menu" id="language-select" popovertarget="language-menu" type="button"><img alt="" class="language-flag" id="language-flag" width="20" height="15"/><span id="language-name"></span><span aria-hidden="true" id="language-code"></span><span aria-hidden="true" class="language-arrow">▾</span></button><div data-i18n-aria-label="ui.language" id="language-menu" popover="auto" role="listbox"></div></div>
+</div>
+<nav class="tabs" data-i18n-aria-label="ui.sections" role="tablist">
+<button aria-controls="db-area" aria-selected="true" class="tab" id="tab-db" role="tab"><svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M4 4h13v16H4zM8 8h5M8 12h5M20 7v14H7"/></svg><span class="nav-full" data-i18n="ui.database"></span><span class="nav-short" data-i18n="ui.navDatabase"></span></button>
+<button aria-controls="synergies-area" aria-selected="false" class="tab" id="tab-synergies" role="tab"><svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M3 3h6v6H3zM15 15h6v6h-6zM15 3h6v6h-6zM6 9v9h9M9 6h6M18 9v6"/></svg><span class="nav-full" data-i18n="ui.synergies"></span><span class="nav-short" data-i18n="ui.navSynergies"></span></button>
+<button aria-controls="builder-area" aria-selected="false" class="tab" id="tab-builder" role="tab"><svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M8 3h12v15M4 7h12v14H4zM7 14h6M10 11v6"/></svg><span class="nav-full" data-i18n="ui.builder"></span><span class="nav-short" data-i18n="ui.navBuilder"></span></button>
+<button aria-controls="decks-area" aria-selected="false" class="tab" id="tab-decks" role="tab">
+  <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+    <rect x="3.5" y="3.5" width="7" height="7"/>
+    <rect x="13.5" y="3.5" width="7" height="7"/>
+    <rect x="3.5" y="13.5" width="7" height="7"/>
+    <rect x="13.5" y="13.5" width="7" height="7"/>
+  </svg>
+  <span class="nav-full" data-i18n="ui.prebuiltDecks"></span><span class="nav-short" data-i18n="ui.navDecks"></span>
+</button>
+<button aria-controls="collection-area" aria-selected="false" class="tab" id="tab-collection" role="tab"><svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M4 5h13v16H4zM8 2h12v16M7 9h7M7 13h7M7 17h4"/></svg><span class="nav-full" data-i18n="ui.collectionManage"></span><span class="nav-short" data-i18n="ui.collectionManage"></span></button>
+</nav>
+</header>
+<section aria-labelledby="tab-db" class="area" id="db-area" role="tabpanel">
+<section class="toolbox panel" id="db-toolbox">
+<div class="toolbox-body" id="db-toolbox-body">
+<div class="filters-panel toolbox-pane" data-i18n-aria-label="ui.searchFilters" id="db-filter-host" role="tabpanel"></div>
+</div>
+</section>
+<main class="workspace"><section class="catalog card-catalog" data-i18n-aria-label="ui.databaseEffects"><div class="card-list database-list" id="db-card-list"></div></section></main>
+</section>
+<section aria-labelledby="tab-builder" class="area hidden" id="builder-area" role="tabpanel">
+<section class="toolbox panel" id="builder-toolbox">
+<div class="toolbox-body" id="builder-toolbox-body">
+<div class="filters-panel toolbox-pane" data-i18n-aria-label="ui.searchFilters" id="builder-filter-host" role="tabpanel"></div>
+<section class="scenario toolbox-pane" hidden="" id="scenario-panel" role="tabpanel">
+<div class="scenario-fields">
+<div class="parameter"><label data-i18n="ui.enemies" data-i18n-rich="" for="s-enemies"></label><input data-integer="" id="s-enemies" inputmode="numeric" max="99" min="0" pattern="[0-9]*" required="" type="text" value="3"/></div>
+<div class="parameter"><label data-i18n="ui.enemyChakra" data-i18n-rich="" for="s-enemy-chakra"></label><input data-integer="" id="s-enemy-chakra" inputmode="numeric" max="99" min="0" pattern="[0-9]*" required="" step="1" type="text" value="4"/></div>
+<div class="parameter"><label data-i18n="ui.allies" data-i18n-rich="" for="s-allies"></label><input data-integer="" id="s-allies" inputmode="numeric" max="99" min="0" pattern="[0-9]*" required="" type="text" value="2"/></div>
+<div class="parameter"><label data-i18n="ui.allyChakra" data-i18n-rich="" for="s-ally-chakra"></label><input data-integer="" id="s-ally-chakra" inputmode="numeric" max="99" min="0" pattern="[0-9]*" required="" step="1" type="text" value="4"/></div>
+<div class="parameter"><label data-i18n="ui.activations" data-i18n-rich="" for="s-activations"></label><input data-integer="" id="s-activations" inputmode="numeric" max="99" min="0" pattern="[0-9]*" required="" type="text" value="2"/></div>
+<div class="scenario-actions"><button class="primary" data-i18n="ui.applyStandard" id="apply-standard"></button><button aria-controls="calculation-info-dialog" aria-haspopup="dialog" class="info-button" data-i18n="ui.calculationInfo" id="calculation-info-button"></button><p class="inline-note action-feedback" id="standard-status" role="status"></p></div>
+</div>
+</section>
+<section class="deck-strip toolbox-pane" hidden="" id="deck-panel" role="tabpanel">
+<h2 class="deck-preview-title" data-i18n="ui.deckBuilding"></h2>
+<button class="primary auto-build-button" data-i18n="ui.autoBuild" id="auto-build" type="button" aria-haspopup="dialog" aria-controls="auto-dialog"></button>
+<label class="collection-check"><input type="checkbox" id="auto-owned-only" disabled/><span data-i18n="ui.autoOwnedOnly"></span></label>
+<ol class="deck-grid" data-i18n-aria-label="ui.deckSlots" id="deck-grid"></ol>
+<div class="metrics">
+<div class="metric">
+<b id="avg-cost">—</b>
+<span data-i18n="ui.averageCost"></span>
+</div>
+<div class="metric">
+<b id="avg-max">—</b>
+<span data-i18n="ui.averagePower"></span>
+</div>
+<div class="metric highlight">
+<b id="avg-quality">—</b>
+<span data-i18n="ui.averageQuality"></span>
+</div>
+<button aria-controls="deck-info-dialog" aria-haspopup="dialog" class="info-button deck-help-button" data-deck-info="" data-i18n-aria-label="ui.deckInfo" data-i18n-title="ui.deckInfo" id="deck-info-button"><span aria-hidden="true">?</span></button>
+</div>
+<div class="deck-file-actions deck-preview-buttons"><button aria-controls="deck-dialog" aria-haspopup="dialog" class="primary" id="view-deck"><span class="deck-details-full" data-i18n="ui.viewDeck"></span><span class="deck-details-short" data-i18n="ui.details"></span></button><button data-deck-action="import" data-i18n="ui.import"></button><button class="danger strong-danger" data-deck-action="clear" data-i18n="ui.clearDeck"></button></div>
+<button id="propose-deck" type="button" data-i18n="ui.proposeDeck"></button>
+<input accept=".json,application/json" hidden="" id="import-file" type="file"/>
+</section>
+</div>
+</section>
+<main class="workspace builder" id="workspace"><section class="catalog card-catalog" data-i18n-aria-label="ui.builderCards"><div class="card-list" id="builder-card-list"></div></section></main>
+</section>
+<section aria-labelledby="tab-synergies" class="area hidden" id="synergies-area" role="tabpanel">
+<section class="toolbox panel" id="synergies-toolbox">
+<div class="toolbox-body" id="synergies-toolbox-body">
+<div class="filters-panel toolbox-pane" data-i18n-aria-label="ui.searchFilters" id="synergies-filter-host" role="tabpanel"></div>
+<form class="proposal-form toolbox-pane" id="synergy-proposal-panel" role="tabpanel" novalidate hidden>
+<div class="field"><label for="synergy-proposal-description" data-i18n="ui.describeSynergy"></label><textarea id="synergy-proposal-description" rows="6" maxlength="2000" required></textarea></div>
+<div class="proposal-actions"><button class="primary" id="send-synergy-proposal" type="submit" data-i18n="ui.sendProposal"></button></div>
+</form>
+</div>
+</section>
+<main class="workspace"><section class="catalog" data-i18n-aria-label="ui.synergies"><div class="synergy-list" id="synergies-card-list"></div><div class="synergy-more" hidden="" id="synergies-more"><button aria-controls="synergies-card-list" data-i18n="ui.loadMore" id="load-more-synergies" type="button"></button></div></section></main>
+</section>
+<section aria-labelledby="tab-decks" class="area hidden" id="decks-area" role="tabpanel">
+<section class="toolbox panel" id="decks-toolbox"><div class="toolbox-body" id="decks-toolbox-body">
+<div class="filters-panel toolbox-pane" id="decks-filter-host" role="tabpanel"><div class="filter-fields">
+<div class="field text-search"><label data-i18n="ui.textOrIndex" for="library-search"></label><input id="library-search" type="search" autocomplete="off" data-i18n-placeholder="ui.librarySearch"/></div>
+<div class="field"><label data-i18n="ui.deckTags" for="decks-f-tags"></label><button aria-expanded="false" class="multi-filter" data-multi-filter="" id="decks-f-tags" type="button"><span class="filter-value"></span><span aria-hidden="true" class="filter-arrow">▾</span></button><div class="filter-menu" data-i18n-aria-label="ui.deckTags" id="decks-f-tags-menu" popover="auto" role="group"></div></div>
+<div class="required-cards-field">
+<div class="field text-search">
+<label for="required-card-search" data-i18n="ui.containsCards"></label>
+<input id="required-card-search" type="search" autocomplete="off" aria-controls="required-card-results" data-i18n-placeholder="ui.requiredCardSearch"/>
+</div>
+<div class="required-card-results" id="required-card-results" popover="auto"></div>
+<ol class="deck-grid required-card-grid" id="required-card-grid" data-i18n-aria-label="ui.containsCards"></ol>
+</div>
+<div class="field collection-filter"><label data-i18n="ui.collectionManage" for="decks-f-collection"></label><select id="decks-f-collection" data-collection-filter disabled><option value="all" data-i18n="ui.allFeminine"></option><option value="owned" data-i18n="ui.ownedCards"></option></select></div>
+<div class="field"><label data-i18n="ui.sortDeckContents" data-i18n-rich="" for="decks-sort"></label><div class="sort-tools"><select data-i18n-aria-label="ui.sortCards" id="decks-sort"><option data-i18n="ui.index" value="index"></option><option data-i18n="ui.alphabetical" value="name"></option><option data-i18n="ui.cost" value="cost"></option><option data-i18n="ui.chakra" value="chakra"></option><option data-i18n="ui.rarity" value="rarity"></option></select><button class="sort-direction" data-direction="asc" data-i18n-aria-label="ui.ascendingAction" data-i18n-title="ui.ascending" id="decks-sort-direction">↑</button></div></div>
+<div class="filter-reset-row"><button class="reset-filters" id="reset-library-filters" type="button" data-i18n="ui.resetFilters"></button></div>
+</div></div>
+<form class="proposal-form toolbox-pane" id="deck-proposal-panel" role="tabpanel" hidden>
+<p class="proposal-guide" data-i18n="ui.proposalDeckGuide"></p>
+<ol class="deck-grid proposal-deck-cards" id="proposal-deck-cards"></ol>
+<div class="field"><label for="deck-proposal-description" data-i18n="ui.describeDeck"></label><textarea id="deck-proposal-description" rows="6" maxlength="2000"></textarea></div>
+<div class="proposal-actions"><button class="primary" id="send-deck-proposal" type="submit" data-i18n="ui.sendProposal"></button></div>
+</form>
+</div></section>
+<main class="workspace"><section class="catalog" data-i18n-aria-label="ui.prebuiltDecks">
+<div class="preset-list" id="preset-list"></div>
+</section></main>
+</section>
+<section aria-labelledby="tab-collection" class="area collection-area hidden" id="collection-area" role="tabpanel"><main class="workspace"><section class="catalog collection-catalog" data-i18n-aria-label="ui.collectionTitle">
+<p class="collection-import-warning" data-i18n="ui.collectionImportWarning"></p>
+<div class="collection-page">
+<h2 id="collection-title" data-i18n="ui.collectionTitle"></h2>
+<div class="collection-overview"><p id="collection-summary" class="collection-summary"></p><button class="strong-danger" id="collection-remove" type="button" data-i18n="ui.collectionRemove"></button></div>
+
+<div class="collection-tabs" role="tablist" data-i18n-aria-label="ui.collectionMethods">
+<button id="collection-tab-sync" type="button" role="tab" aria-selected="true" aria-controls="collection-method-sync" data-i18n="ui.collectionMethodSync"></button>
+<button id="collection-tab-paste" type="button" role="tab" aria-selected="false" aria-controls="collection-method-paste" tabindex="-1" data-i18n="ui.collectionMethodPaste"></button>
+</div>
+<form id="collection-form">
+<section class="collection-method" id="collection-method-sync" role="tabpanel" aria-labelledby="collection-tab-sync">
+<ol><li><p data-i18n="ui.collectionSyncStep1"></p><div class="collection-step-actions"><a id="collection-bookmark" class="bookmark-link" draggable="true" data-i18n="ui.collectionBookmark"></a><button id="collection-copy-bookmark" type="button" data-i18n="ui.collectionCopyLink"></button></div></li>
+<li><p data-i18n="ui.collectionSyncAccess"></p><div class="collection-site-row"><button id="collection-open" class="collection-open" type="button" data-i18n="ui.collectionOpenOfficial"></button></div></li>
+<li data-i18n="ui.collectionSyncStep3"></li></ol>
+</section>
+<section class="collection-method" id="collection-method-paste" role="tabpanel" aria-labelledby="collection-tab-paste" hidden inert>
+<ol><li><p data-i18n="ui.collectionAccess"></p><div class="collection-site-row"><button id="collection-open-manual" class="collection-open" type="button" data-i18n="ui.collectionOpenOfficial"></button><input class="collection-site-link" id="collection-site-address" data-collection-site-link type="url" readonly spellcheck="false" data-i18n-aria-label="ui.collectionSiteAddress"/><button id="collection-copy-site" type="button" data-i18n="ui.collectionCopySite"></button></div></li>
+<li><p data-i18n="ui.collectionDirectStep2"></p><div class="collection-command-row"><input id="collection-command" type="text" readonly data-i18n-aria-label="ui.collectionCommand"/><button type="button" id="collection-copy" data-i18n="ui.collectionCopy"></button></div></li>
+<li data-i18n="ui.collectionManualAddress"></li><li data-i18n="ui.collectionDirectStep3"></li>
+<li><p id="collection-paste-instruction" data-i18n="ui.collectionDirectStep4"></p><div class="field"><textarea id="collection-text" rows="3" maxlength="2000000" spellcheck="false" aria-labelledby="collection-paste-instruction"></textarea></div><div class="collection-import-actions"><button class="primary" id="collection-import" type="submit" data-i18n="ui.collectionImport"></button></div></li></ol>
+</section>
+</form>
+</div></section></main></section>
+</div>
+<button class="mobile-deck-shortcut primary" id="mobile-deck-button" type="button" aria-haspopup="dialog" aria-controls="mobile-tools-dialog"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M8 3h12v15M4 7h12v14H4z"/></svg><span data-i18n="ui.quickDeck"></span><b id="mobile-deck-count">0/10</b></button>
+<dialog aria-labelledby="mobile-tools-title" id="mobile-tools-dialog">
+<div class="mobile-tools-head"><h2 id="mobile-tools-title"></h2><button class="dialog-close" data-i18n-aria-label="ui.closeTools" id="mobile-tools-close" type="button">✕</button></div>
+<div id="mobile-tools-host"></div>
+<div class="mobile-tools-footer"><button class="primary" data-i18n="ui.showResults" id="mobile-tools-done" type="button"></button></div>
+</dialog>
+<dialog class="auto-dialog" id="auto-dialog" aria-labelledby="auto-title">
+<div class="auto-dialog-header"><h2 class="visually-hidden" id="auto-title" data-i18n="ui.autoTitle"></h2><button class="dialog-close" id="close-auto" data-i18n-aria-label="ui.closeTools" type="button">✕</button></div>
+<p class="auto-status" id="auto-status" role="status" aria-live="polite" aria-atomic="true" hidden></p>
+<div class="auto-results" id="auto-results"></div>
+</dialog>
+
+<dialog class="collection-import-dialog" id="collection-import-dialog" aria-labelledby="collection-import-title">
+<div class="dialog-head"><h2 id="collection-import-title" data-i18n="ui.collectionImported"></h2><button class="dialog-close" id="close-collection-import" type="button" data-i18n-aria-label="ui.closeTools">✕</button></div>
+<p id="collection-import-note" hidden></p>
+</dialog>
+
+<template id="filters-template">
+<div class="filter-fields">
+<div class="field text-search"><label data-i18n="ui.textOrIndex" data-i18n-rich="" for="f-text"></label><input autocomplete="off" data-i18n-placeholder="ui.searchPlaceholder" id="f-text" type="search"/></div>
+<div class="field filter-rarity"><label data-i18n="ui.rarity" data-i18n-rich="" for="f-rarity"></label><button aria-expanded="false" class="multi-filter" data-multi-filter="" id="f-rarity" type="button"><span class="filter-value"></span><span aria-hidden="true" class="filter-arrow">▾</span></button><div class="filter-menu" data-i18n-aria-label="ui.rarity" id="f-rarity-menu" popover="auto" role="group"></div></div>
+<div class="field filter-season"><label data-i18n="ui.season" data-i18n-rich="" for="f-season"></label><button aria-expanded="false" class="multi-filter" data-multi-filter="" id="f-season" type="button"><span class="filter-value"></span><span aria-hidden="true" class="filter-arrow">▾</span></button><div class="filter-menu" data-i18n-aria-label="ui.season" id="f-season-menu" popover="auto" role="group"></div></div>
+<div class="field filter-skill"><label data-i18n="ui.skillType" data-i18n-rich="" for="f-skill"></label><button aria-expanded="false" class="multi-filter" data-multi-filter="" id="f-skill" type="button"><span class="filter-value"></span><span aria-hidden="true" class="filter-arrow">▾</span></button><div class="filter-menu" data-i18n-aria-label="ui.skillType" id="f-skill-menu" popover="auto" role="group"></div></div>
+<div class="field filter-cost"><label data-i18n="ui.cost" data-i18n-rich="" for="f-cost"></label><button aria-expanded="false" class="multi-filter" data-multi-filter="" id="f-cost" type="button"><span class="filter-value"></span><span aria-hidden="true" class="filter-arrow">▾</span></button><div class="filter-menu" data-i18n-aria-label="ui.cost" id="f-cost-menu" popover="auto" role="group"></div></div>
+<div class="field filter-chakra"><label data-i18n="ui.chakra" data-i18n-rich="" for="f-chakra"></label><button aria-expanded="false" class="multi-filter" data-multi-filter="" id="f-chakra" type="button"><span class="filter-value"></span><span aria-hidden="true" class="filter-arrow">▾</span></button><div class="filter-menu" data-i18n-aria-label="ui.chakra" id="f-chakra-menu" popover="auto" role="group"></div></div>
+<div class="field builder-only"><label data-i18n="ui.minPower" data-i18n-rich="" for="f-estimate"></label><input data-i18n-placeholder="ui.minimum" data-integer="" id="f-estimate" inputmode="numeric" max="99" min="0" pattern="[0-9]*" type="text"/></div>
+<div class="field level-field"><label data-i18n="ui.cardLevel" data-i18n-rich="" for="f-level"></label><button aria-checked="false" class="level-filter" data-level-toggle="" id="f-level" role="switch" type="button" value="1">1</button></div>
+<div class="field collection-filter"><label data-i18n="ui.collectionManage" for="f-collection"></label><select id="f-collection" data-collection-filter disabled><option value="all" data-i18n="ui.allFeminine"></option><option value="owned" data-i18n="ui.ownedCards"></option><option value="missing" data-i18n="ui.missingCards"></option></select></div>
+<div class="sort-tools"><div class="field"><label data-i18n="ui.sort" data-i18n-rich="" for="sort"></label><select data-i18n-aria-label="ui.sortCards" id="sort"><option data-i18n="ui.index" value="index"></option><option data-i18n="ui.alphabetical" value="name"></option><option data-i18n="ui.cost" value="cost"></option><option data-i18n="ui.chakra" value="chakra"></option><option class="builder-only" data-i18n="ui.quality" value="quality"></option><option data-i18n="ui.rarity" value="rarity"></option></select></div><button class="sort-direction" data-direction="asc" data-i18n-aria-label="ui.ascendingAction" data-i18n-title="ui.ascending" id="sort-direction">↑</button></div>
+<div class="filter-reset-row"><button class="small reset-filters" data-i18n="ui.resetFilters" id="reset"></button></div>
+</div>
+</template>
+<dialog aria-labelledby="deck-dialog-title" class="deck-dialog" id="deck-dialog">
+<div class="dialog-head"><h2 data-i18n="ui.deckBuilding" id="deck-dialog-title"></h2><button class="dialog-close" data-i18n-aria-label="ui.closeDeck" id="close-deck-dialog">✕</button></div>
+<div class="deck-name-field"><label data-i18n="ui.deckNameLabel" data-i18n-rich="" for="deck-name"></label><input class="deck-name" data-i18n-placeholder="ui.deckNamePlaceholder" id="deck-name" maxlength="15"/></div>
+<ol class="deck-grid" data-i18n-aria-label="ui.deckCardsLevels" id="deck-dialog-grid"></ol>
+<div class="deck-summary-row">
+<figure class="cost-curve"><div aria-describedby="cost-curve-caption" class="curve" data-i18n-aria-label="ui.distribution" id="curve" role="img"></div><figcaption data-i18n="ui.curveCaption" data-i18n-rich="" id="cost-curve-caption"></figcaption></figure>
+<div class="metrics deck-averages">
+<div class="metric">
+<b id="deck-dialog-avg-cost">—</b>
+<span data-i18n="ui.averageCost"></span>
+</div>
+<div class="metric">
+<b id="deck-dialog-avg-max">—</b>
+<span data-i18n="ui.averagePower"></span>
+</div>
+<div class="metric highlight">
+<b id="deck-dialog-avg-quality">—</b>
+<span data-i18n="ui.averageQuality"></span>
+</div>
+<button aria-controls="deck-info-dialog" aria-haspopup="dialog" class="info-button deck-help-button" data-deck-info="" data-i18n-aria-label="ui.deckInfo" data-i18n-title="ui.deckInfo" id="deck-dialog-info-button"><span aria-hidden="true">?</span></button>
+</div>
+</div>
+<div class="deck-dialog-toolbar">
+<div class="deck-sort-tools"><label data-i18n="ui.sortBy" for="deck-sort"></label><div class="sort-tools"><select data-i18n-aria-label="ui.sortCards" id="deck-sort"></select><button class="sort-direction" data-direction="asc" data-i18n-aria-label="ui.ascendingAction" data-i18n-title="ui.ascending" id="deck-sort-direction" type="button">↑</button></div></div>
+<button class="primary" data-deck-action="export" data-i18n="ui.export"></button>
+</div>
+</dialog>
+<dialog aria-labelledby="dialog-title" id="card-dialog">
+<div class="dialog-head">
+<div>
+<h2 class="dialog-title" id="dialog-title">
+</h2>
+</div>
+<button data-i18n-aria-label="ui.closeCard" id="close-dialog">✕</button>
+</div>
+<div id="dialog-body">
+</div>
+<section class="card-presets" aria-labelledby="card-presets-title">
+<h3 id="card-presets-title" data-i18n="ui.decksWithCard"></h3>
+<div id="card-presets-body"></div>
+</section>
+</dialog>
+<dialog aria-labelledby="card-calculation-title" id="card-calculation-dialog">
+<div class="dialog-head"><h2 id="card-calculation-title" data-i18n="ui.details"></h2><button class="dialog-close" id="close-card-calculation" type="button" data-i18n-aria-label="ui.closeInfo">✕</button></div>
+<div id="card-calculation-body"></div>
+</dialog>
+<dialog aria-labelledby="calculation-info-title" class="calculation-info" id="calculation-info-dialog">
+<div class="dialog-head"><h2 data-i18n="ui.calculationInfo" id="calculation-info-title"></h2><button class="dialog-close" data-i18n-aria-label="ui.closeInfo" id="close-calculation-info">✕</button></div>
+<ul>
+<li data-i18n="ui.info1" data-i18n-rich=""></li>
+<li data-i18n="ui.info2" data-i18n-rich=""></li>
+<li data-i18n="ui.info3" data-i18n-rich=""></li>
+<li data-i18n="ui.info4" data-i18n-rich=""></li>
+<li data-i18n="ui.info5" data-i18n-rich=""></li>
+<li data-i18n="ui.info6" data-i18n-rich=""></li>
+</ul>
+</dialog>
+<dialog aria-labelledby="deck-info-title" class="calculation-info" id="deck-info-dialog">
+<div class="dialog-head"><h2 data-i18n="ui.deckInfo" id="deck-info-title"></h2><button class="dialog-close" data-i18n-aria-label="ui.closeDeckInfo" id="close-deck-info">✕</button></div>
+<ul>
+<li><p data-i18n="ui.deckPowerDescription"></p><p data-i18n="ui.info1" data-i18n-rich=""></p></li>
+<li><p data-i18n="ui.deckQualityDescription"></p><p data-i18n="ui.info2" data-i18n-rich=""></p></li>
+<li data-i18n="ui.exportInfo"></li>
+</ul>
+</dialog>
+<dialog aria-labelledby="confirm-title" id="confirm-dialog" style="max-width:336px">
+<h2 data-i18n="ui.confirm" id="confirm-title"></h2>
+<p id="confirm-text" style="margin:14px 0">
+</p>
+<div style="display:flex;gap:7px;justify-content:flex-end">
+<button data-i18n="ui.cancel" id="confirm-no"></button>
+<button class="primary" data-i18n="ui.confirm" id="confirm-yes"></button>
+</div>
+</dialog>
+<button class="back-to-top" data-i18n="ui.backToTop" hidden="" id="back-to-top" type="button"></button>
+</body>
+</html>

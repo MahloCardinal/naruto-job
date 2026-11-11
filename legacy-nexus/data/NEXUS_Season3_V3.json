@@ -1,0 +1,606 @@
+{
+  "season": 3,
+  "total": 100,
+  "cards": [
+    {
+      "id": "S3_001",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/406ddc2a-4de4-4491-b07f-721ab7aa2130/S3_001.png",
+      "name": "Naruto Uzumaki",
+      "text": "NARUTO UZUMAKI\nCOMUNE"
+    },
+    {
+      "id": "S3_002",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/3b097090-c5f3-4a02-ba0a-8e9b508a7e6b/S3_002.png",
+      "name": "Sasuke Uchiha",
+      "text": "SASUKE UCHIHA\nCOMUNE"
+    },
+    {
+      "id": "S3_003",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/6abd5bc5-85a6-466f-8974-04c22a6239f2/S3_003.png",
+      "name": "Choji Akimichi",
+      "text": "CHOJI AKIMICHI\nCOMUNE"
+    },
+    {
+      "id": "S3_004",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/6e01edd9-c258-4ea3-ba48-b00f9c6e3b9b/S3_004.png",
+      "name": "Kankuro",
+      "text": "KANKURO\nCOMUNE"
+    },
+    {
+      "id": "S3_005",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/1ddc4645-7993-435d-bb07-d9612adac03a/S3_005.png",
+      "name": "Kankuro",
+      "text": "KANKURO\nCOMUNE"
+    },
+    {
+      "id": "S3_006",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/768d4c39-5d44-44a5-ac85-2212653c9753/S3_006.png",
+      "name": "Neji Hyuga",
+      "text": "NEJI HYUGA\nCOMUNE"
+    },
+    {
+      "id": "S3_007",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/f5c862a3-102f-4edf-83d8-c70e29bb057e/S3_007.png",
+      "name": "Shikamaru Nara",
+      "text": "SHIKAMARU NARA\nCOMUNE"
+    },
+    {
+      "id": "S3_008",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/29852e7a-c9b6-463f-889e-36ee4edf3f3f/S3_008.png",
+      "name": "Jiraiya",
+      "text": "JIRAIYA\nCOMUNE"
+    },
+    {
+      "id": "S3_009",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/4e9fc919-a5f1-440d-a08e-d0e6849a4b6f/S3_009.png",
+      "name": "Jiraiya",
+      "text": "JIRAIYA\nCOMUNE"
+    },
+    {
+      "id": "S3_010",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/703b042e-5730-4044-bcbe-2d495a23209d/S3_010.png",
+      "name": "Jiraiya",
+      "text": "JIRAIYA\nCOMUNE"
+    },
+    {
+      "id": "S3_011",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/85b23c3c-977e-428d-8347-0fd71f01bb84/S3_011.png",
+      "name": "Orochimaru",
+      "text": "OROCHIMARU\nCOMUNE"
+    },
+    {
+      "id": "S3_012",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/2845357c-305b-4a4e-8a65-73c5b1a68788/S3_012.png",
+      "name": "Orochimaru",
+      "text": "OROCHIMARU\nCOMUNE"
+    },
+    {
+      "id": "S3_013",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/1d901789-2343-4c0c-8894-bbe1d5a9d021/S3_013.png",
+      "name": "Tsunade",
+      "text": "TSUNADE\nCOMUNE"
+    },
+    {
+      "id": "S3_014",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/45b842f0-91a0-4751-a9ab-5b1d093feb03/S3_014.png",
+      "name": "Tsunade",
+      "text": "TSUNADE\nCOMUNE"
+    },
+    {
+      "id": "S3_015",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/139c3ec8-230e-4e71-afbd-a3e0c41cf85a/S3_015.png",
+      "name": "Tsunade",
+      "text": "TSUNADE\nCOMUNE"
+    },
+    {
+      "id": "S3_016",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/c4fe91db-16e0-4f78-a707-f6a9726cad28/S3_016.png",
+      "name": "Manda",
+      "text": "MANDA\nCOMUNE"
+    },
+    {
+      "id": "S3_017",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/42cb67b3-4ed9-470d-b715-6d21580c19a6/S3_017.png",
+      "name": "Katsuyu",
+      "text": "KATSUYU\nCOMUNE"
+    },
+    {
+      "id": "S3_018",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/77a48d8c-f16f-4e6b-b8a6-b337e648298c/S3_018.png",
+      "name": "Hiruzen Sarutobi",
+      "text": "HIRUZEN SARUTOBI\nCOMUNE"
+    },
+    {
+      "id": "S3_019",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/3177f15a-0476-4911-80c5-ccb9a889bf4b/S3_019.png",
+      "name": "Itachi Uchiha",
+      "text": "ITACHI UCHIHA\nCOMUNE"
+    },
+    {
+      "id": "S3_020",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/4c6c1a65-d2d9-430b-a64e-ac1fbddad136/S3_020.png",
+      "name": "Jirobo",
+      "text": "JIROBO\nCOMUNE"
+    },
+    {
+      "id": "S3_021",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/1615a211-4fc0-4e55-8f77-43140083ac7b/S3_021.png",
+      "name": "Kidomaru",
+      "text": "KIDOMARU\nCOMUNE"
+    },
+    {
+      "id": "S3_022",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/35e3b82e-29e7-4622-b81a-dbcc606c14e7/S3_022.png",
+      "name": "Kidomaru",
+      "text": "KIDOMARU\nCOMUNE"
+    },
+    {
+      "id": "S3_023",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/c608d876-698d-4660-9bda-5ec55f86121e/S3_023.png",
+      "name": "Kimimaro",
+      "text": "KIMIMARO\nCOMUNE"
+    },
+    {
+      "id": "S3_024",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/8b9c189e-4e5a-4d58-9313-46c566315382/S3_024.png",
+      "name": "Sakon e Ukon",
+      "text": "SAKON E UKON\nCOMUNE"
+    },
+    {
+      "id": "S3_025",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/834ae58d-5acc-402c-8ecd-23b9688de501/S3_025.png",
+      "name": "Tayuya",
+      "text": "TAYUYA\nCOMUNE"
+    },
+    {
+      "id": "S3_026",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/6587b080-c149-456e-9eed-d2dabdb96728/S3_026.png",
+      "name": "Kimimaro",
+      "text": "KIMIMARO\nCOMUNE"
+    },
+    {
+      "id": "S3_027",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/8383e7b7-9ade-4eb3-9751-938d3a305182/S3_027.png",
+      "name": "Shizune",
+      "text": "SHIZUNE\nCOMUNE"
+    },
+    {
+      "id": "S3_028",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/a8147f0a-e9fc-46fb-8e9a-05f80c34abb5/S3_028.png",
+      "name": "Tsume Inuzuka",
+      "text": "TSUME INUZUKA\nCOMUNE"
+    },
+    {
+      "id": "S3_029",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/c65f6483-5c47-44ff-8c40-87dfc3df284c/S3_029.png",
+      "name": "Akahoshi",
+      "text": "AKAHOSHI\nCOMUNE"
+    },
+    {
+      "id": "S3_030",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/1d18eb2e-588a-44b9-955d-f2765ec7f4a2/S3_030.png",
+      "name": "Amachi",
+      "text": "AMACHI\nCOMUNE"
+    },
+    {
+      "id": "S3_031",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/4c590755-0de7-4f2e-9952-1b1be0997d47/S3_031.png",
+      "name": "Aoi Rokusho",
+      "text": "AOI ROKUSHO\nCOMUNE"
+    },
+    {
+      "id": "S3_032",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/5b266726-609c-4720-8cec-97ef4059ca5b/S3_032.png",
+      "name": "Dan Kato",
+      "text": "DAN KATO\nCOMUNE"
+    },
+    {
+      "id": "S3_033",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/e2593eda-f150-4000-8b7a-0d9d9d2db47f/S3_033.png",
+      "name": "Fugaku Uchiha",
+      "text": "FUGAKU UCHIHA\nCOMUNE"
+    },
+    {
+      "id": "S3_034",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/ebdf6a90-6519-46c6-b485-ebe331f80c64/S3_034.png",
+      "name": "Fūjin",
+      "text": "FŪJIN\nCOMUNE"
+    },
+    {
+      "id": "S3_035",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/a482f470-50de-4903-b095-fc9f3989a4c1/S3_035.png",
+      "name": "Gamatatsu",
+      "text": "GAMATATSU\nCOMUNE"
+    },
+    {
+      "id": "S3_036",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/e181e803-6586-4f71-85a1-85efca1ad8a0/S3_036.png",
+      "name": "Hanzaki",
+      "text": "HANZAKI\nCOMUNE"
+    },
+    {
+      "id": "S3_037",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/b1df5c83-28df-43eb-bbc8-8f016dd53940/S3_037.png",
+      "name": "Hanzaki",
+      "text": "HANZAKI\nCOMUNE"
+    },
+    {
+      "id": "S3_038",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/984b4ca9-0524-41b4-9092-1c5818527b6e/S3_038.png",
+      "name": "Idate Morino",
+      "text": "IDATE MORINO\nCOMUNE"
+    },
+    {
+      "id": "S3_039",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/93028930-f10e-44ba-a9df-8b0deca4dbb0/S3_039.png",
+      "name": "Jirocho Wasabi",
+      "text": "JIROCHO WASABI\nCOMUNE"
+    },
+    {
+      "id": "S3_040",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/865c946b-ed48-448a-8a40-a6492c3c054f/S3_040.png",
+      "name": "Arashi",
+      "text": "ARASHI\nCOMUNE"
+    },
+    {
+      "id": "S3_041",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/c8c9b462-6472-4cd0-b002-00d5d017f2bf/S3_041.png",
+      "name": "Kagerō",
+      "text": "KAGERŌ\nCOMUNE"
+    },
+    {
+      "id": "S3_042",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/c4f9da76-774f-4cf4-a37d-fb67542c7b4d/S3_042.png",
+      "name": "Kyuroku Wagarashi",
+      "text": "KYUROKU WAGARASHI\nCOMUNE"
+    },
+    {
+      "id": "S3_043",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/62817caa-41af-49c8-ba00-80b4213cf0ff/S3_043.png",
+      "name": "Mikoto Uchiha",
+      "text": "MIKOTO UCHIHA\nCOMUNE"
+    },
+    {
+      "id": "S3_044",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/f8ca65dc-ca1b-40b6-940f-76cf93337e24/S3_044.png",
+      "name": "Mizuki",
+      "text": "MIZUKI\nCOMUNE"
+    },
+    {
+      "id": "S3_045",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/c1178027-3417-4656-ad2d-63020a151547/S3_045.png",
+      "name": "Nawaki",
+      "text": "NAWAKI\nCOMUNE"
+    },
+    {
+      "id": "S3_046",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/53f159f6-2979-4159-8abe-b8ff61aa292e/S3_046.png",
+      "name": "Raiga Kurosuki",
+      "text": "RAIGA KUROSUKI\nCOMUNE"
+    },
+    {
+      "id": "S3_047",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/a0b81af8-24fe-4d87-aba5-902f02faf6f0/S3_047.png",
+      "name": "Raijin",
+      "text": "RAIJIN\nCOMUNE"
+    },
+    {
+      "id": "S3_048",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/b4222240-d68a-4f72-8a88-1fc4ffe77a5d/S3_048.png",
+      "name": "Sumaru",
+      "text": "SUMARU\nCOMUNE"
+    },
+    {
+      "id": "S3_049",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/9f719464-d423-44a2-b500-07bca59bb2e5/S3_049.png",
+      "name": "Yoshino Nara",
+      "text": "YOSHINO NARA\nCOMUNE"
+    },
+    {
+      "id": "S3_050",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/17b0b88b-d2e7-4d49-a693-afd166d74b8b/S3_050.png",
+      "name": "Trio Uchiha",
+      "text": "TRIO UCHIHA\nCOMUNE"
+    },
+    {
+      "id": "S3_051",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/764b4b15-7076-4683-9234-8e0270340d57/S3_051.png",
+      "name": "Naruto Uzumaki",
+      "text": "NARUTO UZUMAKI\nRARO"
+    },
+    {
+      "id": "S3_052",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/b2a2b2c3-b753-43c4-b528-96baffc25784/S3_052.png",
+      "name": "Sasuke Uchiha",
+      "text": "SASUKE UCHIHA\nRARO"
+    },
+    {
+      "id": "S3_053",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/e9207715-7f2a-481a-9a68-d5da6ad167ef/S3_053.png",
+      "name": "Kankuro",
+      "text": "KANKURO\nRARO"
+    },
+    {
+      "id": "S3_054",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/25474b81-08b9-4963-aeff-bb73e2ff3912/S3_054.png",
+      "name": "Shikamaru Nara",
+      "text": "SHIKAMARU NARA\nRARO"
+    },
+    {
+      "id": "S3_055",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/f3fc44b1-d3de-4ab5-a1e5-9fad140fbda1/S3_055.png",
+      "name": "Akamaru",
+      "text": "AKAMARU\nRARO"
+    },
+    {
+      "id": "S3_056",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/6ba24c47-2584-4849-94e0-ef51f294d2f9/S3_056.png",
+      "name": "Itachi Uchiha",
+      "text": "ITACHI UCHIHA\nRARO"
+    },
+    {
+      "id": "S3_057",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/47953f93-a7cb-4421-9e47-f2672cef6a79/S3_057.png",
+      "name": "Jiraiya",
+      "text": "JIRAIYA\nRARO"
+    },
+    {
+      "id": "S3_058",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/649f3ceb-a863-4a9e-94c8-ebd364ea7a3b/S3_058.png",
+      "name": "Jiraiya",
+      "text": "JIRAIYA\nRARO"
+    },
+    {
+      "id": "S3_059",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/41303313-022e-4690-bc89-a1417527dc68/S3_059.png",
+      "name": "Orochimaru",
+      "text": "OROCHIMARU\nRARO"
+    },
+    {
+      "id": "S3_060",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/aa5db306-9d42-49a5-8e08-1acd0373947f/S3_060.png",
+      "name": "Tsunade",
+      "text": "TSUNADE\nRARO"
+    },
+    {
+      "id": "S3_061",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/8d9d423f-da77-409d-a18f-1e509b5a5e88/S3_061.png",
+      "name": "Tsunade",
+      "text": "TSUNADE\nRARO"
+    },
+    {
+      "id": "S3_062",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/6900482f-240b-405d-92f5-3eb6f25bfa47/S3_062.png",
+      "name": "Tsunade",
+      "text": "TSUNADE\nRARO"
+    },
+    {
+      "id": "S3_063",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/34eba7e1-aa33-4a71-9cdf-9a1304751008/S3_063.png",
+      "name": "Gamabunta",
+      "text": "GAMABUNTA\nRARO"
+    },
+    {
+      "id": "S3_064",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/f055aa22-2236-4c4a-a95d-91102f9f5c1c/S3_064.png",
+      "name": "Kabuto Yakuchi",
+      "text": "KABUTO YAKUCHI\nRARO"
+    },
+    {
+      "id": "S3_065",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/4b14e57d-4a98-4026-a420-2057466fc712/S3_065.png",
+      "name": "Kisame Hoshigaki",
+      "text": "KISAME HOSHIGAKI\nRARO"
+    },
+    {
+      "id": "S3_066",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/fa2c99cc-3dee-45ea-bbe0-2f04a15b4af0/S3_066.png",
+      "name": "Jirobo",
+      "text": "JIROBO\nRARO"
+    },
+    {
+      "id": "S3_067",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/a6671df0-7b8d-45b6-a245-ebd680abe549/S3_067.png",
+      "name": "Sakon e Ukon",
+      "text": "SAKON E UKON\nRARO"
+    },
+    {
+      "id": "S3_068",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/08453b6a-91d3-4c9f-8d88-96315ec08b5f/S3_068.png",
+      "name": "Kurenai Yuhi",
+      "text": "KURENAI YUHI\nRARO"
+    },
+    {
+      "id": "S3_069",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/d0518b7d-3b71-4237-883f-3f63a2533c29/S3_069.png",
+      "name": "Shizune",
+      "text": "SHIZUNE\nRARO"
+    },
+    {
+      "id": "S3_070",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/a2d5cddb-ef75-457d-9493-ac472521fc72/S3_070.png",
+      "name": "Akahoshi",
+      "text": "AKAHOSHI\nRARO"
+    },
+    {
+      "id": "S3_071",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/2e1f80ed-8dff-4661-8ae4-e9e212f5c5a7/S3_071.png",
+      "name": "Amachi",
+      "text": "AMACHI\nRARO"
+    },
+    {
+      "id": "S3_072",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/0f41edd3-6025-4c21-b0bd-68ecdbcc0b82/S3_072.png",
+      "name": "Aoi Rokusho",
+      "text": "AOI ROKUSHO\nRARO"
+    },
+    {
+      "id": "S3_073",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/7376e43b-985f-4749-b3e0-0689d815ad56/S3_073.png",
+      "name": "Sumaru",
+      "text": "SUMARU\nRARO"
+    },
+    {
+      "id": "S3_074",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/8fae4b61-5489-432c-9340-f2138595b5ce/S3_074.png",
+      "name": "Naruto Uzumaki",
+      "text": "NARUTO UZUMAKI\nEPICO"
+    },
+    {
+      "id": "S3_075",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/21fc0362-a8cd-4104-93d5-e29812d0c162/S3_075.png",
+      "name": "Naruto Uzumaki",
+      "text": "NARUTO UZUMAKI\nEPICO"
+    },
+    {
+      "id": "S3_076",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/c2d72cbf-cd9d-4441-b827-8919bf80aa2c/S3_076.png",
+      "name": "Sasuke Uchiha",
+      "text": "SASUKE UCHIHA\nEPICO"
+    },
+    {
+      "id": "S3_077",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/de8f79f1-618d-431b-a40b-66cdc852031a/S3_077.png",
+      "name": "Sasuke Uchiha",
+      "text": "SASUKE UCHIHA\nEPICO"
+    },
+    {
+      "id": "S3_078",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/5b01d011-a284-43df-ad60-3664d1550297/S3_078.png",
+      "name": "Gaara",
+      "text": "GAARA\nEPICO"
+    },
+    {
+      "id": "S3_079",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/bd390927-56c1-45b4-94f7-3df086bfbc93/S3_079.png",
+      "name": "Kiba Inuzuka",
+      "text": "KIBA INUZUKA\nEPICO"
+    },
+    {
+      "id": "S3_080",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/6eee15bf-b1a2-4dcb-8d6d-950ede8f5553/S3_080.png",
+      "name": "Rock Lee",
+      "text": "ROCK LEE\nEPICO"
+    },
+    {
+      "id": "S3_081",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/3f8bf685-a175-4a37-acf2-8734ebcc2086/S3_081.png",
+      "name": "Temari",
+      "text": "TEMARI\nEPICO"
+    },
+    {
+      "id": "S3_082",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/95bc2147-39c4-431c-8301-7857350d085c/S3_082.png",
+      "name": "Itachi Uchiha",
+      "text": "ITACHI UCHIHA\nEPICO"
+    },
+    {
+      "id": "S3_083",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/6592a50a-6d35-49ab-990d-9b1b2d16fe53/S3_083.png",
+      "name": "Itachi Uchiha",
+      "text": "ITACHI UCHIHA\nEPICO"
+    },
+    {
+      "id": "S3_084",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/b96c3956-7f13-40f8-8e3b-9ec1db63ed70/S3_084.png",
+      "name": "Jiraiya",
+      "text": "JIRAIYA\nEPICO"
+    },
+    {
+      "id": "S3_085",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/eb9cc8a1-cc3a-4086-b047-0ffeedf49267/S3_085.png",
+      "name": "Gamabunta",
+      "text": "GAMABUNTA\nEPICO"
+    },
+    {
+      "id": "S3_086",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/56338601-e33e-413d-abeb-c67b5dc1881e/S3_086.png",
+      "name": "Kidomaru",
+      "text": "KIDOMARU\nEPICO"
+    },
+    {
+      "id": "S3_087",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/6a20dbb8-1e7c-4e2e-9543-aa796afa9231/S3_087.png",
+      "name": "Tayuya",
+      "text": "TAYUYA\nEPICO"
+    },
+    {
+      "id": "S3_088",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/fa559b54-392b-42cc-9222-d0e412139524/S3_088.png",
+      "name": "Kimimaro",
+      "text": "KIMIMARO\nEPICO"
+    },
+    {
+      "id": "S3_089",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/d8a17212-e444-4fd7-9b84-d33b6b32c324/S3_089.png",
+      "name": "Akahoshi",
+      "text": "AKAHOSHI\nEPICO"
+    },
+    {
+      "id": "S3_090",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/a21ddf25-8b61-4be9-86e5-4fbe3cf6e903/S3_090.png",
+      "name": "Raiga Kurosuki",
+      "text": "RAIGA KUROSUKI\nEPICO"
+    },
+    {
+      "id": "S3_091",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/e43e77a5-d31f-460d-b207-641bfd46d980/S3_091.png",
+      "name": "Naruto Uzumaki",
+      "text": "NARUTO UZUMAKI\nLEGGENDARIO"
+    },
+    {
+      "id": "S3_092",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/4cdc7d17-fea6-40a2-9d5b-e1cf2583fcbc/S3_092.png",
+      "name": "Sasuke Uchiha",
+      "text": "SASUKE UCHIHA\nLEGGENDARIO"
+    },
+    {
+      "id": "S3_093",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/7047bb79-f4ae-4196-a28e-04a484dcad71/S3_093.png",
+      "name": "Choji Akimichi",
+      "text": "CHOJI AKIMICHI\nLEGGENDARIO"
+    },
+    {
+      "id": "S3_094",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/99623f29-7e2b-4ce1-81f5-abc45cac6978/S3_094.png",
+      "name": "Gaara",
+      "text": "GAARA\nLEGGENDARIO"
+    },
+    {
+      "id": "S3_095",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/34537cf4-d738-4b74-8a27-6e08f27bbf0f/S3_095.png",
+      "name": "Itachi Uchiha",
+      "text": "ITACHI UCHIHA\nLEGGENDARIO"
+    },
+    {
+      "id": "S3_096",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/fd139172-838c-4ede-adb9-9853cca18990/S3_096.png",
+      "name": "Itachi Uchiha",
+      "text": "ITACHI UCHIHA\nLEGGENDARIO"
+    },
+    {
+      "id": "S3_097",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/1fb40b89-e9ba-4d61-ad1a-c8c65fe7d3d5/S3_097.png",
+      "name": "Tsunade",
+      "text": "TSUNADE\nLEGGENDARIO"
+    },
+    {
+      "id": "S3_098",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/490ade92-6624-48a1-af46-49ab3b438f63/S3_098.png",
+      "name": "Sakon e Ukon",
+      "text": "SAKON E UKON\nLEGGENDARIO"
+    },
+    {
+      "id": "S3_099",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/a7d5f78d-98a8-4304-b762-a47795f408ca/S3_099.png",
+      "name": "Tayuya",
+      "text": "TAYUYA\nLEGGENDARIO"
+    },
+    {
+      "id": "S3_100",
+      "url": "https://narutoninjacards.com/__l5e/assets-v1/053f374e-342d-4dde-b2f1-a4146042c48a/S3_100.png",
+      "name": "Kimimaro",
+      "text": "KIMIMARO\nLEGGENDARIO"
+    }
+  ]
+}
