@@ -62,10 +62,11 @@ const decks = JSON.parse(deckList[1]).map(deck => {
 assert.equal(new Set(decks.map(deck => deck.id)).size, decks.length, 'Gli ID dei mazzi devono essere univoci');
 
 fs.mkdirSync(path.join(site, 'data'), { recursive: true });
-fs.mkdirSync(path.join(site, 'images'), { recursive: true });
+const cardImages = path.join(site, 'img_cards');
+fs.mkdirSync(cardImages, { recursive: true });
 for (const { id } of cards) {
   const key = keysById.get(id);
-  fs.copyFileSync(path.join(reference, 'card_images', '320', `${key}.webp`), path.join(site, 'images', `${id}.webp`));
+  fs.copyFileSync(path.join(reference, 'card_images', '320', `${key}.webp`), path.join(cardImages, `${id}.webp`));
 }
 fs.writeFileSync(path.join(site, 'data', 'cards.json'), `${JSON.stringify(cards, null, 2)}\n`);
 fs.writeFileSync(path.join(site, 'data', 'decks.json'), `${JSON.stringify(decks, null, 2)}\n`);

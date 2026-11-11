@@ -17,7 +17,7 @@ export function searchText(text) {
 
 export function cardImage(card) {
   const image = element('img');
-  image.src = `images/${card.id}.webp`;
+  image.src = `img_cards/${card.id}.webp`;
   image.alt = `${card.name} — ${card.ability}`;
   image.width = 320;
   image.height = 346;

@@ -81,6 +81,7 @@ async function start() {
   more.addEventListener('click', () => appendPage()?.focus());
   filters.hidden = false;
   applyFilters();
+  if (location.hash === '#search') search.focus();
 
   const selectedId = new URLSearchParams(location.search).get('card');
   if (selectedId) {
