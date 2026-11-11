@@ -24,4 +24,6 @@ Per un upload da terminale, avvia il deploy dalla cartella `site/`. Se colleghi 
 
 ## Supabase
 
-Il sito attuale legge da file statici. Per la fase con utenti e mazzi condivisi, abilita Discord in Supabase Auth, disattiva gli altri metodi di accesso e configura gli URL di ritorno. Usa una chiave pubblicabile nel frontend e applica i permessi di lettura e scrittura nel database. Le credenziali Discord vanno nelle impostazioni di Supabase. Prima di riusare le migrazioni del prototipo, verifica la corrispondenza del catalogo e collauda i ruoli in un progetto di test.
+La pagina `site/account.html` usa Supabase Auth con Discord. In Supabase, imposta il dominio di produzione come **Site URL** e aggiungi l’indirizzo completo della pagina `/account.html` in **Redirect URLs**. Nel portale Discord registra come redirect OAuth2 il **Callback URL** mostrato dal provider Discord in Supabase. Inserisci il Client ID e il Client Secret dell’app nelle impostazioni del provider Supabase e disattiva gli altri metodi di accesso quando Discord è attivo.
+
+Il frontend usa l’URL del progetto e la chiave pubblicabile in `site/js/account.js`. Catalogo e mazzi sono ancora letti dai file JSON. Prima di collegare i mazzi al database, verifica la corrispondenza del catalogo e collauda i permessi e le policy RLS in un progetto di test.

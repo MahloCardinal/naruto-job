@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Account · NEXUS</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.119.0/dist/umd/supabase.js"
+    integrity="sha384-uteMfOloLDGt042uDz+xHGF3ym63/WQ6rFq7murQRG8Ih7QrXGEGNtWd8688sb4O" crossorigin="anonymous"></script>
+  <script defer src="js/account.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">NEXUS</a>
+    <nav aria-label="Navigazione principale">
+      <a href="cards.html">Carte</a>
+      <a href="decks.html">Mazzi</a>
+      <a href="top-decks.html">Top Decks</a>
+      <a href="account.html" aria-current="page">Account</a>
+    </nav>
+  </header>
+  <main class="shell">
+    <div class="page-intro">
+      <h1>Account</h1>
+      <p id="auth-status" role="status">Verifica della sessione in corso…</p>
+    </div>
+    <button class="button primary" type="button" id="sign-in" hidden>Accedi con Discord</button>
+    <button class="button" type="button" id="sign-out" hidden>Esci</button>
+    <noscript><p>Attiva JavaScript per accedere con Discord.</p></noscript>
+  </main>
+</body>
+</html>
