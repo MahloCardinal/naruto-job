@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "01",
+    "name": "Kyubi Rage",
+    "author": null,
+    "description": "Start scaling Naruto Uzumaki (Will to Protect) early: each withdrawal permanently raises his base Chakra by 2. Have Naruto Uzumaki (Kyubi Rage) active before a chain of allied withdrawals so he gains Chakra and Rush from them. Use Kiba Inuzuka (Best Friend) to Summon Akamaru and establish cheap pressure; after Kiba and Akamaru have provided value, Kiba Inuzuka (Transformation Combo) withdraws them, absorbs their Chakra and gains a bonus for each withdrawal. Student Trio refills all three lanes on withdrawal. Mizuki Toji (Hidden Intent) can accelerate a planned withdrawal, but avoid hitting your main threat. Once Naruto has built up base Chakra, switch from cycling him to protecting him with Tsunade (Desperate Healing).",
+    "cards": [
+      "S1_078",
+      "S1_034",
+      "S1_033",
+      "S3_079",
+      "S2_091",
+      "S1_020",
+      "S3_061",
+      "S3_062",
+      "S2_016",
+      "S2_028"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "02",
+    "name": "Reactive Guard",
+    "author": null,
+    "description": "Establish Sakon & Ukon (Synchronized Defense) before developing your other defenders: every allied Guard activation gives both members of the duo +1 Chakra. Sakura Haruno (Unyielding) has Permanent Guard and switches lanes on each activation; Kisame Hoshigaki gains Chakra and Weakens the rival triggering his Guard, while Jiraiya (Needle Jizo) retaliates with Weaken that ignores Guard. Temari adds Push and Kimimaro provides more defensive charges. Against Sanbi, build this board before chasing maximum damage: making the boss lose Chakra can trigger another wave of its skill. Madame Shijimi supplies Chakra to several lane allies in Short Range.",
+    "cards": [
+      "S3_098",
+      "S3_076",
+      "S3_088",
+      "S3_065",
+      "S3_058",
+      "S3_037",
+      "S3_011",
+      "S2_093",
+      "S2_061",
+      "S1_022"
+    ],
+    "cover": "S3_098"
+  },
+  {
+    "id": "03",
+    "name": "Summon Swarm",
+    "author": null,
+    "description": "Establish Tayuya (Doki Summoning) before your Summon cards: the new units gain +1 Chakra, and completing her Focus adds a Doki to every lane. Naruto Uzumaki (Multi Shadow Clone) creates two clones on the other lanes and another pair ten seconds later; deploy him when those units can advance. Naruto Uzumaki (Shadow Clone Jutsu), Kiba Inuzuka and Koharu Utatane supply more Summons, while Student Trio refills the board on withdrawal. Cycle cheap cards back into these unit generators instead of relying on one expensive card to survive Burn. Gaara (Sand Tsunami) provides repeated control during Focus; the list primarily aims to create more opportunities to hit the boss.",
+    "cards": [
+      "S1_034",
+      "S1_033",
+      "S1_077",
+      "S3_094",
+      "S3_011",
+      "S2_016",
+      "S1_003",
+      "S1_029",
+      "S2_037",
+      "S3_099"
+    ],
+    "cover": "S3_099"
+  },
+  {
+    "id": "04",
+    "name": "Sand and Fire",
+    "author": null,
+    "description": "Set up Kakashi Hatake (Battle Plan) and Gaara (Bloodlust) before multi-target Weaken. Kakashi grows when allies Weaken rivals and rewards each ally's first Weaken according to the number of targets hit; Gaara also grows when your allies Weaken other allies. Play Akamaru (Marking) before the waves from Tobirama Senju or Sasuke Uchiha (Fireball Jutsu): Weaken increases by 1 against rivals still Slowed by Marking. Hiruzen Sarutobi triggers a second wave of lane Weaken and Burn on his first Chakra gain. Temari (Quick Beheading Dance) and Gaara (Sand Tsunami) maintain pressure during Focus; use Akahoshi to stop a lane while setting up your engines.",
+    "cards": [
+      "S2_097",
+      "S2_081",
+      "S1_082",
+      "S2_088",
+      "S1_081",
+      "S3_055",
+      "S3_081",
+      "S3_094",
+      "S3_089",
+      "S1_044"
+    ],
+    "cover": "S1_082"
+  },
+  {
+    "id": "05",
+    "name": "Shogi Lock",
+    "author": null,
+    "description": "Keep Shikamaru Nara (Shogi Master) active before Pinning other allies or starting their Focus: each receives +3 Chakra. Establish Iruka Umino (Scolding), then deploy a 2-Chakra ally: it receives Iruka's boost and its Pin can trigger Shikamaru's bonus. Izumo Kamizuki (Sabotage) Pins several random allies in his lane in one play, so use him when worthwhile targets are present. Naruto Uzumaki (Challenger) Pins himself on deployment; Ino Yamanaka (Mind Transfer) supplies another activation through Focus and temporarily controls the highest-Chakra lane rival in Mid Range. Deployment order matters: setting up the supports after the intended recipients misses their value.",
+    "cards": [
+      "S1_072",
+      "S2_078",
+      "S2_058",
+      "S1_032",
+      "S2_002",
+      "S2_003",
+      "S2_093",
+      "S2_027",
+      "S1_047",
+      "S1_029"
+    ],
+    "cover": "S1_072"
+  },
+  {
+    "id": "06",
+    "name": "Roaming Itachi",
+    "author": null,
+    "description": "Establish Enma before Itachi Uchiha (Carnage): allied lane switches provide Chakra. Any card deployed on Itachi's lane is Weakened and Pinned, then Itachi switches lanes and receives Enma's boost; your own cards can trigger this too, so choose their lanes carefully. Iruka Umino (Goofball) also benefits through periodic lane switches. The Old Friends versions of Choza Akimichi, Inoichi Yamanaka and Shikaku Nara support the other two characters and offer a secondary plan. Temari Pushes rivals away, while Shizune (Poison Mist) disables skills in Mid Range: use her when this will not compromise your own supports, since allies are affected too.",
+    "cards": [
+      "S3_096",
+      "S2_090",
+      "S3_060",
+      "S1_081",
+      "S2_019",
+      "S2_020",
+      "S2_018",
+      "S2_061",
+      "S3_069",
+      "S1_051"
+    ],
+    "cover": "S3_096"
+  },
+  {
+    "id": "07",
+    "name": "Tsunade’s Stand",
+    "author": null,
+    "description": "Build your defense around Tsunade (Mitotic Regeneration). Her first drop below base Chakra triggers initial recovery, a Chakra boost and ten seconds of immunity to rival skills with healing after encounters. Play Homura Mitokado before the card you want protected, and use Shizune (Devoted Pig) when Tonton can reach an allied Tsunade to boost her. Tsunade (The Fifth) heals each ally the first time it is Weakened; Tsunade (Desperate Healing) instead sustains her lane when allies lose Chakra. Gaara (Shukaku's Shield) protects allies behind him by spending Guard charges. Keep Tsunade active where possible: every Mitotic Regeneration withdrawal permanently reduces her base Chakra by 1.",
+    "cards": [
+      "S3_097",
+      "S3_060",
+      "S3_062",
+      "S3_027",
+      "S2_052",
+      "S3_078",
+      "S2_036",
+      "S1_024",
+      "S1_044",
+      "S2_093"
+    ],
+    "cover": "S3_097"
+  },
+  {
+    "id": "08",
+    "name": "Wind and Sand",
+    "author": null,
+    "description": "Choose control according to rival positioning. Sakura Haruno (Kunai Throw) hits a target in her lane's Long Range, while Sasuke Uchiha (Fireball Jutsu) Weakens all rivals in Mid Range. Set up for Gaara (Sand Tsunami), whose Focus periodically Weakens and Pushes every rival and hits low-Chakra cards harder. Temari (Quick Beheading Dance) pressures Mid and Long Range; Akahoshi combines Pin, Push and Weaken across one lane. Sasuke Uchiha (Winged Defense) contests encounters with Guard and re-enables his skill when it activates. Alternate cheap answers and lasting threats rather than spending every control tool at once.",
+    "cards": [
+      "S1_081",
+      "S3_099",
+      "S3_081",
+      "S1_006",
+      "S1_005",
+      "S3_077",
+      "S3_061",
+      "S3_089",
+      "S3_094",
+      "S2_091"
+    ],
+    "cover": "S3_094"
+  },
+  {
+    "id": "09",
+    "name": "Water Plan",
+    "author": null,
+    "description": "Keep Kakashi Hatake (Battle Plan) active before spending Weaken effects that hit multiple rivals: Kakashi gains Chakra, and each ally's first application also rewards that ally according to targets hit. Prepare Akamaru (Marking), then use Tobirama Senju against the entire rival board or Sasuke Uchiha (Fireball Jutsu) against Mid Range. Kakashi Hatake (Giant Vortex Jutsu) and Zabuza Momochi (Water Dragon Jutsu) combine Weaken and Push to clear a lane; Naruto Uzumaki (Furious Punch) deploys directly to Mid Range. Save Kyubi for situations where global control justifies the risk: his opening Weaken also hits allies and he penalizes subsequent deployments.",
+    "cards": [
+      "S1_082",
+      "S1_069",
+      "S2_088",
+      "S1_081",
+      "S1_074",
+      "S1_079",
+      "S3_055",
+      "S2_039",
+      "S1_044",
+      "S1_085"
+    ],
+    "cover": "S1_082"
+  },
+  {
+    "id": "10",
+    "name": "Kyubi and Gaara",
+    "author": null,
+    "description": "Establish Gaara (Bloodlust) and Tsunade (The Fifth), then choose when to deploy Kyubi (Natural Disaster). His opening Weaken hits both sides, and newly deployed cards suffer another Weaken while he remains active. Gaara gains Chakra from allied Weaken even against your own allies; Tsunade heals each ally the first time it is Weakened. Zabuza Momochi (Demon) offers another wave affecting both sides, particularly punishing low-Chakra cards. Tobirama Senju and Sasuke Uchiha (Fireball Jutsu) provide rival-only control instead. The Demon Fox Cloak and One-Tail Form versions of Naruto Uzumaki add threats with their own recovery after falling below base Chakra.",
+    "cards": [
+      "S1_085",
+      "S3_060",
+      "S2_081",
+      "S3_051",
+      "S1_067",
+      "S1_081",
+      "S1_083",
+      "S2_088",
+      "S1_044",
+      "S3_075"
+    ],
+    "cover": "S1_085"
+  },
+  {
+    "id": "11",
+    "name": "Shared Dream",
+    "author": null,
+    "description": "Deploy at least two of Nawaki, Dan Kato and Naruto Uzumaki (Shared Dream). When a Shared Dream card withdraws, the other active cards with that skill gain Chakra; an unrelated withdrawal does not trigger it. Arrange other withdrawals for separate rewards: Kaiza boosts his lane allies, Hiruzen Sarutobi all allies and Mizuki Toji three random allies. Ninja Troops rewards the last ally deployed, so consider your play order before its withdrawal. Naruto Uzumaki (Defenseless) and Yashamaru leave Weaken effects, while Zabuza Momochi (Broken) grows on the first allied withdrawal in his lane. Position cards to leave useful recipients for those bonuses.",
+    "cards": [
+      "S3_045",
+      "S3_032",
+      "S3_001",
+      "S1_042",
+      "S2_070",
+      "S1_019",
+      "S1_021",
+      "S1_041",
+      "S2_040",
+      "S1_054"
+    ],
+    "cover": "S3_001"
+  },
+  {
+    "id": "12",
+    "name": "Lee’s Gates",
+    "author": null,
+    "description": "Establish Gai Maito (Power of Youth) before your Rock Lee cards: each allied version gains Chakra on deployment. With Shikamaru Nara (Shogi Master) active, the Focus on Rock Lee (Fifth Gate) also grants +3 Chakra; only completing it gives Lee +7 Chakra and unlocks his jump and encounter Weaken, which also damages himself. Use Gai Maito (Reprimand) to give Chakra and Pin to the nearest lane ally for another Shikamaru activation. Rock Lee (Loopy Fist) supplies periodic Focus. Akahoshi extends Focus but periodically Weakens the affected allies: on Fifth Gate this delays the offensive unlock, so it is not a free upgrade. The other Lees keep pressure through Rush, Push and lane switches.",
+    "cards": [
+      "S2_094",
+      "S2_005",
+      "S2_053",
+      "S2_006",
+      "S3_080",
+      "S2_009",
+      "S2_056",
+      "S3_010",
+      "S2_078",
+      "S3_029"
+    ],
+    "cover": "S2_094"
+  },
+  {
+    "id": "13",
+    "name": "Ino-Shika-Cho",
+    "author": null,
+    "description": "Establish the Old Friends versions of Choza Akimichi, Inoichi Yamanaka and Shikaku Nara: each supports the other two characters, including their different versions, rather than itself or the whole clan. Choza Akimichi (Body Expansion) converts Chakra into encounter Push and Weaken. Shikaku Nara (Shadow Paralysis) Pins himself and two lane rivals in Long Range, buying time for the supports. Prepare Shikamaru Nara (Shogi Master) before that play or the Focus effects of Ino Yamanaka and Inoichi Yamanaka (Mind Destruction) to grant +3 Chakra to the affected allies. The two Yamanakas temporarily control Mid Range targets; Inoichi also disables the target's active skill. Choose control or pressure according to the board.",
+    "cards": [
+      "S2_018",
+      "S2_020",
+      "S2_019",
+      "S2_065",
+      "S2_063",
+      "S2_057",
+      "S2_064",
+      "S2_078",
+      "S2_054",
+      "S2_058"
+    ],
+    "cover": "S2_018"
+  },
+  {
+    "id": "14",
+    "name": "Hyuga Clan",
+    "author": null,
+    "description": "Keep Hiashi Hyuga active before other Hyuga cards to grant Chakra and Push(1) to those without Push; it does not add to an existing Push effect. Neji Hyuga (Burden of Destiny) amplifies his own Chakra gains up to his limit of 10, making support particularly valuable. Hizashi Hyuga can save Hiashi from withdrawal by sacrificing himself: position him to preserve your engine. Use Neji Hyuga (Byakugan) to halve a threat that has already accumulated Chakra. Neji Hyuga (Rotation) controls nearby rivals during encounters, while Neji Hyuga (Narrow Defense) offers Guard but can Pin himself. The Hinatas and Hanabi Hyuga supply cheap answers to manage advancing cards across the lanes.",
+    "cards": [
+      "S2_022",
+      "S2_023",
+      "S2_055",
+      "S2_054",
+      "S2_076",
+      "S2_007",
+      "S3_006",
+      "S2_021",
+      "S1_032",
+      "S1_031"
+    ],
+    "cover": "S2_022"
+  },
+  {
+    "id": "15",
+    "name": "Mind Control",
+    "author": null,
+    "description": "Wait for a worthwhile Mid Range target before using mind control: Ino Yamanaka (Mind Transfer) selects the highest-Chakra lane rival, while Inoichi Yamanaka (Mind Destruction) selects the closest. Control ends with Focus; Inoichi also applies Slow and permanently disables the target's active skill. Establish Shikamaru Nara (Shogi Master) to grant allies +3 Chakra when they Focus. The Old Friends versions of Choza Akimichi, Inoichi Yamanaka and Shikaku Nara support the group; Jiraiya grants Focus to lane allies deployed with at most 3 Chakra. Akahoshi extends the control window but periodically Weakens your own cards: protect the controllers instead of playing him automatically.",
+    "cards": [
+      "S2_064",
+      "S2_058",
+      "S2_078",
+      "S3_010",
+      "S3_029",
+      "S2_018",
+      "S2_020",
+      "S2_019",
+      "S1_044",
+      "S2_026"
+    ],
+    "cover": "S2_064"
+  },
+  {
+    "id": "16",
+    "name": "Burning Toads",
+    "author": null,
+    "description": "Use Gama to Summon a random Toad from your deck and start developing the board. With other Toads active, Gamatatsu grants them +2 Chakra every four seconds of Focus by spending 1 energy if available: reserve energy for those activations. Gamakichi adds Push to Toad encounters and grows when they Push a rival; deploy Gamahiro after building your Toad group to increase his opening bonus. For the finish, apply Burn through Jiraiya (Toad Oil Flamethrower) or Hiruzen Sarutobi, then play Gamabunta in the burning targets' lane to trigger their remaining Burn immediately. Jiraiya (Toad Mouth Trap) buys time but Pins your lane allies too.",
+    "cards": [
+      "S2_033",
+      "S3_035",
+      "S2_032",
+      "S3_085",
+      "S2_073",
+      "S3_084",
+      "S3_009",
+      "S1_081",
+      "S2_089",
+      "S1_044"
+    ],
+    "cover": "S3_084"
+  },
+  {
+    "id": "17",
+    "name": "Edo and Sound",
+    "author": null,
+    "description": "Prepare the Sound Four bonuses for your next Orochimaru: Jirobo gives Chakra, Kidomaru Rush, Tayuya Guard and Sakon a Weaken against the closest rival. You need not wait for all four: choose the useful ones for the board. Deploy Orochimaru (Edo Tensei) when the two lowest-Chakra allies can withdraw from his Weaken(2), preferably Naruto Uzumaki (Defenseless) or Kaiza to gain their withdrawal effects too. Those sacrifices let you Summon the Edo versions of Hashirama Senju and Tobirama Senju from your deck with Rush. Orochimaru (Guarded) is a cheap alternative, but deploying him before Edo Tensei consumes the bonuses saved for your next Orochimaru.",
+    "cards": [
+      "S2_086",
+      "S2_068",
+      "S2_069",
+      "S2_046",
+      "S2_047",
+      "S2_049",
+      "S2_048",
+      "S3_011",
+      "S1_042",
+      "S1_019"
+    ],
+    "cover": "S2_086"
+  },
+  {
+    "id": "18",
+    "name": "Itachi Clones",
+    "author": null,
+    "description": "Establish Itachi Uchiha (Tsukuyomi Army), then Pin rivals with Haku, Ninja Hounds or Shikaku Nara (Shadow Paralysis). A clone appears in the Pinned target's lane and the original loses 1 Chakra: choose activations that help win a meaningful trade. Tsunami and Ayame sustain the original if he is within their bonuses' range; they cannot boost Itachi's clones. Those clones cannot gain Chakra or score, so use Naruto Uzumaki (Shadow Clone Jutsu) and your other units for base pressure. Akahoshi supplies multi-target Pin. Do not drain all of Itachi's Chakra simply to fill the board.",
+    "cards": [
+      "S3_082",
+      "S1_014",
+      "S1_061",
+      "S2_065",
+      "S1_024",
+      "S1_038",
+      "S1_003",
+      "S1_044",
+      "S3_100",
+      "S3_089"
+    ],
+    "cover": "S3_082"
+  },
+  {
+    "id": "19",
+    "name": "Uchiha Support",
+    "author": null,
+    "description": "Prepare Fugaku Uchiha, Itachi Uchiha (Big Brother) and Mikoto Uchiha before your chosen Sasuke. Itachi supports the next Sasuke with Chakra and Rush on his own lane, or Guard and Slow on another: decide positioning before deployment. Fugaku gives Guard and Slow to Uchiha with at most 3 Chakra, otherwise Chakra and Pin. Sasuke Uchiha (Cursed Seal Release) amplifies his first Chakra gain; Sasuke Uchiha (Evolved Prediction) grows through Guard activations. Save Sasuke Uchiha (Fireball Jutsu) for Mid Range groups and Itachi Uchiha (Amaterasu Escape) for Burn that ignores Guard and can spread on contact, remembering his Chakra cost on each activation.",
+    "cards": [
+      "S3_033",
+      "S3_050",
+      "S3_019",
+      "S3_083",
+      "S3_043",
+      "S1_081",
+      "S3_076",
+      "S3_052",
+      "S2_003",
+      "S1_044"
+    ],
+    "cover": "S3_033"
+  },
+  {
+    "id": "20",
+    "name": "Kiba & Akamaru",
+    "author": null,
+    "description": "Develop Kiba and Akamaru first. Kiba Inuzuka (Best Friend) Summons a random Akamaru from the deck with extra Chakra; Kiba Inuzuka (Man Beast Clone) turns the next deployed Akamaru into a copy of himself with Rush. Tsume Inuzuka prepares the next ally with Chakra and Rush, while Tsume Inuzuka (Houndmaster) Summons Kuromaru and boosts the next Ninja Hound. Wait until those units have provided value, then use Kiba Inuzuka (Transformation Combo): he withdraws the other Kiba and Akamaru, absorbs their Chakra and gains a bonus per withdrawal. Establish Zabuza Momochi (Broken) in the relevant lane to benefit from the first allied withdrawal. Avoid concentrating everything into one Kiba too early and surrendering pressure elsewhere.",
+    "cards": [
+      "S3_079",
+      "S2_077",
+      "S1_033",
+      "S1_034",
+      "S3_055",
+      "S2_044",
+      "S3_028",
+      "S2_043",
+      "S1_061",
+      "S1_054"
+    ],
+    "cover": "S3_079"
+  },
+  {
+    "id": "21",
+    "name": "Sand Shield",
+    "author": null,
+    "description": "Prepare Kankuro and Temari (Prudent) before the next Gaara to grant Chakra and Guard respectively; use Karura once your Gaara cards are active. Gaara (Dangerous) deploys to Mid Range and gains his bonus if a rival is there. Gaara (Sand Shield) grows through his Guard activations, while Gaara (Shukaku's Shield) protects allies behind him by spending his charges. With Gaara (Bloodlust) active, Weaken from Tobirama Senju, Sasuke Uchiha (Fireball Jutsu) and Sakura Haruno also fuels Gaara's growth. Choose the version to prepare according to the board: playing supports without a Gaara to benefit slows your rotation.",
+    "cards": [
+      "S2_081",
+      "S2_060",
+      "S2_010",
+      "S3_078",
+      "S2_011",
+      "S2_012",
+      "S1_081",
+      "S1_006",
+      "S2_088",
+      "S2_041"
+    ],
+    "cover": "S2_081"
+  },
+  {
+    "id": "22",
+    "name": "Season 1 Only",
+    "author": null,
+    "description": "The two clone waves from Naruto Uzumaki (Multi Shadow Clone) spread pressure across lanes; their withdrawals grow the original and also feed Naruto Uzumaki (Kyubi Rage). Plan the boost from Hiruzen Sarutobi (Will of Fire), which arrives after ten seconds, for when several units are active. Kakashi Hatake opens a path through Guard, while Kakashi Hatake and Zabuza Momochi Push and Weaken lane groups. Use Hinata Hyuga (Gentle Fist) against the first encountered rival with at most 3 Chakra.",
+    "cards": [
+      "S1_077",
+      "S1_081",
+      "S1_078",
+      "S1_073",
+      "S1_070",
+      "S1_069",
+      "S1_074",
+      "S1_032",
+      "S1_029",
+      "S1_014"
+    ],
+    "cover": "S1_077"
+  },
+  {
+    "id": "23",
+    "name": "Focus",
+    "author": null,
+    "description": "Prepare Itachi Uchiha (Poise) and Jiraiya (Advanced Training). Deploying an ally with at most 3 Chakra on Jiraiya's lane grants it Focus, growing Itachi as Focus starts; the training boost only arrives if it succeeds. Ino Yamanaka, Kidomaru, Raiga Kurosuki and Rock Lee (Loopy Fist) add more Focus and control tools. Homura Mitokado protects the card that needs to complete its preparation.",
+    "cards": [
+      "S2_058",
+      "S3_010",
+      "S3_056",
+      "S3_080",
+      "S3_086",
+      "S3_084",
+      "S3_090",
+      "S2_037",
+      "S2_036",
+      "S2_061"
+    ],
+    "cover": "S3_056"
+  },
+  {
+    "id": "24",
+    "name": "Deckbot",
+    "author": null,
+    "description": "Deploy Sakon & Ukon, then increase your Guard allies through Orochimaru (Guarded) and Sasuke Uchiha (Winged Defense). Every allied Guard activation increases both members of the duo's Chakra. Against repeated multi-target effects such as Sand Tsunami, several defenders can generate many activations: develop them before the rival waves. Tsunade supports defense and Ichibi supplies Long Range pressure.",
+    "cards": [
+      "S3_011",
+      "S3_098",
+      "S3_077",
+      "S2_091",
+      "S2_092",
+      "S2_099",
+      "S3_066",
+      "S3_086",
+      "S3_097",
+      "S1_042"
+    ],
+    "cover": "S3_098"
+  },
+  {
+    "id": "25",
+    "name": "Control",
+    "author": null,
+    "description": "Reduce threats with Neji Hyuga (Byakugan), then finish trades with position-appropriate Weaken: Sakura Haruno (Kunai Throw) in Long Range or Sasuke Uchiha (Fireball Jutsu) in Mid Range. Kakashi Hatake handles Guard-protected targets. Use Tsunade (Desperate Healing) to preserve boosted cards and Kakashi Hatake (Team Leader) to support lane allies in Short Range. Ichibi maintains pressure through periodic activations.",
+    "cards": [
+      "S2_091",
+      "S1_070",
+      "S1_069",
+      "S2_099",
+      "S3_062",
+      "S3_097",
+      "S2_054",
+      "S1_081",
+      "S1_006",
+      "S1_010"
+    ],
+    "cover": "S2_099"
+  },
+  {
+    "id": "26",
+    "name": "Rage",
+    "author": "Pluto",
+    "description": "Keep Naruto Uzumaki (Kyubi Rage) active before using Kiba Inuzuka (Transformation Combo): Kiba and Akamaru withdrawals boost Naruto while transferring their Chakra to the new Kiba. Tsunade (Desperate Healing) sustains the card that must keep advancing. Neji Hyuga (Byakugan) reduces larger defenders before decisive encounters; Sasuke Uchiha (Fireball Jutsu) handles Mid Range groups.",
+    "cards": [
+      "S1_078",
+      "S2_091",
+      "S2_092",
+      "S3_062",
+      "S1_033",
+      "S1_034",
+      "S3_079",
+      "S2_054",
+      "S1_081",
+      "S3_097"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "27",
+    "name": "Control",
+    "author": "Pluto",
+    "description": "Use Kyubi (Natural Disaster) to affect the whole board, accounting for damage to allies too; Tsunade (Desperate Healing) can limit the consequences in her lane. Ichibi pressures Long Range through repeated Weaken, while Kakashi Hatake bypasses Guard. Naruto Uzumaki (Will to Protect) and Sasuke Uchiha (Curse Mark) are the threats to keep active.",
+    "cards": [
+      "S3_097",
+      "S2_091",
+      "S2_092",
+      "S1_070",
+      "S2_061",
+      "S2_054",
+      "S1_081",
+      "S1_085",
+      "S2_099",
+      "S3_062"
+    ],
+    "cover": "S1_085"
+  },
+  {
+    "id": "28",
+    "name": "Deck",
+    "author": "ALX",
+    "description": "Use Orochimaru (Treachery) to cross the first part of a lane while ignoring rival skills and encounters; in Mid Range he gains his boost and becomes vulnerable. Meanwhile, Ichibi controls Long Range and Kakashi Hatake handles protected targets. Kakashi Hatake (Team Leader) supports Short Range allies, while Temari creates space with Push.",
+    "cards": [
+      "S1_081",
+      "S2_091",
+      "S2_092",
+      "S2_099",
+      "S1_070",
+      "S2_084",
+      "S3_062",
+      "S2_061",
+      "S1_010",
+      "S2_054"
+    ],
+    "cover": "S2_099"
+  },
+  {
+    "id": "29",
+    "name": "Focus",
+    "author": "Denn",
+    "description": "Establish Shikamaru Nara and Itachi Uchiha (Poise) before your Focus cards: the former boosts the focusing ally, the latter grows with each activation. Gaara (Sand Tsunami) controls the board during preparation; Rock Lee (Fifth Gate) becomes a threat after completing it. Gato adds Focus and a random Summon costing at most 3.",
+    "cards": [
+      "S2_058",
+      "S3_056",
+      "S3_080",
+      "S3_094",
+      "S3_090",
+      "S2_078",
+      "S2_099",
+      "S2_094",
+      "S2_036",
+      "S1_060"
+    ],
+    "cover": "S2_078"
+  },
+  {
+    "id": "30",
+    "name": "Carnage",
+    "author": null,
+    "description": "Keep Enma active to give Itachi Uchiha (Carnage) Chakra whenever he switches lanes. Deploying Mizuki Toji (Pushover) on Itachi's lane can exploit his withdrawal effect if the Weaken removes him, while Itachi moves and receives Enma's boost. Tsunade (Desperate Healing) sustains the original through subsequent activations.",
+    "cards": [
+      "S1_006",
+      "S1_070",
+      "S1_081",
+      "S2_054",
+      "S2_091",
+      "S2_092",
+      "S3_062",
+      "S3_096",
+      "S1_021",
+      "S2_090"
+    ],
+    "cover": "S3_096"
+  },
+  {
+    "id": "31",
+    "name": "Gaara",
+    "author": null,
+    "description": "Deploy Gaara (Bloodlust) before Kyubi: Weaken against both rivals and allies fuels Gaara's growth. Tsunade (Desperate Healing) helps sustain the damaged lane. After Focus, Rock Lee (Fifth Gate) adds Weaken to every encounter, while the Raikiri and Giant Vortex Jutsu versions of Kakashi Hatake cover different defensive needs.",
+    "cards": [
+      "S2_081",
+      "S1_085",
+      "S1_070",
+      "S3_062",
+      "S1_069",
+      "S1_081",
+      "S2_054",
+      "S1_006",
+      "S2_036",
+      "S2_094"
+    ],
+    "cover": "S2_081"
+  },
+  {
+    "id": "32",
+    "name": "Simo BP",
+    "author": null,
+    "description": "Keep Kakashi Hatake (Battle Plan) active before multi-target Weaken, particularly the global effect from Tobirama Senju. Save the first Chakra gain on Hiruzen Sarutobi (Elemental Master) to obtain his additional Weaken and Burn wave. Play Homura Mitokado before the card to protect: especially Kakashi or Neji Hyuga (Sixty-Four Palms), or Hiruzen when his activation is needed.",
+    "cards": [
+      "S1_082",
+      "S2_054",
+      "S3_077",
+      "S3_030",
+      "S1_081",
+      "S2_088",
+      "S2_097",
+      "S3_058",
+      "S2_095",
+      "S2_036"
+    ],
+    "cover": "S1_082"
+  },
+  {
+    "id": "33",
+    "name": "Forbidden List",
+    "author": null,
+    "description": "Sakon & Ukon converts allied Guard activations into Chakra for both units, punishing rival Weaken against an established board. Homura Mitokado protects Neji Hyuga (Sixty-Four Palms), who permanently reduces the base Chakra of rivals he forces to withdraw by 2. Sasuke Uchiha (Black Chidori) provides a Guard-ignoring intervention to finish trades.",
+    "cards": [
+      "S1_081",
+      "S2_091",
+      "S3_097",
+      "S3_098",
+      "S1_010",
+      "S2_036",
+      "S2_054",
+      "S3_062",
+      "S2_095",
+      "S3_091"
+    ],
+    "cover": "S3_098"
+  },
+  {
+    "id": "34",
+    "name": "Focus Gato",
+    "author": null,
+    "description": "Establish Shikamaru Nara and Itachi Uchiha (Poise), then use Focus from Gato, Rock Lee (Loopy Fist), Raiga Kurosuki and Ichibi to generate Chakra. Gato's Summon is random among eligible cards costing at most 3. Homura Mitokado can protect Jiraiya (Toad Oil Flamethrower) before Focus, helping him reach his second global Burn application.",
+    "cards": [
+      "S3_056",
+      "S2_078",
+      "S3_080",
+      "S1_060",
+      "S3_090",
+      "S2_099",
+      "S3_084",
+      "S2_036",
+      "S2_091",
+      "S3_098"
+    ],
+    "cover": "S3_056"
+  },
+  {
+    "id": "35",
+    "name": "Shogi Master",
+    "author": "Bart",
+    "description": "Protect Shikamaru Nara and deploy Focus cards while he is active. With Itachi Uchiha (Poise) present, each new activation grows him too. Use Ino Yamanaka to temporarily take a threat, Raiga Kurosuki to clear a lane and Homura Mitokado before Rock Lee (Fifth Gate) when his preparation needs protection. Ichibi provides periodic activations in longer games.",
+    "cards": [
+      "S3_090",
+      "S2_036",
+      "S3_080",
+      "S2_058",
+      "S2_054",
+      "S2_099",
+      "S3_056",
+      "S2_094",
+      "S2_078",
+      "S2_061"
+    ],
+    "cover": "S2_078"
+  },
+  {
+    "id": "36",
+    "name": "Rage Control",
+    "author": null,
+    "description": "Grow Naruto Uzumaki (Kyubi Rage) through withdrawals: Student Trio adds three more units to continue the cycle. Naruto Uzumaki (Will to Protect) instead permanently increases his own base Chakra on each withdrawal. Tsunade (Desperate Healing) helps restore cards toward that increasing value, while Ichibi and Neji Hyuga keep lanes open.",
+    "cards": [
+      "S1_078",
+      "S2_016",
+      "S2_036",
+      "S2_054",
+      "S2_091",
+      "S3_062",
+      "S3_097",
+      "S2_099",
+      "S1_081",
+      "S2_092"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "37",
+    "name": "Control",
+    "author": "ALX",
+    "description": "Use Kakashi Hatake (Giant Vortex Jutsu) to Weaken and Push lane rivals, then exploit Ichibi against Long Range cards. Neji Hyuga (Byakugan) handles cards that have accumulated a lot of Chakra. Orochimaru (Treachery) provides pressure as you cycle answers, and Tsunade (Desperate Healing) lets you preserve a threat rather than immediately replacing it.",
+    "cards": [
+      "S2_091",
+      "S2_061",
+      "S3_062",
+      "S2_099",
+      "S1_081",
+      "S3_097",
+      "S1_069",
+      "S2_084",
+      "S2_092",
+      "S2_054"
+    ],
+    "cover": "S2_099"
+  },
+  {
+    "id": "38",
+    "name": "Control",
+    "author": "Hans",
+    "description": "Pair Gaara (Sand Release) with Itachi Uchiha (Tsukuyomi): Gaara's Pins reactivate Itachi's skill, while Gaara treats already Pinned rivals differently. Kyubi (Linked Fate) can boost a threat such as Sasuke Uchiha (Winged Defense). Kimimaro (Unwavering Loyalty) operates separately: allied skills cannot boost or Heal him.",
+    "cards": [
+      "S2_091",
+      "S3_077",
+      "S1_070",
+      "S2_100",
+      "S3_095",
+      "S2_096",
+      "S3_100",
+      "S1_010",
+      "S3_097",
+      "S2_092"
+    ],
+    "cover": "S2_096"
+  },
+  {
+    "id": "39",
+    "name": "Control",
+    "author": "Jad",
+    "description": "Cycle Homura Mitokado before Neji Hyuga (Sixty-Four Palms) to protect trades that can permanently reduce rival base Chakra. Choji Akimichi converts his own Guard activations into Chakra, while Kakashi Hatake (Team Leader) can support him in Short Range. In overtime, consider when to send Naruto Uzumaki and Tsunade toward the base instead of chasing every rival card.",
+    "cards": [
+      "S3_097",
+      "S2_036",
+      "S2_061",
+      "S2_091",
+      "S2_092",
+      "S1_010",
+      "S3_093",
+      "S2_095",
+      "S2_054",
+      "S3_077"
+    ],
+    "cover": "S2_095"
+  },
+  {
+    "id": "40",
+    "name": "Control",
+    "author": "Kebob",
+    "description": "Give the two Neji Hyuga versions distinct roles: Byakugan immediately reduces a large threat, while Sixty-Four Palms rewards trades ending in a rival withdrawal. Sasuke Uchiha (Black Chidori) helps against Guard. Jiraiya (Toad Oil Flamethrower) applies Burn to the whole rival board and repeats it on successful Focus; Homura Mitokado and Tsunade sustain the cards worth keeping active.",
+    "cards": [
+      "S2_054",
+      "S2_091",
+      "S3_062",
+      "S1_010",
+      "S2_095",
+      "S2_036",
+      "S3_084",
+      "S2_092",
+      "S1_069",
+      "S3_091"
+    ],
+    "cover": "S2_095"
+  },
+  {
+    "id": "41",
+    "name": "First Steps",
+    "author": null,
+    "description": "Use Naruto Uzumaki (Loneliness) on an empty allied lane for his opening boost. In another lane, the withdrawal of Naruto Uzumaki (Defenseless) can Weaken a rival and activate Zabuza Momochi (Broken), if it is that lane's first allied withdrawal. Neji Hyuga halves large threats, while Asuma Sarutobi benefits from encounters against higher-Chakra rivals.",
+    "cards": [
+      "S1_006",
+      "S1_010",
+      "S1_030",
+      "S1_045",
+      "S1_054",
+      "S1_081",
+      "S2_010",
+      "S2_054",
+      "S1_042",
+      "S2_061"
+    ],
+    "cover": "S1_010"
+  },
+  {
+    "id": "42",
+    "name": "Guard and Weaken",
+    "author": null,
+    "description": "Choose Weaken according to the target: Zabuza Momochi (Aggression) hits the nearest lane rival, Genma Shiranui intervenes in Mid Range and Kakashi Hatake (Giant Vortex Jutsu) affects the entire lane. Raiga Kurosuki diverts approaching cards. Use Shizune (Poison Mist) when you can exploit her skill without disabling the allies you want to preserve.",
+    "cards": [
+      "S1_005",
+      "S1_013",
+      "S2_039",
+      "S2_042",
+      "S3_037",
+      "S3_062",
+      "S3_069",
+      "S3_066",
+      "S3_046",
+      "S1_069"
+    ],
+    "cover": "S1_069"
+  },
+  {
+    "id": "43",
+    "name": "God Save Rage",
+    "author": null,
+    "description": "Keep Naruto Uzumaki (Kyubi Rage) active while cheap units withdraw. The Kiba Inuzuka and Akamaru package concentrates Chakra through Kiba Inuzuka (Transformation Combo); Student Trio adds more bodies across three lanes. Homura Mitokado protects Naruto before trades, while Neji Hyuga and Tsunade help keep your developed threat alive.",
+    "cards": [
+      "S2_061",
+      "S1_078",
+      "S2_091",
+      "S1_033",
+      "S3_079",
+      "S2_036",
+      "S1_034",
+      "S2_054",
+      "S3_097",
+      "S2_016"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "44",
+    "name": "Guard",
+    "author": null,
+    "description": "Prepare Sakon & Ukon, then use Homura Mitokado to add Guard to a card such as Choji Akimichi. Activations boost both the duo and Choji; Sasuke Uchiha (Winged Defense) re-enables his skill when his Guard is consumed. Position Kakashi Hatake (Team Leader) to support lane allies in Short Range.",
+    "cards": [
+      "S3_077",
+      "S3_098",
+      "S1_010",
+      "S2_091",
+      "S2_054",
+      "S3_097",
+      "S3_062",
+      "S3_093",
+      "S2_036",
+      "S2_092"
+    ],
+    "cover": "S3_098"
+  },
+  {
+    "id": "45",
+    "name": "Byakugō",
+    "author": null,
+    "description": "Use Gaara (Dangerous) when a rival is in Mid Range to receive his immediate Chakra boost. Neji Hyuga (Byakugan) and Kakashi Hatake (Giant Vortex Jutsu) handle subsequent trades. Homura Mitokado protects the card to preserve, while the two Tsunade versions provide a resilient threat and healing for lane allies respectively.",
+    "cards": [
+      "S1_010",
+      "S1_069",
+      "S2_091",
+      "S2_092",
+      "S2_054",
+      "S2_061",
+      "S2_010",
+      "S3_097",
+      "S3_062",
+      "S2_036"
+    ],
+    "cover": "S3_097"
+  },
+  {
+    "id": "46",
+    "name": "Arrow Kyubi",
+    "author": null,
+    "description": "Prepare Kyubi (Linked Fate), then immediately deploy Sasuke Uchiha (Winged Defense) to concentrate the bonus on your chosen card. The link makes both withdraw when either one leaves, so account for Kyubi's safety too. Before the final play, use Neji Hyuga (Byakugan) to halve the biggest defender and Kakashi Hatake to bypass Guard. Tsunade supports the defensive plan.",
+    "cards": [
+      "S3_097",
+      "S3_084",
+      "S2_100",
+      "S2_091",
+      "S2_092",
+      "S2_061",
+      "S2_054",
+      "S1_070",
+      "S1_010",
+      "S3_077"
+    ],
+    "cover": "S2_100"
+  },
+  {
+    "id": "47",
+    "name": "Deck",
+    "author": "Sabo",
+    "description": "Protect Naruto Uzumaki (Kyubi Rage) with Homura Mitokado, then feed him withdrawals from Kiba Inuzuka, Akamaru and Student Trio units. Ino Yamanaka temporarily controls the most important Mid Range rival, while Gaara (Sand Tsunami) affects the rest of the board. Kotetsu Hagane redistributes allies through random lane switches.",
+    "cards": [
+      "S1_078",
+      "S3_094",
+      "S2_091",
+      "S1_070",
+      "S2_058",
+      "S1_033",
+      "S1_034",
+      "S2_016",
+      "S2_036",
+      "S2_028"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "48",
+    "name": "Control",
+    "author": "Louis",
+    "description": "Use Kakashi Hatake (Team Leader) to support Choji Akimichi, especially while Choji still has Guard. Prepare Homura Mitokado before Neji Hyuga (Sixty-Four Palms) to facilitate favorable trades; Neji Hyuga (Byakugan) instead handles heavily boosted rivals. Against Focus, try to remove Shikamaru Nara with available Weaken before his support multiplies rival Chakra.",
+    "cards": [
+      "S1_010",
+      "S1_081",
+      "S2_054",
+      "S2_091",
+      "S2_092",
+      "S3_097",
+      "S2_061",
+      "S3_093",
+      "S2_036",
+      "S2_095"
+    ],
+    "cover": "S2_095"
+  },
+  {
+    "id": "49",
+    "name": "Simo BP Raikiri",
+    "author": null,
+    "description": "Keep Kakashi Hatake (Battle Plan) active and use Kakashi Hatake to hit a threat through Guard. Kakashi Hatake (Team Leader) supplies Chakra to lane allies in Short Range. Amachi and the other cheap Weaken effects cover early answers; save Hiruzen Sarutobi and Neji Hyuga (Byakugan) to support Battle Plan as he advances, compensating for Tobirama's absence.",
+    "cards": [
+      "S1_082",
+      "S2_054",
+      "S3_077",
+      "S3_030",
+      "S1_081",
+      "S2_097",
+      "S2_095",
+      "S3_058",
+      "S1_010",
+      "S1_070"
+    ],
+    "cover": "S1_082"
+  },
+  {
+    "id": "50",
+    "name": "Doki and Clones",
+    "author": null,
+    "description": "Deploy Tayuya before Summons and use 1-cost cards to cycle back to unit generators. The clones from both Naruto Uzumaki versions and Koharu Utatane's Anbu unit receive her Chakra bonus. Completing Tayuya's Focus adds Doki across three lanes; Gaara and Jiraiya (Toad Oil Flamethrower) help regain control while developing the swarm.",
+    "cards": [
+      "S1_003",
+      "S1_034",
+      "S2_014",
+      "S2_004",
+      "S3_011",
+      "S2_037",
+      "S1_077",
+      "S3_099",
+      "S3_094",
+      "S3_084"
+    ],
+    "cover": "S3_099"
+  },
+  {
+    "id": "51",
+    "name": "Edo Fury",
+    "author": null,
+    "description": "Deploy Naruto Uzumaki (Kyubi Rage) before the sacrifices. Set up Student Trio and a second low-Chakra ally, then play Orochimaru (Edo Tensei) while Hashirama Senju is still in the deck. The allied withdrawals trigger the summon and give Naruto Chakra and Rush. Student Trio redeploys its three students across the lanes, and their later withdrawals feed Naruto again. Kiba Inuzuka (Best Friend) can summon Akamaru for cheap pressure, while Kiba Inuzuka (Transformation Combo) gives you a second way to trigger withdrawals.",
+    "cards": [
+      "S1_033",
+      "S1_034",
+      "S1_078",
+      "S2_016",
+      "S2_091",
+      "S3_079",
+      "S2_036",
+      "S2_068",
+      "S2_086",
+      "S2_088"
+    ],
+    "cover": "S2_086"
+  },
+  {
+    "id": "52",
+    "name": "Wind and Fire",
+    "author": "Kebon",
+    "description": "Cycle Naruto Uzumaki (Will to Protect) early so each withdrawal raises his base Chakra before the late game. Use Ichibi (Air Bullets) against groups at Long Range and save Sasuke Uchiha (Fireball Jutsu) for rivals already at Mid Range. Send Orochimaru (Treachery) through a contested lane and use Neji Hyuga (Byakugan) to halve the defender once Orochimaru becomes vulnerable.",
+    "cards": [
+      "S1_010",
+      "S3_097",
+      "S2_091",
+      "S2_092",
+      "S2_084",
+      "S3_062",
+      "S2_061",
+      "S2_054",
+      "S1_081",
+      "S2_099"
+    ],
+    "cover": "S2_091"
+  },
+  {
+    "id": "53",
+    "name": "Mid Range Pressure",
+    "author": "max5",
+    "description": "Deploy Gaara (Dangerous) where a rival is already at Mid Range to get the Chakra bonus. Use Naruto Uzumaki (Demon Fox Rasengan) against a guarded defender to strip its Guard and open the lane. Send Orochimaru (Treachery) through a contested lane and use Neji Hyuga (Byakugan) to halve the defender once Orochimaru becomes vulnerable. Cycle Naruto Uzumaki (Will to Protect) early so each withdrawal raises his base Chakra before the late game.",
+    "cards": [
+      "S2_091",
+      "S2_092",
+      "S2_010",
+      "S3_092",
+      "S2_084",
+      "S2_054",
+      "S2_061",
+      "S1_081",
+      "S2_099",
+      "S3_097"
+    ],
+    "cover": "S2_010"
+  },
+  {
+    "id": "54",
+    "name": "Lane Control",
+    "author": "Tobi",
+    "description": "Cycle Naruto Uzumaki (Will to Protect) early so each withdrawal raises his base Chakra before the late game. Hold Kakashi Hatake (Giant Vortex Jutsu) until several rivals share a lane, then push and weaken them together. Naruto Uzumaki (Will to Protect) can advance while the lane recovers. Place Tsunade (Desperate Healing) near the ally you need to sustain and reserve Tsunade (Mitotic Regeneration) for a lane where her first recovery can swing several encounters.",
+    "cards": [
+      "S1_010",
+      "S2_091",
+      "S2_092",
+      "S2_010",
+      "S3_062",
+      "S2_054",
+      "S1_081",
+      "S1_069",
+      "S2_099",
+      "S3_097"
+    ],
+    "cover": "S2_091"
+  },
+  {
+    "id": "55",
+    "name": "Drain and Scales",
+    "author": "Pluto",
+    "description": "Put Seimei (Ultimate Form) in the lane with the biggest threat so his Pin and repeated Drain hold it in place while you build the other lanes. Play Hoki (Reverse Scale Formation) only after your allies reach 5 total Chakra in each lane. Use his heavy Weaken when the payoff outweighs losing 2 Chakra from every ally. Save Kakashi Hatake (Raikiri) to hit through Guard and Temari (Giant Folding Fan) to push back a lane that is getting crowded.",
+    "cards": [
+      "S1_010",
+      "S2_091",
+      "S2_061",
+      "S2_054",
+      "S1_081",
+      "S1_070",
+      "SR_002",
+      "SR_004",
+      "S3_084",
+      "S1_045"
+    ],
+    "cover": "SR_002"
+  },
+  {
+    "id": "56",
+    "name": "Doki Rage",
+    "author": "KaKAO",
+    "description": "Keep Naruto Uzumaki (Kyubi Rage) active before allied withdrawals so each one gives him Chakra and Rush. Have Kiba Inuzuka (Best Friend) summon Akamaru (Rush), then deploy Kiba Inuzuka (Transformation Combo) to withdraw both, transfer their Chakra and trigger Naruto again. Use Student Trio (Team Konohamaru) to refill the lanes when it withdraws. Give Tayuya (Doki Summoning) time to finish Focus so the Doki add pressure across all three lanes.",
+    "cards": [
+      "S3_099",
+      "S3_094",
+      "S2_036",
+      "S2_061",
+      "S2_016",
+      "S1_033",
+      "S1_034",
+      "S3_079",
+      "S1_078",
+      "S2_091"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "57",
+    "name": "Counterattack",
+    "author": "Feli4",
+    "description": "Deploy Gaara (Dangerous) where a rival is already at Mid Range to get the Chakra bonus. Use Naruto Uzumaki (Demon Fox Rasengan) against a guarded defender to strip its Guard and open the lane. Use Ichibi (Air Bullets) against groups at Long Range and save Sasuke Uchiha (Fireball Jutsu) for rivals already at Mid Range. Cycle Naruto Uzumaki (Will to Protect) early so each withdrawal raises his base Chakra before the late game.",
+    "cards": [
+      "S2_091",
+      "S1_081",
+      "S2_099",
+      "S3_092",
+      "S3_097",
+      "S2_010",
+      "S1_010",
+      "S2_054",
+      "S2_092",
+      "S2_061"
+    ],
+    "cover": "S2_010"
+  },
+  {
+    "id": "58",
+    "name": "Focus Chain",
+    "author": "Tobi",
+    "description": "Establish Shikamaru Nara (Shogi Master) before the Focus cards. Rock Lee (Loopy Fist) and Kidomaru (Spider Bow) then gain Chakra when they start focusing. Keep Itachi Uchiha (Poise) active to benefit from each Focus. Use Temari (Giant Folding Fan) to clear space while Raiga Kurosuki (Thunder Dragon Tornado) or Jiraiya (Toad Oil Flamethrower) charges a larger effect.",
+    "cards": [
+      "S2_078",
+      "S3_056",
+      "S2_099",
+      "S3_090",
+      "S3_084",
+      "S3_080",
+      "S2_036",
+      "S2_061",
+      "S3_086",
+      "S2_058"
+    ],
+    "cover": "S2_078"
+  },
+  {
+    "id": "59",
+    "name": "Winged Defense",
+    "author": "Arrow",
+    "description": "Keep Neji Hyuga (Byakugan) for the opponent’s largest Chakra stack and use Tsunade (Mitotic Regeneration) to hold the most contested lane. For the decisive push, play Kyubi (Linked Fate) immediately before Sasuke Uchiha (Winged Defense). Keep both safe until Sasuke can use the bonus, since either withdrawal removes the pair. Use Jiraiya (Toad Oil Flamethrower) to wear down multiple lanes at once. Hold Kakashi Hatake (Raikiri) for a guarded rival that survives the pressure.",
+    "cards": [
+      "S1_010",
+      "S1_070",
+      "S2_054",
+      "S2_058",
+      "S2_091",
+      "S2_092",
+      "S2_100",
+      "S3_077",
+      "S3_084",
+      "S3_097"
+    ],
+    "cover": "S2_054"
+  },
+  {
+    "id": "60",
+    "name": "Hyuga Team",
+    "author": "Nate",
+    "description": "Keep Hiashi Hyuga (Hyuga Leader) active to give your Hyuga extra Chakra and Push. Hizashi Hyuga (Brother's Sacrifice) can take his place when he is about to withdraw. Feed the Chakra bonus to Neji Hyuga (Burden of Destiny) for an extra gain. Use Neji Hyuga (Byakugan) to soften a strong target, then let Neji Hyuga (Sixty-Four Palms) finish it to reduce its base Chakra permanently.",
+    "cards": [
+      "S2_022",
+      "S2_023",
+      "S2_095",
+      "S2_076",
+      "S2_054",
+      "S2_055",
+      "S2_021",
+      "S1_032",
+      "S2_007",
+      "S3_006"
+    ],
+    "cover": "S2_022"
+  },
+  {
+    "id": "61",
+    "name": "Sound Village Edo",
+    "author": "Nate",
+    "description": "Use low-Chakra allies such as Kaiza (Martyr) as sacrifices for Orochimaru (Edo Tensei). Keep Hashirama Senju (Edo Regeneration) and Tobirama Senju (Edo Regeneration) in the deck so the withdrawals can bring them in with Rush. Deploy Tayuya (North) or Jirobo (South) before the Orochimaru you want to strengthen. Orochimaru (Seasoned) is a cheaper recipient when the summoning setup is still incomplete.",
+    "cards": [
+      "S2_086",
+      "S2_068",
+      "S2_069",
+      "S3_059",
+      "S2_049",
+      "S2_046",
+      "S2_047",
+      "S2_048",
+      "S1_021",
+      "S1_019"
+    ],
+    "cover": "S2_086"
+  },
+  {
+    "id": "62",
+    "name": "Fifth Gate",
+    "author": "Arrow 1",
+    "description": "Play Homura Mitokado (Reassurance) directly before Rock Lee (Fifth Gate) and give Rock Lee room to finish Focus. Asuma Sarutobi (Melee Prowess) can meet a stronger rival and gain Chakra during the encounter. Use Sasuke Uchiha (Curse Mark) in a lane with successive encounters, where he can build Chakra after each trade. Cycle Naruto Uzumaki (Will to Protect) early so each withdrawal raises his base Chakra before the late game.",
+    "cards": [
+      "S1_010",
+      "S1_030",
+      "S1_070",
+      "S1_081",
+      "S2_036",
+      "S2_061",
+      "S2_091",
+      "S2_092",
+      "S2_094",
+      "S3_066"
+    ],
+    "cover": "S2_036"
+  },
+  {
+    "id": "63",
+    "name": "Toad Team",
+    "author": "Pluto",
+    "description": "Use Gama (Toad Scroll) to bring out a Toad and establish others before deploying Gamahiro (Heft), who gains Chakra for each allied Toad. Set up Gamatatsu (Food Motivated) while you have energy to pay for its pulses. Keep Gamabunta (Toad Teamwork) active when Temari (Giant Folding Fan) pushes a lane or Choji Akimichi (Human Boulder) pushes rivals during Rush. Each allied Push can feed Gamabunta Chakra.",
+    "cards": [
+      "S1_076",
+      "S2_032",
+      "S2_073",
+      "S3_035",
+      "S2_091",
+      "S1_070",
+      "S3_039",
+      "S2_057",
+      "S2_061",
+      "S3_069"
+    ],
+    "cover": "S1_076"
+  },
+  {
+    "id": "64",
+    "name": "Range Control",
+    "author": "max5",
+    "description": "Use Sakura Haruno (Kunai Throw) to pick off a rival at Long Range and Ichibi (Air Bullets) to weaken a group before it closes in. Hold Kakashi Hatake (Giant Vortex Jutsu) until several rivals share a lane, then push and weaken them together. Naruto Uzumaki (Will to Protect) can advance while the lane recovers. Place Tsunade (Desperate Healing) near the ally you need to sustain and reserve Tsunade (Mitotic Regeneration) for a lane where her first recovery can swing several encounters.",
+    "cards": [
+      "S1_006",
+      "S2_092",
+      "S2_091",
+      "S1_070",
+      "S1_069",
+      "S3_097",
+      "S1_081",
+      "S3_062",
+      "S2_099",
+      "S1_010"
+    ],
+    "cover": "S1_006"
+  },
+  {
+    "id": "65",
+    "name": "Kyubi Link",
+    "author": "Arrow",
+    "description": "For the decisive push, play Kyubi (Linked Fate) immediately before Sasuke Uchiha (Winged Defense). Keep both safe until Sasuke can use the bonus, since either withdrawal removes the pair. Hold Kakashi Hatake (Giant Vortex Jutsu) until several rivals share a lane, then push and weaken them together. Naruto Uzumaki (Will to Protect) can advance while the lane recovers. Use Jiraiya (Toad Oil Flamethrower) to wear down multiple lanes at once. Hold Kakashi Hatake (Raikiri) for a guarded rival that survives the pressure.",
+    "cards": [
+      "S2_100",
+      "S3_077",
+      "S2_091",
+      "S2_092",
+      "S1_070",
+      "S3_061",
+      "S2_061",
+      "S1_081",
+      "S1_069",
+      "S3_084"
+    ],
+    "cover": "S2_100"
+  },
+  {
+    "id": "66",
+    "name": "Edo and Tsukuyomi",
+    "author": "Rostin",
+    "description": "Put Student Trio (Team Konohamaru) among the weakest allies before deploying Orochimaru (Edo Tensei). If it withdraws, its three students return across the lanes. Establish Itachi Uchiha (Tsukuyomi Army) before Hashirama Senju (Deep Forest Emergence) Pins the opposing board, so the Pin can create clones at a Chakra cost to Itachi. Follow up with Tobirama Senju (Water Shock Wave) to weaken and slow the opposing board. Temari (Giant Folding Fan) can push a crowded lane while Sakon & Ukon (Synchronized Defense) gain Chakra from allied Guard activations.",
+    "cards": [
+      "S2_086",
+      "S2_016",
+      "S2_087",
+      "S2_088",
+      "S3_082",
+      "S2_092",
+      "S1_070",
+      "S3_098",
+      "S2_061",
+      "S3_069"
+    ],
+    "cover": "S2_086"
+  },
+  {
+    "id": "67",
+    "name": "Mark and Guard",
+    "author": "Zack",
+    "description": "Play Mikoto Uchiha (Soothing) before Sasuke Uchiha (Winged Defense) or Sasuke Uchiha (Evolved Prediction) to strengthen that Sasuke and heal him the first time he drops below base Chakra. For the decisive push, play Kyubi (Linked Fate) immediately before Sasuke Uchiha (Winged Defense). Keep both safe until Sasuke can use the bonus, since either withdrawal removes the pair. Use Kimimaro (Unwavering Loyalty) as an independent finisher. Keep fragile allies away from trades that would trigger his board-wide Weaken on withdrawal.",
+    "cards": [
+      "S3_039",
+      "S3_092",
+      "S3_076",
+      "S3_077",
+      "S3_043",
+      "S1_070",
+      "S2_061",
+      "S2_100",
+      "S3_100",
+      "S3_062"
+    ],
+    "cover": "S3_043"
+  },
+  {
+    "id": "68",
+    "name": "Old Friends",
+    "author": "Louis",
+    "description": "Keep Enma (Monkey King) active before Iruka Umino (Goofball) or Kotetsu Hagane (Misdirection) changes allied lanes so each Switch can give the moving ally Chakra. Let Sakura Haruno (Unyielding) absorb hits with Guard to trigger her Switch. Use Kotetsu Hagane (Misdirection) when you can afford the random lane changes and Slow. Keep Choza Akimichi (Old Friends), Inoichi Yamanaka (Old Friends) and Shikaku Nara (Old Friends) overlapping on the board so their mutual Chakra bonuses support the lanes they occupy.",
+    "cards": [
+      "S1_051",
+      "S1_075",
+      "S2_093",
+      "S2_090",
+      "S2_028",
+      "S1_022",
+      "S2_061",
+      "S2_020",
+      "S2_019",
+      "S2_018"
+    ],
+    "cover": "S2_090"
+  },
+  {
+    "id": "69",
+    "name": "Rage on the Move",
+    "author": "Dezed",
+    "description": "Keep Naruto Uzumaki (Kyubi Rage) active before allied withdrawals so each one gives him Chakra and Rush. Have Kiba Inuzuka (Best Friend) summon Akamaru (Rush), then deploy Kiba Inuzuka (Transformation Combo) to withdraw both, transfer their Chakra and trigger Naruto again. Keep Enma (Monkey King) active before Iruka Umino (Goofball) or Kotetsu Hagane (Misdirection) changes allied lanes so each Switch can give the moving ally Chakra.",
+    "cards": [
+      "S2_036",
+      "S1_051",
+      "S2_090",
+      "S2_091",
+      "S1_033",
+      "S1_034",
+      "S3_079",
+      "S1_078",
+      "S2_061",
+      "S2_028"
+    ],
+    "cover": "S1_078"
+  },
+  {
+    "id": "70",
+    "name": "Amaterasu",
+    "author": "Markline",
+    "description": "Keep Enma (Monkey King) active as Iruka Umino (Goofball) changes lanes to gain Chakra. Let Haku (Crystal Ice Mirrors) use his encounter effect, then use Chakra from the ensuing Switch to ready it again. Send Itachi Uchiha (Amaterasu Escape) toward a lane where his Burn can spread, then follow a rival that switches lanes with Orochimaru (Kusanagi) to gain Guard and keep pressure on that target. Save Kakashi Hatake (Raikiri) to hit through Guard and Temari (Giant Folding Fan) to push back a lane that is getting crowded.",
+    "cards": [
+      "S2_036",
+      "S3_083",
+      "S2_085",
+      "S1_075",
+      "S1_051",
+      "S2_090",
+      "S1_070",
+      "S2_061",
+      "S1_079",
+      "S3_069"
+    ],
+    "cover": "S2_090"
+  },
+  {
+    "id": "71",
+    "name": "Dragon and Forest",
+    "author": "Broly",
+    "description": "Establish Itachi Uchiha (Tsukuyomi Army) before Hashirama Senju (Deep Forest Emergence) Pins the opposing board, so the Pin can create clones at a Chakra cost to Itachi. Use Akahoshi (Star Dragon) to Pin a cluster for additional clones, and Sakon & Ukon (Cursed Fusion) to Pin and drain a rival after teleporting behind it. Hold Kakashi Hatake (Giant Vortex Jutsu) until several rivals share a lane, then push and weaken them together. Naruto Uzumaki (Will to Protect) can advance while the lane recovers.",
+    "cards": [
+      "S1_069",
+      "S1_070",
+      "S2_091",
+      "S2_092",
+      "S2_054",
+      "S3_069",
+      "S3_082",
+      "S2_087",
+      "S3_067",
+      "S3_089"
+    ],
+    "cover": "S3_082"
+  },
+  {
+    "id": "72",
+    "name": "Mirrors and Mist",
+    "author": "Pluto",
+    "description": "Keep Enma (Monkey King) active as Iruka Umino (Goofball) changes lanes to gain Chakra. Let Haku (Crystal Ice Mirrors) use his encounter effect, then use Chakra from the ensuing Switch to ready it again. Time Shizune (Poison Mist) for a congested Mid Range. Her mist also affects allies, so let Jiraiya (Toad Oil Flamethrower) finish Focus before placing the mist over him. Save Kakashi Hatake (Raikiri) to hit through Guard and Temari (Giant Folding Fan) to push back a lane that is getting crowded.",
+    "cards": [
+      "S1_010",
+      "S1_075",
+      "S1_051",
+      "S2_090",
+      "S2_091",
+      "S1_070",
+      "S2_061",
+      "S1_006",
+      "S3_084",
+      "S3_069"
+    ],
+    "cover": "S1_075"
+  }
+]

@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy · NEXUS</title>
+  <link rel="icon" type="image/svg+xml" href="img_misc/favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.119.0/dist/umd/supabase.js"
+    integrity="sha384-uteMfOloLDGt042uDz+xHGF3ym63/WQ6rFq7murQRG8Ih7QrXGEGNtWd8688sb4O" crossorigin="anonymous"></script>
+  <script type="module" src="js/account.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">
+        <img src="img_misc/logo.png" alt="NEXUS Tournaments" width="2172" height="724">
+      </a>
+      <div class="header-controls">
+        <details class="account-menu" id="account-menu">
+          <summary class="account-trigger" id="account-label" data-i18n="auth.login">Accedi</summary>
+          <div class="account-panel">
+            <p id="auth-status" role="status" data-i18n="auth.check">Verifica della sessione…</p>
+            <button class="button primary" type="button" id="sign-in" data-i18n="auth.discord" hidden>Accedi con Discord</button>
+            <button class="button" type="button" id="sign-out" data-i18n="auth.logout" hidden>Esci</button>
+          </div>
+        </details>
+        <details class="language-menu">
+          <summary class="language-trigger" aria-label="Lingua: Italiano">
+            <img src="img_misc/flag-it.svg" width="18" height="13" alt="">
+            <span class="language-code">IT</span>
+            <span aria-hidden="true">▾</span>
+          </summary>
+          <div class="language-panel">
+            <button class="language-option" type="button" data-language="it" lang="it"><img src="img_misc/flag-it.svg" width="18" height="13" alt="">Italiano</button>
+            <button class="language-option" type="button" data-language="en" lang="en"><img src="img_misc/flag-gb.svg" width="18" height="13" alt="">English</button>
+          </div>
+        </details>
+      </div>
+    </div>
+  </header>
+  <main class="shell">
+    <article class="legal-article" lang="it" data-language-content="it">
+      <h1>Privacy Policy</h1>
+      <p>In vigore dal <strong>[DATA]</strong>.</p>
+      <p>Questa informativa descrive il trattamento dei dati personali di chi visita NEXUS Tournaments o accede con Discord.</p>
+
+      <h2>1. Titolare del trattamento</h2>
+      <p>Il titolare è <strong>[NOME E COGNOME / DENOMINAZIONE]</strong>, con recapito in <strong>[INDIRIZZO]</strong> e contatto <strong>[EMAIL]</strong>.</p>
+
+      <h2>2. Dati, finalità e basi giuridiche</h2>
+      <ul>
+        <li><strong>Accesso con Discord.</strong> Supabase Auth riceve l’identificativo Discord e i dati del profilo resi disponibili dal provider, come nome utente, avatar ed eventuale indirizzo email. NEXUS usa i dati dell’account per autenticarti, mostrarti il nome utente e mantenere la sessione. La base giuridica è la fornitura del servizio richiesto, ai sensi dell’articolo 6, paragrafo 1, lettera b del GDPR.</li>
+        <li><strong>Funzionamento e sicurezza.</strong> L’hosting, il CDN e il servizio di autenticazione ricevono i dati tecnici delle richieste, come indirizzo IP, orario e informazioni sul browser. I dati sono usati per erogare il sito e, per quanto necessario, diagnosticare problemi e prevenire abusi. La base giuridica per la sicurezza e la diagnostica è il legittimo interesse del titolare, ai sensi dell’articolo 6, paragrafo 1, lettera f del GDPR.</li>
+        <li><strong>Richieste di contatto.</strong> Se scrivi al gestore, verranno usati il tuo recapito e il contenuto della richiesta per risponderti e gestire eventuali segnalazioni. La base giuridica è il legittimo interesse a gestire la richiesta o, quando applicabile, l’adempimento di un obbligo legale ai sensi dell’articolo 6, paragrafo 1, lettere f e c del GDPR.</li>
+      </ul>
+      <p>Il catalogo, i mazzi e gli altri contenuti pubblici sono consultabili senza account. I dati forniti da Discord sono necessari se scegli di accedere.</p>
+
+      <h2>3. Memoria del browser</h2>
+      <p>Il sito usa la memoria locale per conservare la sessione Supabase e ricordare la lingua scelta. La memoria di sessione serve a gestire il ritorno da Discord. Il comando <strong>Esci</strong> chiude la sessione di NEXUS sul browser in uso.</p>
+
+      <h2>4. Destinatari e trasferimenti</h2>
+      <p>NEXUS usa Vercel per l’hosting, Supabase per l’autenticazione e jsDelivr per caricare il client JavaScript. Discord gestisce l’autorizzazione del tuo account e il server della community secondo la propria informativa. Puoi consultare le informative di <a href="https://vercel.com/legal/privacy-notice">Vercel</a>, <a href="https://supabase.com/privacy">Supabase</a> e <a href="https://discord.com/privacy">Discord</a>.</p>
+      <p>Le informazioni sui trasferimenti fuori dallo Spazio economico europeo sono <strong>[PAESI, GARANZIE APPLICABILI E MODALITÀ PER OTTENERNE COPIA]</strong>.</p>
+
+      <h2>5. Conservazione</h2>
+      <p>I tempi o criteri di conservazione sono <strong>[ACCOUNT E DATI DI PROFILO]</strong>, <strong>[LOG TECNICI]</strong> e <strong>[RICHIESTE DI CONTATTO]</strong>.</p>
+
+      <h2>6. I tuoi diritti</h2>
+      <p>Nei casi previsti dal GDPR puoi chiedere accesso, rettifica, cancellazione, limitazione e portabilità dei dati, oppure opporti ai trattamenti fondati sul legittimo interesse. Puoi scrivere a <strong>[EMAIL]</strong> e presentare reclamo al <a href="https://www.garanteprivacy.it/">Garante per la protezione dei dati personali</a>.</p>
+    </article>
+    <article class="legal-article" lang="en" data-language-content="en" hidden>
+      <h1>Privacy Policy</h1>
+      <p>Effective from <strong>[DATE]</strong>.</p>
+      <p>This policy describes how we process personal data when you visit NEXUS Tournaments or sign in with Discord.</p>
+
+      <h2>1. Data controller</h2>
+      <p>The controller is <strong>[FULL NAME / LEGAL NAME]</strong>, at <strong>[ADDRESS]</strong>, and can be contacted at <strong>[EMAIL]</strong>.</p>
+
+      <h2>2. Data, purposes and legal bases</h2>
+      <ul>
+        <li><strong>Discord login.</strong> Supabase Auth receives your Discord ID and the profile data that Discord makes available, such as your username, avatar and, where provided, email address. NEXUS uses your account data to authenticate you, display your username and keep you signed in. The legal basis is providing the service you requested under Article 6(1)(b) of the GDPR.</li>
+        <li><strong>Site operation and security.</strong> Hosting, CDN and authentication providers receive technical request data such as your IP address, request time and browser information. This data is used to provide the site and, as needed, diagnose problems and prevent abuse. The legal basis for security and troubleshooting is the controller’s legitimate interest under Article 6(1)(f) of the GDPR.</li>
+        <li><strong>Contact requests.</strong> If you contact the site operator, your contact details and message are used to respond and handle any reports. The legal basis is the legitimate interest in handling your request or, where applicable, compliance with a legal obligation under Article 6(1)(f) and (c) of the GDPR.</li>
+      </ul>
+      <p>You can browse the catalog, decks and other public content without an account. Data from Discord is needed if you choose to sign in.</p>
+
+      <h2>3. Browser storage</h2>
+      <p>The site uses local storage to keep your Supabase session and remember your language preference. Session storage is used to handle your return from Discord. Selecting <strong>Log out</strong> ends your NEXUS session in the current browser.</p>
+
+      <h2>4. Recipients and transfers</h2>
+      <p>NEXUS uses Vercel for hosting, Supabase for authentication and jsDelivr to load the JavaScript client. Discord handles account authorization and the community server under its own policy. See the privacy policies of <a href="https://vercel.com/legal/privacy-notice">Vercel</a>, <a href="https://supabase.com/privacy">Supabase</a> and <a href="https://discord.com/privacy">Discord</a>.</p>
+      <p>Information on transfers outside the European Economic Area: <strong>[COUNTRIES, APPLICABLE SAFEGUARDS AND HOW TO OBTAIN A COPY]</strong>.</p>
+
+      <h2>5. Retention</h2>
+      <p>Retention periods or criteria: <strong>[ACCOUNT AND PROFILE DATA]</strong>, <strong>[TECHNICAL LOGS]</strong> and <strong>[CONTACT REQUESTS]</strong>.</p>
+
+      <h2>6. Your rights</h2>
+      <p>Where the GDPR applies, you can request access, correction, erasure, restriction or portability of your data, or object to processing based on legitimate interests. You can email <strong>[EMAIL]</strong> or lodge a complaint with the <a href="https://www.garanteprivacy.it/">Italian Data Protection Authority</a>.</p>
+    </article>
+  </main>
+  <footer class="site-footer" aria-label="Informazioni legali" data-i18n-attr="aria-label:legal">
+    <a href="terms.html" data-i18n="legal.terms">Termini d’uso</a>
+    <span aria-hidden="true">–</span>
+    <a href="privacy.html" aria-current="page">Privacy Policy</a>
+  </footer>
+</body>
+</html>

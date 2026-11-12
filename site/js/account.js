@@ -1,3 +1,5 @@
+import { language, localizedUrl, t } from './i18n.js';
+
 const projectUrl = 'https://yydfahurqzljthofoexe.supabase.co';
 const publishableKey = 'sb_publishable_x-O7CQbM7RVxB97LV8PqJw_e8-q7KB8';
 const sessionKey = 'sb-yydfahurqzljthofoexe-auth-token';
@@ -5,16 +7,16 @@ const popupKey = 'nexus-discord-popup';
 const returnKey = 'nexus-discord-return';
 const errorKey = 'nexus-discord-error';
 const callbackUrl = new URL('account.html', location.href);
-const homeUrl = new URL('index.html', location.href);
+const homeUrl = new URL(localizedUrl('index.html'));
 const status = document.querySelector('#auth-status');
 const menu = document.querySelector('#account-menu');
-const loginFailed = 'Accesso Discord non completato. Riprova.';
+const loginFailed = t('auth.failed');
 
 function startAccountMenu(client) {
   const summary = document.querySelector('#account-label');
   const signIn = document.querySelector('#sign-in');
   const signOut = document.querySelector('#sign-out');
-  const segmenter = new Intl.Segmenter('it', { granularity: 'grapheme' });
+  const segmenter = new Intl.Segmenter(language, { granularity: 'grapheme' });
   let oauthPopup;
   let returnError = sessionStorage.getItem(errorKey) === '1';
   sessionStorage.removeItem(errorKey);
@@ -22,14 +24,14 @@ function startAccountMenu(client) {
   function renderSession(session) {
     const metadata = session?.user.user_metadata;
     const name = [metadata?.preferred_username, metadata?.user_name, metadata?.username, metadata?.name, metadata?.full_name]
-      .find((value) => typeof value === 'string' && value.trim()) || 'Profilo';
+      .find((value) => typeof value === 'string' && value.trim())?.trim() || t('auth.profile');
     const characters = Array.from(segmenter.segment(name), ({ segment }) => segment);
-    const shortened = characters.length > 10 ? characters.slice(0, 10).join('') + '...' : name;
-    summary.textContent = session ? shortened : 'Accedi';
+    const shortened = characters.length > 15 ? characters.slice(0, 15).join('') + '...' : name;
+    summary.textContent = session ? shortened : t('auth.login');
     summary.title = session ? name : '';
     signIn.hidden = Boolean(session);
     signOut.hidden = !session;
-    status.textContent = session ? name : 'Accedi con il tuo account Discord.';
+    status.textContent = '';
     if (returnError && !session) {
       status.textContent = loginFailed;
       menu.open = true;
@@ -58,7 +60,7 @@ function startAccountMenu(client) {
       return;
     }
     signIn.disabled = true;
-    status.textContent = 'Apertura di Discord…';
+    status.textContent = t('auth.opening');
     try {
       oauthPopup = window.open('about:blank', '_blank', 'popup,width=540,height=720');
       if (oauthPopup) {
@@ -75,13 +77,13 @@ function startAccountMenu(client) {
         location.assign(data.url);
       } else if (!oauthPopup.closed) {
         oauthPopup.location.replace(data.url);
-        status.textContent = 'Completa l’accesso nella finestra di Discord.';
+        status.textContent = t('auth.completeInPopup');
       } else {
         status.textContent = loginFailed;
       }
     } catch {
       oauthPopup?.close();
-      status.textContent = 'Impossibile avviare il login Discord. Riprova.';
+      status.textContent = t('auth.startError');
     } finally {
       signIn.disabled = false;
     }
@@ -93,7 +95,7 @@ function startAccountMenu(client) {
       const { error } = await client.auth.signOut({ scope: 'local' });
       if (error) throw error;
     } catch {
-      status.textContent = 'Impossibile terminare la sessione. Riprova.';
+      status.textContent = t('auth.logoutError');
     } finally {
       signOut.disabled = false;
     }
@@ -113,7 +115,7 @@ async function finishDiscordLogin(client) {
 
   if (inPopup) {
     history.replaceState(history.state, '', callbackUrl);
-    status.textContent = failed ? loginFailed : 'Accesso completato. Puoi chiudere questa finestra.';
+    status.textContent = failed ? loginFailed : t('auth.success');
     if (!failed) window.close();
     return;
   }
@@ -131,4 +133,4 @@ async function startAccount() {
   else await finishDiscordLogin(client);
 }
 
-startAccount().catch(() => { status.textContent = 'Il servizio di accesso è temporaneamente indisponibile.'; });
+startAccount().catch(() => { status.textContent = t('auth.unavailable'); });

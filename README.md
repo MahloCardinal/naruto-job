@@ -16,7 +16,9 @@ Apri <http://127.0.0.1:8000/>. Il sito carica i moduli JavaScript e i JSON via H
 
 ## Dati
 
-`node import-data.cjs` rigenera il catalogo italiano, le immagini WebP e i mazzi di riferimento. Gli effetti vengono dal Deck Builder, gli ID pubblici delle Event Scroll da NEXUS. Le liste importate popolano l’archivio generale. Il file `site/data/top-decks.json` accetta un elenco ordinato di ID dei mazzi da mostrare nella selezione competitiva. L’importazione lascia intatta questa selezione.
+`node import-data.cjs` rigenera il catalogo e i mazzi in italiano e in inglese, oltre alle immagini WebP condivise. Gli effetti vengono dal Deck Builder, gli ID pubblici delle Event Scroll da NEXUS. Le liste importate popolano l’archivio generale. Il file `site/data/top-decks.json` accetta un elenco ordinato di ID dei mazzi da mostrare nella selezione competitiva. L’importazione lascia intatta questa selezione.
+
+I testi dell’interfaccia sono in `site/locales/it.js` e `site/locales/en.js`. Termini e informativa hanno entrambe le versioni nei rispettivi file HTML. Il selettore ricorda la lingua scelta nel browser.
 
 ## Vercel
 

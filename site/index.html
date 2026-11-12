@@ -3,12 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Consulta le carte, gli effetti e i mazzi di Naruto Ninja Cards su NEXUS.">
+  <meta name="description" data-i18n-attr="content:home.description" content="Consulta le carte, gli effetti e i mazzi di Naruto Ninja Cards su NEXUS.">
   <title>NEXUS · Naruto Ninja Cards</title>
+  <link rel="icon" type="image/svg+xml" href="img_misc/favicon.svg">
   <link rel="stylesheet" href="styles.css">
   <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.119.0/dist/umd/supabase.js"
     integrity="sha384-uteMfOloLDGt042uDz+xHGF3ym63/WQ6rFq7murQRG8Ih7QrXGEGNtWd8688sb4O" crossorigin="anonymous"></script>
-  <script defer src="js/account.js"></script>
+  <script type="module" src="js/account.js"></script>
 </head>
 <body>
   <header class="site-header">
@@ -16,49 +17,67 @@
       <a class="brand" href="index.html" aria-current="page">
         <img src="img_misc/logo.png" alt="NEXUS Tournaments" width="2172" height="724">
       </a>
-      <details class="account-menu" id="account-menu">
-        <summary class="account-trigger" id="account-label">Accedi</summary>
-        <div class="account-panel">
-          <p id="auth-status" role="status">Verifica della sessione…</p>
-          <button class="button primary" type="button" id="sign-in" hidden>Accedi con Discord</button>
-          <button class="button" type="button" id="sign-out" hidden>Esci</button>
-        </div>
-      </details>
+      <div class="header-controls">
+        <details class="account-menu" id="account-menu">
+          <summary class="account-trigger" id="account-label" data-i18n="auth.login">Accedi</summary>
+          <div class="account-panel">
+            <p id="auth-status" role="status" data-i18n="auth.check">Verifica della sessione…</p>
+            <button class="button primary" type="button" id="sign-in" data-i18n="auth.discord" hidden>Accedi con Discord</button>
+            <button class="button" type="button" id="sign-out" data-i18n="auth.logout" hidden>Esci</button>
+          </div>
+        </details>
+        <details class="language-menu">
+          <summary class="language-trigger" aria-label="Lingua: Italiano">
+            <img src="img_misc/flag-it.svg" width="18" height="13" alt="">
+            <span class="language-code">IT</span>
+            <span aria-hidden="true">▾</span>
+          </summary>
+          <div class="language-panel">
+            <button class="language-option" type="button" data-language="it" lang="it"><img src="img_misc/flag-it.svg" width="18" height="13" alt="">Italiano</button>
+            <button class="language-option" type="button" data-language="en" lang="en"><img src="img_misc/flag-gb.svg" width="18" height="13" alt="">English</button>
+          </div>
+        </details>
+      </div>
     </div>
   </header>
   <main class="shell home">
     <h1 class="visually-hidden">NEXUS · Naruto Ninja Cards</h1>
-    <nav class="home-grid" aria-label="Sezioni NEXUS">
+    <nav class="home-grid" aria-label="Sezioni NEXUS" data-i18n-attr="aria-label:home.sections">
       <a class="home-card home-card--top-decks" href="top-decks.html">
-        <img class="home-card__backdrop" src="img_misc/home/top-decks.webp" alt="">
-        <img class="home-card__character" src="img_misc/home/sasuke.webp" alt="">
+        <img class="home-card__backdrop" src="img_misc/top-decks.webp" alt="">
+        <img class="home-card__character" src="img_misc/sasuke.webp" alt="">
         <span class="home-card__title">Top Decks</span>
       </a>
       <a class="home-card home-card--tournaments" href="tournaments.html">
-        <img class="home-card__backdrop" src="img_misc/home/tournaments.webp" alt="">
-        <img class="home-card__character" src="img_misc/home/naruto.webp" alt="">
-        <span class="home-card__title">Tornei</span>
+        <img class="home-card__backdrop" src="img_misc/tournaments.webp" alt="">
+        <img class="home-card__character" src="img_misc/naruto.webp" alt="">
+        <span class="home-card__title" data-i18n="tournaments.title">Tornei</span>
       </a>
       <a class="home-card home-card--decks" href="decks.html">
-        <img class="home-card__backdrop" src="img_misc/home/decks.webp" alt="">
-        <img class="home-card__character" src="img_misc/home/shikamaru.webp" alt="">
-        <span class="home-card__title">Mazzi</span>
+        <img class="home-card__backdrop" src="img_misc/decks.webp" alt="">
+        <img class="home-card__character" src="img_misc/shikamaru.webp" alt="">
+        <span class="home-card__title" data-i18n="decks.short">Mazzi</span>
       </a>
       <a class="home-card home-card--updates" href="updates.html">
-        <img class="home-card__backdrop" src="img_misc/home/updates.webp" alt="">
-        <img class="home-card__character" src="img_misc/home/sarutobi.webp" alt="">
+        <img class="home-card__backdrop" src="img_misc/updates.webp" alt="">
+        <img class="home-card__character" src="img_misc/sarutobi.webp" alt="">
         <span class="home-card__title">Updates</span>
       </a>
       <a class="home-card home-card--cards" href="cards.html">
-        <img class="home-card__backdrop" src="img_misc/home/cards.webp" alt="">
-        <img class="home-card__character" src="img_misc/home/konohamaru.webp" alt="">
-        <span class="home-card__title">Carte</span>
+        <img class="home-card__backdrop" src="img_misc/cards.webp" alt="">
+        <img class="home-card__character" src="img_misc/konohamaru.webp" alt="">
+        <span class="home-card__title" data-i18n="cards.title">Lista carte</span>
       </a>
       <a class="home-card home-card--discord" href="https://discord.gg/Z37VKQytGv" target="_blank" rel="noopener noreferrer">
-        <img class="home-card__symbol" src="img_misc/home/discord.svg" alt="">
-        <span class="home-card__title">Unisciti al Discord</span>
+        <img class="home-card__symbol" src="img_misc/discord.svg" alt="">
+        <span class="home-card__title" data-i18n="home.discord">Unisciti al Discord</span>
       </a>
     </nav>
   </main>
+  <footer class="site-footer" aria-label="Informazioni legali" data-i18n-attr="aria-label:legal">
+    <a href="terms.html" data-i18n="legal.terms">Termini d’uso</a>
+    <span aria-hidden="true">–</span>
+    <a href="privacy.html">Privacy Policy</a>
+  </footer>
 </body>
 </html>

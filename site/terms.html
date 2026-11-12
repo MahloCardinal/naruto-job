@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="it" data-title="legal.terms">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Termini d’uso · NEXUS</title>
+  <link rel="icon" type="image/svg+xml" href="img_misc/favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.119.0/dist/umd/supabase.js"
+    integrity="sha384-uteMfOloLDGt042uDz+xHGF3ym63/WQ6rFq7murQRG8Ih7QrXGEGNtWd8688sb4O" crossorigin="anonymous"></script>
+  <script type="module" src="js/account.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">
+        <img src="img_misc/logo.png" alt="NEXUS Tournaments" width="2172" height="724">
+      </a>
+      <div class="header-controls">
+        <details class="account-menu" id="account-menu">
+          <summary class="account-trigger" id="account-label" data-i18n="auth.login">Accedi</summary>
+          <div class="account-panel">
+            <p id="auth-status" role="status" data-i18n="auth.check">Verifica della sessione…</p>
+            <button class="button primary" type="button" id="sign-in" data-i18n="auth.discord" hidden>Accedi con Discord</button>
+            <button class="button" type="button" id="sign-out" data-i18n="auth.logout" hidden>Esci</button>
+          </div>
+        </details>
+        <details class="language-menu">
+          <summary class="language-trigger" aria-label="Lingua: Italiano">
+            <img src="img_misc/flag-it.svg" width="18" height="13" alt="">
+            <span class="language-code">IT</span>
+            <span aria-hidden="true">▾</span>
+          </summary>
+          <div class="language-panel">
+            <button class="language-option" type="button" data-language="it" lang="it"><img src="img_misc/flag-it.svg" width="18" height="13" alt="">Italiano</button>
+            <button class="language-option" type="button" data-language="en" lang="en"><img src="img_misc/flag-gb.svg" width="18" height="13" alt="">English</button>
+          </div>
+        </details>
+      </div>
+    </div>
+  </header>
+  <main class="shell">
+    <article class="legal-article" lang="it" data-language-content="it">
+      <h1>Termini d’uso</h1>
+      <p>In vigore dal <strong>[DATA]</strong>.</p>
+      <p>NEXUS Tournaments è un portale della community dedicato a Naruto Ninja Cards. Il sito raccoglie carte, liste di mazzi e aggiornamenti e può pubblicare informazioni sui tornei. Il gestore è <strong>[NOME E COGNOME / DENOMINAZIONE]</strong>, con recapito in <strong>[INDIRIZZO]</strong> e contatto <strong>[EMAIL]</strong>.</p>
+
+      <h2>1. Accesso e uso del sito</h2>
+      <p>Le sezioni pubbliche sono consultabili liberamente. L’accesso all’account avviene tramite Discord e richiede un account Discord utilizzabile secondo le condizioni di quel servizio. Custodisci il tuo account e segnala al gestore eventuali accessi sospetti.</p>
+
+      <h2>2. Regole della community</h2>
+      <p>Usa il sito nel rispetto delle altre persone e dei loro diritti. Evita molestie, spam, impersonificazione, caricamenti illeciti e tentativi di accedere a dati o aree riservate. In caso di abuso, il gestore può limitare l’accesso alle funzioni interessate e rimuovere eventuali contenuti che violano queste regole.</p>
+
+      <h2>3. Carte, immagini e marchi</h2>
+      <p>NEXUS è un progetto indipendente della community. Naruto, le illustrazioni, i marchi e gli altri materiali di terzi appartengono ai rispettivi titolari. Per segnalare un contenuto o chiedere una correzione, scrivi a <strong>[EMAIL]</strong> indicando la pagina e il materiale interessato.</p>
+
+      <h2>4. Contenuti e servizi esterni</h2>
+      <p>Carte, mazzi e classifiche sono risorse della community e possono variare nel tempo. Le condizioni di partecipazione a eventuali tornei saranno indicate nella pagina dell’evento. L’accesso e l’invito alla community rimandano a Discord, dove valgono le condizioni del relativo servizio.</p>
+
+      <h2>5. Modifiche e contatti</h2>
+      <p>Le modifiche ai termini vengono pubblicate in questa pagina con la data di efficacia. Per domande scrivi a <strong>[EMAIL]</strong>. Le informazioni sul trattamento dei dati sono nella <a href="privacy.html">Privacy Policy</a>.</p>
+    </article>
+    <article class="legal-article" lang="en" data-language-content="en" hidden>
+      <h1>Terms of Use</h1>
+      <p>Effective from <strong>[DATE]</strong>.</p>
+      <p>NEXUS Tournaments is a community portal for Naruto Ninja Cards. It lists cards, decks and updates, and may publish tournament information. The site is operated by <strong>[FULL NAME / LEGAL NAME]</strong>, at <strong>[ADDRESS]</strong>, and can be contacted at <strong>[EMAIL]</strong>.</p>
+
+      <h2>1. Accessing and using the site</h2>
+      <p>Public sections are open to everyone. Signing in requires a Discord account that you can use under Discord’s terms. Keep your account secure and report any suspicious access to the site operator.</p>
+
+      <h2>2. Community rules</h2>
+      <p>Respect other people and their rights. Do not harass others, send spam, impersonate anyone, upload unlawful material or attempt to access private areas or data. In case of abuse, the operator may restrict access to the relevant features and remove content that breaks these rules.</p>
+
+      <h2>3. Cards, images and trademarks</h2>
+      <p>NEXUS is an independent community project. Naruto, the illustrations, trademarks and other third-party material belong to their respective owners. To report content or request a correction, email <strong>[EMAIL]</strong> with the page and material in question.</p>
+
+      <h2>4. Content and external services</h2>
+      <p>Cards, decks and rankings are community resources and may change over time. Tournament participation rules will be published on the relevant event page. Discord’s terms apply when you sign in through Discord or follow the community invite.</p>
+
+      <h2>5. Changes and contact</h2>
+      <p>Changes to these terms will be published here with their effective date. If you have questions, email <strong>[EMAIL]</strong>. See the <a href="privacy.html">Privacy Policy</a> for details on how we handle personal data.</p>
+    </article>
+  </main>
+  <footer class="site-footer" aria-label="Informazioni legali" data-i18n-attr="aria-label:legal">
+    <a href="terms.html" aria-current="page" data-i18n="legal.terms">Termini d’uso</a>
+    <span aria-hidden="true">–</span>
+    <a href="privacy.html">Privacy Policy</a>
+  </footer>
+</body>
+</html>

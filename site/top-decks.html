@@ -4,10 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Top Decks · NEXUS</title>
+  <link rel="icon" type="image/svg+xml" href="img_misc/favicon.svg">
   <link rel="stylesheet" href="styles.css">
   <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.119.0/dist/umd/supabase.js"
     integrity="sha384-uteMfOloLDGt042uDz+xHGF3ym63/WQ6rFq7murQRG8Ih7QrXGEGNtWd8688sb4O" crossorigin="anonymous"></script>
-  <script defer src="js/account.js"></script>
+  <script type="module" src="js/account.js"></script>
   <script type="module" src="js/decks.js"></script>
 </head>
 <body>
@@ -16,26 +17,46 @@
       <a class="brand" href="index.html">
         <img src="img_misc/logo.png" alt="NEXUS Tournaments" width="2172" height="724">
       </a>
-      <details class="account-menu" id="account-menu">
-        <summary class="account-trigger" id="account-label">Accedi</summary>
-        <div class="account-panel">
-          <p id="auth-status" role="status">Verifica della sessione…</p>
-          <button class="button primary" type="button" id="sign-in" hidden>Accedi con Discord</button>
-          <button class="button" type="button" id="sign-out" hidden>Esci</button>
-        </div>
-      </details>
+      <div class="header-controls">
+        <details class="account-menu" id="account-menu">
+          <summary class="account-trigger" id="account-label" data-i18n="auth.login">Accedi</summary>
+          <div class="account-panel">
+            <p id="auth-status" role="status" data-i18n="auth.check">Verifica della sessione…</p>
+            <button class="button primary" type="button" id="sign-in" data-i18n="auth.discord" hidden>Accedi con Discord</button>
+            <button class="button" type="button" id="sign-out" data-i18n="auth.logout" hidden>Esci</button>
+          </div>
+        </details>
+        <details class="language-menu">
+          <summary class="language-trigger" aria-label="Lingua: Italiano">
+            <img src="img_misc/flag-it.svg" width="18" height="13" alt="">
+            <span class="language-code">IT</span>
+            <span aria-hidden="true">▾</span>
+          </summary>
+          <div class="language-panel">
+            <button class="language-option" type="button" data-language="it" lang="it"><img src="img_misc/flag-it.svg" width="18" height="13" alt="">Italiano</button>
+            <button class="language-option" type="button" data-language="en" lang="en"><img src="img_misc/flag-gb.svg" width="18" height="13" alt="">English</button>
+          </div>
+        </details>
+      </div>
     </div>
   </header>
   <main class="shell" id="decks" data-view="top">
     <div class="page-intro">
-      <p class="eyebrow">Selezione competitiva</p>
-      <h1>Top Decks</h1>
-      <p>I mazzi selezionati dalla redazione di NEXUS.</p>
+      <div class="section-heading">
+        <span class="section-portrait"><img src="img_misc/sasuke.webp" alt=""></span>
+        <h1>Top Decks</h1>
+      </div>
+      <p data-i18n="top.intro">I mazzi selezionati dalla redazione di NEXUS.</p>
     </div>
     <noscript><p>Attiva JavaScript per consultare i Top Decks.</p></noscript>
-    <p id="status" class="status" role="status">Caricamento dei Top Decks…</p>
+    <p id="status" class="status" role="status" data-i18n="top.loading">Caricamento dei Top Decks…</p>
     <div id="deck-list" class="deck-grid"></div>
-    <p><a class="text-link" href="decks.html">Vai all’archivio completo →</a></p>
+    <p><a class="text-link" href="decks.html" data-i18n="top.link">Vai all’archivio completo →</a></p>
   </main>
+  <footer class="site-footer" aria-label="Informazioni legali" data-i18n-attr="aria-label:legal">
+    <a href="terms.html" data-i18n="legal.terms">Termini d’uso</a>
+    <span aria-hidden="true">–</span>
+    <a href="privacy.html">Privacy Policy</a>
+  </footer>
 </body>
 </html>

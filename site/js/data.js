@@ -1,5 +1,8 @@
+import { language } from './i18n.js';
+
 export async function loadData(name) {
-  const response = await fetch(new URL(`../data/${name}.json`, import.meta.url));
+  const suffix = language === 'en' && name !== 'top-decks' ? '.en' : '';
+  const response = await fetch(new URL(`../data/${name}${suffix}.json`, import.meta.url));
   if (!response.ok) throw new Error(`Impossibile caricare ${name}: ${response.status}`);
   return response.json();
 }

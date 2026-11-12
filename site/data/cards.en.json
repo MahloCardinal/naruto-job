@@ -1,0 +1,4898 @@
+[
+  {
+    "id": "S1_001",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Potential",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "The first time this card gains chakra, gain extra Chakra(+1).",
+      "The first time this card gains chakra, gain extra Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S1_002",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Learning",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+2) after 6 seconds.",
+      "Chakra(+3) after 6 seconds."
+    ]
+  },
+  {
+    "id": "S1_003",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Shadow Clone Jutsu",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Summon"
+    ],
+    "descriptions": [
+      "Summon 1 clone on another lane with Chakra(1).",
+      "Summon 1 clone on another lane with Chakra(2)."
+    ]
+  },
+  {
+    "id": "S1_004",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Oath",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+1) after successful encounter.",
+      "Chakra(+2) after successful encounter."
+    ]
+  },
+  {
+    "id": "S1_005",
+    "season": 1,
+    "name": "SASUKE UCHIHA",
+    "ability": "Kunai Mastery",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On encounter, Weaken(2) the rival card.",
+      "On encounter, Weaken(3) the rival card."
+    ]
+  },
+  {
+    "id": "S1_006",
+    "season": 1,
+    "name": "SAKURA HARUNO",
+    "ability": "Kunai Throw",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(2) a random lane rival in Long Range.",
+      "On deploy, Weaken(3) a random lane rival in Long Range."
+    ]
+  },
+  {
+    "id": "S1_007",
+    "season": 1,
+    "name": "SAKURA HARUNO",
+    "ability": "Chakra Balance",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Pin"
+    ],
+    "descriptions": [
+      "When lane allies succeed an encounter, Chakra(+1) to them and Pin(3s) self.",
+      "When lane allies succeed an encounter, Chakra(+1) to them and Pin(5s) self."
+    ]
+  },
+  {
+    "id": "S1_008",
+    "season": 1,
+    "name": "SAKURA HARUNO",
+    "ability": "Roundhouse Kick",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Push",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On encounter, Push(1) and Weaken(1) the rival card.",
+      "On encounter, Push(2) and Weaken(1) the rival card."
+    ]
+  },
+  {
+    "id": "S1_009",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(5s)",
+      "Rush(6s)"
+    ]
+  },
+  {
+    "id": "S1_010",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Team Leader",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On encounter, Chakra(+2) to a lane ally in Short Range.",
+      "On encounter, Chakra(+3) to a lane ally in Short Range."
+    ]
+  },
+  {
+    "id": "S1_011",
+    "season": 1,
+    "name": "IRUKA UMINO",
+    "ability": "Sensei",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+2) to next ally deployed.",
+      "Chakra(+3) to next ally deployed."
+    ]
+  },
+  {
+    "id": "S1_012",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Menacing Entry",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Slow",
+      "Switch",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Deploys directly to Mid Range. Slows(4s) the rival with the highest Chakra on this card's lane and makes that rival Switch lanes.",
+      "Deploys directly to Mid Range. Slows(6s) the rival with the highest Chakra on this card's lane and makes that rival Switch lanes."
+    ]
+  },
+  {
+    "id": "S1_013",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Aggression",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(3) closest rival card on lane.",
+      "On deploy, Weaken(4) closest rival card on lane."
+    ]
+  },
+  {
+    "id": "S1_014",
+    "season": 1,
+    "name": "HAKU",
+    "ability": "Needles",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(6s) closest lane rival.",
+      "On deploy, Pin(7s) closest lane rival."
+    ]
+  },
+  {
+    "id": "S1_015",
+    "season": 1,
+    "name": "KONOHAMARU SARUTOBI",
+    "ability": "Shuriken Throw",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(1) a random lane rival in Short Range.",
+      "On deploy, Weaken(2) a random lane rival in Short Range."
+    ]
+  },
+  {
+    "id": "S1_016",
+    "season": 1,
+    "name": "EBISU",
+    "ability": "Quick Lesson",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+2) to closest lane ally.",
+      "On deploy, Chakra(+3) to closest lane ally."
+    ]
+  },
+  {
+    "id": "S1_017",
+    "season": 1,
+    "name": "TAZUNA",
+    "ability": "Bridge Builder",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [],
+    "descriptions": [
+      "On deploy, pull 2 lane allies in Mid Range back to this card.",
+      "On deploy, pull 3 lane allies in Mid Range back to this card."
+    ]
+  },
+  {
+    "id": "S1_018",
+    "season": 1,
+    "name": "INARI",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(2s)",
+      "Rush(3s)"
+    ]
+  },
+  {
+    "id": "S1_019",
+    "season": 1,
+    "name": "KAIZA",
+    "ability": "Martyr",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+1) to lane allies when withdrawing.",
+      "Chakra(+2) to lane allies when withdrawing."
+    ]
+  },
+  {
+    "id": "S1_020",
+    "season": 1,
+    "name": "MIZUKI TOJI",
+    "ability": "Hidden Intent",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Weaken",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(2) a random lane ally and Chakra(+3) for this card.",
+      "On deploy, Weaken(2) a random lane ally and Chakra(+4) for this card."
+    ]
+  },
+  {
+    "id": "S1_021",
+    "season": 1,
+    "name": "MIZUKI TOJI",
+    "ability": "Pushover",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On withdraw, Chakra(+1) for 3 random allies.",
+      "On withdraw, Chakra(+2) for 3 random allies."
+    ]
+  },
+  {
+    "id": "S1_022",
+    "season": 1,
+    "name": "MADAME SHIJIMI",
+    "ability": "Cat Rescue",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+1) and Slow(3s) to three lane allies in Short Range.",
+      "On deploy, Chakra(+2) and Slow(3s) to three lane allies in Short Range."
+    ]
+  },
+  {
+    "id": "S1_023",
+    "season": 1,
+    "name": "GOZU",
+    "ability": "Ambush",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Weaken",
+      "Teleport"
+    ],
+    "descriptions": [
+      "On encounter, Weaken(1) rival card and Teleport behind it.",
+      "On encounter, Weaken(2) rival card and Teleport behind it."
+    ]
+  },
+  {
+    "id": "S1_024",
+    "season": 1,
+    "name": "TSUNAMI",
+    "ability": "Hospitality",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+1) for 2 lane allies.",
+      "On deploy, Chakra(+1) for 3 lane allies."
+    ]
+  },
+  {
+    "id": "S1_025",
+    "season": 1,
+    "name": "WARAJI",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(3s)",
+      "Rush(4s)"
+    ]
+  },
+  {
+    "id": "S1_026",
+    "season": 1,
+    "name": "ZORI",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(3s)",
+      "Rush(4s)"
+    ]
+  },
+  {
+    "id": "S1_027",
+    "season": 1,
+    "name": "INO YAMANAKA",
+    "ability": "Charm",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Push"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+1) to closest ally in Short Range and push them to Mid Range.",
+      "On deploy, Chakra(+2) to closest ally in Short Range and Push them to Mid Range."
+    ]
+  },
+  {
+    "id": "S1_028",
+    "season": 1,
+    "name": "SHIKAMARU NARA",
+    "ability": "Shadow Paralysis Jutsu",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(10s) self and closest lane rival card.",
+      "On deploy, Pin(12s) self and closest lane rival card."
+    ]
+  },
+  {
+    "id": "S1_029",
+    "season": 1,
+    "name": "CHOJI AKIMICHI",
+    "ability": "Strength",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 2,
+    "effects": [
+      "Push"
+    ],
+    "descriptions": [
+      "On encounter, Push(1) the rival card.",
+      "On encounter, Push(2) the rival card."
+    ]
+  },
+  {
+    "id": "S1_030",
+    "season": 1,
+    "name": "ASUMA SARUTOBI",
+    "ability": "Melee Prowess",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On encounter, Chakra(+3) if rival card has a higher chakra number.",
+      "On encounter, Chakra(+4) if rival card has a higher chakra number."
+    ]
+  },
+  {
+    "id": "S1_031",
+    "season": 1,
+    "name": "HINATA HYUGA",
+    "ability": "Shy",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Push"
+    ],
+    "descriptions": [
+      "On deploy, Push(2) closest lane rival card in Short Range.",
+      "On deploy, Push(3) closest lane rival card in Short Range."
+    ]
+  },
+  {
+    "id": "S1_032",
+    "season": 1,
+    "name": "HINATA HYUGA",
+    "ability": "Gentle Fist",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 2,
+    "effects": [
+      "Push"
+    ],
+    "descriptions": [
+      "On the first encounter, Push(1) only the encountered rival, if it has 3 or less Chakra.",
+      "On the first encounter, Push(2) only the encountered rival, if it has 3 or less Chakra."
+    ]
+  },
+  {
+    "id": "S1_033",
+    "season": 1,
+    "name": "KIBA INUZUKA",
+    "ability": "Best Friend",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Summon",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Summon a random Akamaru from your deck and give it Chakra(+1). If Akamaru is not found, this card gains Chakra(+1) instead.",
+      "Summon a random Akamaru from your deck and give it Chakra(+2). If Akamaru is not found, this card gains Chakra(+2) instead."
+    ]
+  },
+  {
+    "id": "S1_034",
+    "season": 1,
+    "name": "AKAMARU",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(6s)",
+      "Rush(7s)"
+    ]
+  },
+  {
+    "id": "S1_035",
+    "season": 1,
+    "name": "SHINO ABURAME",
+    "ability": "Chakra Insects",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On encounter, Chakra(+2) to this card and Weaken(1) rival card.",
+      "On encounter, Chakra(+2) to this card and Weaken(2) rival card."
+    ]
+  },
+  {
+    "id": "S1_036",
+    "season": 1,
+    "name": "KURENAI YUHI",
+    "ability": "Feint",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Push",
+      "Pin"
+    ],
+    "descriptions": [
+      "On encounter, Push(2) and Pin(2s) rival card.",
+      "On encounter, Push(2) and Pin(4s) rival card."
+    ]
+  },
+  {
+    "id": "S1_037",
+    "season": 1,
+    "name": "PAKKUN",
+    "ability": "Sharp Nose",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Ignore all rival skills and encounters until reaching Mid Range. Allies gain Rush(+2s) when deployed on this lane while this card is active.",
+      "Ignore all rival skills and encounters until reaching Mid Range. Allies gain Rush(+3s) when deployed on this lane while this card is active."
+    ]
+  },
+  {
+    "id": "S1_038",
+    "season": 1,
+    "name": "AYAME",
+    "ability": "Fresh Meal",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+2) to 2 lane allies in Mid Range.",
+      "On deploy, Chakra(+2) to 3 lane allies in Mid Range."
+    ]
+  },
+  {
+    "id": "S1_039",
+    "season": 1,
+    "name": "MOEGI KAZAMATSURI",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(2s)",
+      "Rush(3s)"
+    ]
+  },
+  {
+    "id": "S1_040",
+    "season": 1,
+    "name": "UDON ISE",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(2s)",
+      "Rush(3s)"
+    ]
+  },
+  {
+    "id": "S1_041",
+    "season": 1,
+    "name": "NINJA TROOPS",
+    "ability": "Vanguard",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Rush(2s). On withdraw, Chakra(+3) to most recently deployed ally.",
+      "Rush(3s). On withdraw, Chakra(+3) to most recently deployed ally."
+    ]
+  },
+  {
+    "id": "S1_042",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Defenseless",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On withdraw, Weaken(3) rival card.",
+      "On withdraw, Weaken(4) rival card."
+    ]
+  },
+  {
+    "id": "S1_043",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Prankster",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Slow(10s) all cards on lane.",
+      "On deploy, Slow(12s) all cards on lane."
+    ]
+  },
+  {
+    "id": "S1_044",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Sexy Jutsu",
+    "rarity": "Rare",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(4s) one lane rival card in Mid Range.",
+      "On deploy, Pin(5s) one lane rival in Mid Range."
+    ]
+  },
+  {
+    "id": "S1_045",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Loneliness",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+3) and Slow(6s) if no lane allies present.",
+      "On deploy, Chakra(+4) and Slow(6s) if no lane allies present."
+    ]
+  },
+  {
+    "id": "S1_046",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Graduation",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Gain Chakra(+1) for each lane ally in short range.",
+      "Gain Chakra(+2) for each lane ally in short range."
+    ]
+  },
+  {
+    "id": "S1_047",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Transformation Jutsu",
+    "rarity": "Rare",
+    "cost": 1,
+    "chakra": 2,
+    "effects": [],
+    "descriptions": [
+      "On deploy, disguise as another card up to 3 cost from your deck. Reverts to original on encounter or when weakened.",
+      "On deploy, disguise as another card up to 4 cost from your deck. Reverts to original on encounter or when weakened."
+    ]
+  },
+  {
+    "id": "S1_048",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Cunning",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Pin",
+      "Teleport"
+    ],
+    "descriptions": [
+      "On encounter, Pin(4s) rival card and Teleport behind it.",
+      "On encounter, Pin(6s) rival card and Teleport behind it."
+    ]
+  },
+  {
+    "id": "S1_049",
+    "season": 1,
+    "name": "SASUKE UCHIHA",
+    "ability": "Projection",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Pin",
+      "Switch"
+    ],
+    "descriptions": [
+      "Next ally deploys to Mid Range. Pin(4s) and Switch a random lane rival in Mid Range.",
+      "Next ally deploys to Mid Range. Pin(8s) and Switch a random lane rival in Mid Range."
+    ]
+  },
+  {
+    "id": "S1_050",
+    "season": 1,
+    "name": "HIRUZEN SARUTOBI",
+    "ability": "Telescope Technique",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Rush"
+    ],
+    "descriptions": [
+      "When allies gain Rush, apply Chakra(+1) and Rush(+1s) to them.",
+      "When allies gain Rush, apply Chakra(+1) and Rush(+2s) to them."
+    ]
+  },
+  {
+    "id": "S1_051",
+    "season": 1,
+    "name": "IRUKA UMINO",
+    "ability": "Goofball",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Switch"
+    ],
+    "descriptions": [
+      "Randomly lane Switch every 8 seconds.",
+      "Randomly lane Switch every 6 seconds."
+    ]
+  },
+  {
+    "id": "S1_052",
+    "season": 1,
+    "name": "IRUKA UMINO",
+    "ability": "Sacrifice",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Deploys directly to Mid Range and grants Chakra(+1) to the closest lane ally.",
+      "Deploys directly to Mid Range and grants Chakra(+2) to the closest lane ally."
+    ]
+  },
+  {
+    "id": "S1_053",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Hidden in the Mist",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Pin",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Pin(6s) and Weaken(1) all rivals on this card's lane in Short Range.",
+      "On deploy, Pin(6s) and Weaken(2) all rivals on this card's lane in Short Range."
+    ]
+  },
+  {
+    "id": "S1_054",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Broken",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Gain Chakra(+3) the first time a lane ally withdraws.",
+      "Gain Chakra(+4) the first time a lane ally withdraws."
+    ]
+  },
+  {
+    "id": "S1_055",
+    "season": 1,
+    "name": "KONOHAMARU SARUTOBI",
+    "ability": "Imperfect Sexy Jutsu",
+    "rarity": "Rare",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, 50% chance to Pin(6s) one lane rival card in Mid Range.",
+      "On deploy, 50% chance to Pin(8s) one lane rival in Mid Range."
+    ]
+  },
+  {
+    "id": "S1_056",
+    "season": 1,
+    "name": "KONOHAMARU SARUTOBI",
+    "ability": "Legacy",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 1,
+    "effects": [
+      "Summon",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, 50% chance to summon a random Hiruzen from your deck, otherwise Chakra(+2).",
+      "On deploy, 50% chance to summon a random Hiruzen from your deck, otherwise Chakra(+3)."
+    ]
+  },
+  {
+    "id": "S1_057",
+    "season": 1,
+    "name": "KONOHAMARU SARUTOBI",
+    "ability": "Sexy Jutsu",
+    "rarity": "Rare",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(4s) one lane rival card in Mid Range.",
+      "On deploy, Pin(5s) one lane rival in Mid Range."
+    ]
+  },
+  {
+    "id": "S1_058",
+    "season": 1,
+    "name": "EBISU",
+    "ability": "Difficult Lessons",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "All allies deployed gain Chakra(+2) but Weaken(1) this card each time.",
+      "Next allies deployed gain Chakra(+3) but Weaken(1) this card each time."
+    ]
+  },
+  {
+    "id": "S1_059",
+    "season": 1,
+    "name": "INARI",
+    "ability": "Take Action",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Weaken",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(1) and Slow(6s) the closest lane rival card in Long Range.",
+      "On deploy, Weaken(1) and Slow(8s) the closest lane rival in Long Range."
+    ]
+  },
+  {
+    "id": "S1_060",
+    "season": 1,
+    "name": "GATO",
+    "ability": "Crime Lord",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Focus",
+      "Summon"
+    ],
+    "descriptions": [
+      "On deploy, Focus(6s). If Focus succeeds, Summon a random card from up to 3 cost from your deck.",
+      "On deploy, Focus(4s). If Focus succeeds, Summon a random card from up to 3 cost from your deck."
+    ]
+  },
+  {
+    "id": "S1_061",
+    "season": 1,
+    "name": "NINJA HOUNDS",
+    "ability": "Fanged Pursuit",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(6s) self and highest chakra lane rival.",
+      "On deploy, Pin(8s) self and highest chakra lane rival."
+    ]
+  },
+  {
+    "id": "S1_062",
+    "season": 1,
+    "name": "TEUCHI",
+    "ability": "Way of Ramen",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+1) to lane allies after 8 seconds.",
+      "Chakra(+2) to lane allies after 8 seconds."
+    ]
+  },
+  {
+    "id": "S1_063",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Determination",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Summon"
+    ],
+    "descriptions": [
+      "When allied Iruka is about to withdraw, pull it back to the start of the lane and create 3 clones with Chakra(1) distributed on all lanes.",
+      "When allied Iruka is about to withdraw, pull it back to the start of the lane and Summon 5 clones with Chakra(1) distributed on all lanes."
+    ]
+  },
+  {
+    "id": "S1_064",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Showmanship",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+5) after 10s.",
+      "Chakra(+6) after 10s."
+    ]
+  },
+  {
+    "id": "S1_065",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Mass Sexy Jutsu",
+    "rarity": "Epic",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Pin",
+      "Rush"
+    ],
+    "descriptions": [
+      "On encounter, Pin(6s) rival card, teleport behind it and gain Rush(2s).",
+      "On encounter, Pin(8s) rival card, teleport behind it and gain Rush(4s)."
+    ]
+  },
+  {
+    "id": "S1_066",
+    "season": 1,
+    "name": "SASUKE UCHIHA",
+    "ability": "Prediction",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [],
+    "descriptions": [
+      "Cannot be weakened during encounters with rival cards of 2 or less Chakra.",
+      "Cannot be weakened during encounters with rival cards of 3 or less Chakra."
+    ]
+  },
+  {
+    "id": "S1_067",
+    "season": 1,
+    "name": "SAKURA HARUNO",
+    "ability": "Inner Fire",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+3) the first time a lane rival is deployed, then Chakra(+1) every time a rival is deployed or Switches to this lane.",
+      "Chakra(+3) the first time a lane rival is deployed, then Chakra(+2) every time a rival is deployed or Switches to this lane."
+    ]
+  },
+  {
+    "id": "S1_068",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Thousand Years of Death",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "Jump to the first rival card that comes nearby, Weaken(1) and Push(3) it.",
+      "Jump to the first rival card that comes nearby, Weaken(1) and Push(4) it."
+    ]
+  },
+  {
+    "id": "S1_069",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Giant Vortex Jutsu",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Push",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Push(3) and Weaken(2) all lane rivals.",
+      "On deploy, Push(3) and Weaken(3) all lane rivals."
+    ]
+  },
+  {
+    "id": "S1_070",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Raikiri",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Weaken",
+      "Guard"
+    ],
+    "descriptions": [
+      "Jump to the first rival card that comes nearby and Weaken(3) it. Ignores Guard.",
+      "Jump to the first rival card that comes nearby and Weaken(4) it. Ignores Guard."
+    ]
+  },
+  {
+    "id": "S1_071",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Clone Bluff",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Summon",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Spend remaining energy to Summon up to 5 clones with Chakra(2) disguised as the original.",
+      "Spend remaining energy to summon up to 6 clones with Chakra(2) disguised as the original."
+    ]
+  },
+  {
+    "id": "S1_072",
+    "season": 1,
+    "name": "IRUKA UMINO",
+    "ability": "Scolding",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Pin"
+    ],
+    "descriptions": [
+      "While this card is active, Chakra(+1) and Pin(2s) to allies with 2 Chakra when deploying them.",
+      "While this card is active, Chakra(+2) and Pin(2s) to allies with 2 Chakra when deploying them."
+    ]
+  },
+  {
+    "id": "S1_073",
+    "season": 1,
+    "name": "HIRUZEN SARUTOBI",
+    "ability": "Will of Fire",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra[+1] to all allies after 10 seconds.",
+      "Chakra(+2) to all allies after 10 seconds."
+    ]
+  },
+  {
+    "id": "S1_074",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Water Dragon Jutsu",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(1) and Push(1) all lane rivals in Short and Mid Range.",
+      "On deploy, Weaken(1) and Push(3) all lane rivals in Short and Mid Range."
+    ]
+  },
+  {
+    "id": "S1_075",
+    "season": 1,
+    "name": "HAKU",
+    "ability": "Crystal Ice Mirrors",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Pin",
+      "Weaken",
+      "Switch"
+    ],
+    "descriptions": [
+      "On encounter, Pin(2s) and Weaken(1) lane rivals nearby, then lane Switch. When gaining Chakra, re-enable this skill.",
+      "On encounter, Pin(4s) and Weaken(1) lane rivals nearby, then lane Switch. When gaining Chakra, re-enable this skill."
+    ]
+  },
+  {
+    "id": "S1_076",
+    "season": 1,
+    "name": "GAMABUNTA",
+    "ability": "Toad Teamwork",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Push"
+    ],
+    "descriptions": [
+      "Chakra(+1) whenever allies Push rivals.",
+      "Chakra(+2) whenever allies Push rivals."
+    ]
+  },
+  {
+    "id": "S1_077",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Multi Shadow Clone",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Rush",
+      "Summon"
+    ],
+    "descriptions": [
+      "Create 2 clones with Chakra(2) and Rush(4s) on the other lanes, then 2 new clones after 10s. Chakra(+1) whenever these clones withdraw.",
+      "Summon 2 clones with Chakra(2) and Rush(6s) on the other lanes, then 2 new clones after 10s. Chakra(+1) whenever these clones withdraw."
+    ]
+  },
+  {
+    "id": "S1_078",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Kyubi Rage",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Rush"
+    ],
+    "descriptions": [
+      "Whenever allies withdraw, Chakra(+1) and Rush(1s).",
+      "Whenever allies withdraw, Chakra(+2) and Rush(1s)."
+    ]
+  },
+  {
+    "id": "S1_079",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Furious Punch",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "Deploys directly to Mid Range. Weakens(2) and Pushes(1) all lane rivals.",
+      "Deploys directly to Mid Range. Weakens(2) and Pushes(3) all lane rivals."
+    ]
+  },
+  {
+    "id": "S1_080",
+    "season": 1,
+    "name": "NARUTO UZUMAKI",
+    "ability": "Resolve",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+2) every 8s.",
+      "Chakra(+2) every 6s."
+    ]
+  },
+  {
+    "id": "S1_081",
+    "season": 1,
+    "name": "SASUKE UCHIHA",
+    "ability": "Fireball Jutsu",
+    "rarity": "Legendary",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(2) all rivals in Mid Range.",
+      "On deploy, Weaken(3) all rivals in Mid Range."
+    ]
+  },
+  {
+    "id": "S1_082",
+    "season": 1,
+    "name": "KAKASHI HATAKE",
+    "ability": "Battle Plan",
+    "rarity": "Legendary",
+    "cost": 7,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "While active, Chakra(+1) whenever allies Weaken rivals. Allies gain Chakra(+1) for each card affected the first time they Weaken rivals.",
+      "While active, Chakra(+2) whenever allies Weaken rivals. Allies gain Chakra(+1) for each card affected the first time they Weaken rivals."
+    ]
+  },
+  {
+    "id": "S1_083",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Demon",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(1) all cards. If they have 3 or less Chakra, Weaken(3) instead.",
+      "On deploy, Weaken(1) all cards. If they have 4 or less Chakra, Weaken(4) instead."
+    ]
+  },
+  {
+    "id": "S1_084",
+    "season": 1,
+    "name": "ZABUZA MOMOCHI",
+    "ability": "Reckless Charge",
+    "rarity": "Legendary",
+    "cost": 7,
+    "chakra": 5,
+    "effects": [
+      "Weaken",
+      "Rush",
+      "Switch"
+    ],
+    "descriptions": [
+      "On each encounter, Weaken(2) rival cards with 4 or less Chakra and make them Switch lanes. Permanent Rush.",
+      "On each encounter, Weaken(3) rival cards with 4 or less Chakra and make them Switch lanes. Permanent Rush."
+    ]
+  },
+  {
+    "id": "S1_085",
+    "season": 1,
+    "name": "KYUBI",
+    "ability": "Natural Disaster",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 7,
+    "effects": [
+      "Weaken",
+      "Push",
+      "Slow"
+    ],
+    "descriptions": [
+      "Deploys directly to Mid Range. Pushes(1) and Weakens(3) all cards. While active, Weakens(1) newly deployed cards. Permanently Slowed.",
+      "Deploys directly to Mid Range. Pushes(1) and Weakens(4) all cards. While active, Weakens(1) newly deployed cards. Permanently Slowed."
+    ]
+  },
+  {
+    "id": "S2_001",
+    "season": 2,
+    "name": "Naruto Uzumaki",
+    "ability": "Chakra Training",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, 50% chance to gain Chakra(+3).",
+      "On deploy, 50% chance to gain Chakra(+4)."
+    ]
+  },
+  {
+    "id": "S2_002",
+    "season": 2,
+    "name": "Naruto Uzumaki",
+    "ability": "Challenger",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Pin",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, this card is Pinned(1s) and gains Chakra(+2) for each lane rival with higher Chakra.",
+      "On deploy, this card is Pinned(2s) and gains Chakra(+2) for each lane rival with higher Chakra."
+    ]
+  },
+  {
+    "id": "S2_003",
+    "season": 2,
+    "name": "Sasuke Uchiha",
+    "ability": "Lion's Barrage",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "Jump to the first rival card that comes nearby and Weaken(2) it.",
+      "Jump to the first rival card that comes nearby and Weaken(3) it."
+    ]
+  },
+  {
+    "id": "S2_004",
+    "season": 2,
+    "name": "Sakura Haruno",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(2s)",
+      "Rush(3s)"
+    ]
+  },
+  {
+    "id": "S2_005",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Protector",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(+3s) whenever a rival is deployed on this lane.",
+      "Rush(+4s) whenever a rival is deployed on this lane."
+    ]
+  },
+  {
+    "id": "S2_006",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Love Bomb",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Switch"
+    ],
+    "descriptions": [
+      "Chakra(+1) to next ally deployed. While this card is active, lane Switch that ally every 8 seconds.",
+      "Chakra(+2) to next ally deployed. While this card is active, lane Switch that ally every 8 seconds."
+    ]
+  },
+  {
+    "id": "S2_007",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Gentle Fist",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "On encounter, Weaken(2) and Push(1).",
+      "On encounter, Weaken(2) and Push(2)."
+    ]
+  },
+  {
+    "id": "S2_008",
+    "season": 2,
+    "name": "Tenten",
+    "ability": "Rising Twin Dragons",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Weaken",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(1) and Slow(6s) all rivals in Long Range.",
+      "On deploy, Weaken(1) and Slow(8s) all rivals in Long Range."
+    ]
+  },
+  {
+    "id": "S2_009",
+    "season": 2,
+    "name": "Gai Maito",
+    "ability": "Power of Youth",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "While this card is active, Chakra(+2) to Rock Lee cards when deploying them.",
+      "While this card is active, Chakra(+3) to Rock Lee cards when deploying them."
+    ]
+  },
+  {
+    "id": "S2_010",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Dangerous",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Deploys directly to Mid Range. Gains Chakra(+3) if there is a rival card in Mid Range.",
+      "Deploys directly to Mid Range. Gains Chakra(+4) if there is a rival card in Mid Range."
+    ]
+  },
+  {
+    "id": "S2_011",
+    "season": 2,
+    "name": "Kankuro",
+    "ability": "Brazen",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+3) to next allied Gaara deployed.",
+      "Chakra(+4) to next allied Gaara deployed."
+    ]
+  },
+  {
+    "id": "S2_012",
+    "season": 2,
+    "name": "Temari",
+    "ability": "Prudent",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Guard",
+      "Slow"
+    ],
+    "descriptions": [
+      "Guard(1) and Slow(6s) to next allied Gaara deployed.",
+      "Guard(1) and Slow(10s) to next allied Gaara deployed."
+    ]
+  },
+  {
+    "id": "S2_013",
+    "season": 2,
+    "name": "Baki",
+    "ability": "Resilient",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Guard"
+    ],
+    "descriptions": [
+      "Rush(3s) and Guard(1).",
+      "Rush(4s) and Guard(1)."
+    ]
+  },
+  {
+    "id": "S2_014",
+    "season": 2,
+    "name": "Ino Yamanaka",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(2s)",
+      "Rush(3s)"
+    ]
+  },
+  {
+    "id": "S2_015",
+    "season": 2,
+    "name": "Kabuto Yakushi",
+    "ability": "Explanation",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, all allies in Short Range randomly gain Chakra(+1) or Pin(4s).",
+      "On deploy, all allies in Short Range randomly gain Chakra(+2) or Pin(4s)."
+    ]
+  },
+  {
+    "id": "S2_016",
+    "season": 2,
+    "name": "Student Trio",
+    "ability": "Team Konohamaru",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Rush",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On withdraw, redeploy as Konohamaru, Moegi and Udon with Rush(3s) and Chakra(1) on each lane.",
+      "On withdraw, redeploy as Konohamaru, Moegi and Udon with Rush(4s) and Chakra(1) on each lane."
+    ]
+  },
+  {
+    "id": "S2_017",
+    "season": 2,
+    "name": "Ibiki Morino",
+    "ability": "Strict Rules",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Push",
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Push(2) or Pin(4s) all lane rivals.",
+      "On deploy, Push(3) or Pin(5s) all lane rivals."
+    ]
+  },
+  {
+    "id": "S2_018",
+    "season": 2,
+    "name": "Choza Akimichi",
+    "ability": "Old Friends",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "While this card is active, Chakra(+1) to allied Shikaku and Inoichi cards.",
+      "While this card is active, Chakra(+2) to allied Shikaku and Inoichi cards."
+    ]
+  },
+  {
+    "id": "S2_019",
+    "season": 2,
+    "name": "Inoichi Yamanaka",
+    "ability": "Old Friends",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "While this card is active, Chakra(+1) to allied Choza and Shikaku cards.",
+      "While this card is active, Chakra(+2) to allied Choza and Shikaku cards."
+    ]
+  },
+  {
+    "id": "S2_020",
+    "season": 2,
+    "name": "Shikaku Nara",
+    "ability": "Old Friends",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "While this card is active, Chakra(+1) to allied Inoichi and Choza cards.",
+      "While this card is active, Chakra(+2) to allied Inoichi and Choza cards."
+    ]
+  },
+  {
+    "id": "S2_021",
+    "season": 2,
+    "name": "Hanabi Hyuga",
+    "ability": "Prodigy",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Rush",
+      "Push"
+    ],
+    "descriptions": [
+      "Rush(2s). On encounter, Push(2).",
+      "Rush(3s). On encounter, Push(3)."
+    ]
+  },
+  {
+    "id": "S2_022",
+    "season": 2,
+    "name": "Hiashi Hyuga",
+    "ability": "Hyuga Leader",
+    "rarity": "Common",
+    "cost": 6,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Push"
+    ],
+    "descriptions": [
+      "While this card is active, allied Hyuga cards gain Chakra(+2) and Push(1).",
+      "While this card is active, allied Hyuga cards gain Chakra(+3) and Push(1)."
+    ]
+  },
+  {
+    "id": "S2_023",
+    "season": 2,
+    "name": "Hizashi Hyuga",
+    "ability": "Brother's Sacrifice",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(2s). When allied Hiashi is about to withdraw, pull it back to the start of the lane and withdraw in its place.",
+      "Rush(3s). When allied Hiashi is about to withdraw, pull it back to the start of the lane and withdraw in its place."
+    ]
+  },
+  {
+    "id": "S2_024",
+    "season": 2,
+    "name": "Zaku Abumi",
+    "ability": "Slicing Sound Wave",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Push",
+      "Switch"
+    ],
+    "descriptions": [
+      "On deploy, Push(2) and lane Switch two rival cards in Mid Range.",
+      "On deploy, Push(2) and lane Switch three rival cards in Mid Range."
+    ]
+  },
+  {
+    "id": "S2_025",
+    "season": 2,
+    "name": "Dosu Kinuta",
+    "ability": "Resonating Echo Drill",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Weaken",
+      "Pin",
+      "Switch"
+    ],
+    "descriptions": [
+      "On encounter, Weaken(2) the rival card. If rival does not withdraw, Pin(4s) it then lane Switch.",
+      "On encounter, Weaken(2) the rival card. If rival does not withdraw, Pin(5s) it then lane Switch."
+    ]
+  },
+  {
+    "id": "S2_026",
+    "season": 2,
+    "name": "Kin Tsuchi",
+    "ability": "Bell Needles",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Weaken",
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(1) and Pin(2s) closest rival card.",
+      "On deploy, Weaken(2) and Pin(2s) closest rival card."
+    ]
+  },
+  {
+    "id": "S2_027",
+    "season": 2,
+    "name": "Izumo Kamizuki",
+    "ability": "Sabotage",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(2s) two random lane allies.",
+      "On deploy, Pin(2s) three random lane allies."
+    ]
+  },
+  {
+    "id": "S2_028",
+    "season": 2,
+    "name": "Kotetsu Hagane",
+    "ability": "Misdirection",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Slow",
+      "Switch"
+    ],
+    "descriptions": [
+      "On deploy, Slow(4s) and lane Switch two random allies.",
+      "On deploy, Slow(4s) and lane Switch three random allies."
+    ]
+  },
+  {
+    "id": "S2_029",
+    "season": 2,
+    "name": "Oboro",
+    "ability": "Fog Clone",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Summon"
+    ],
+    "descriptions": [
+      "On deploy, create 2 clones with Chakra(1). When clones withdraw, 50% chance to create another clone on the same lane.",
+      "On deploy, Summon 2 clones with Chakra(2). When clones withdraw, 50% chance to create another clone on the same lane."
+    ]
+  },
+  {
+    "id": "S2_030",
+    "season": 2,
+    "name": "Yoroi Akado",
+    "ability": "Chakra Absorbtion",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On encounter, Chakra(+1) to this card and Weaken(1) rival card. Also disables any active skill.",
+      "On encounter, Chakra(+2) to this card and Weaken(1) rival card. Also disables any active skill."
+    ]
+  },
+  {
+    "id": "S2_031",
+    "season": 2,
+    "name": "Ningame",
+    "ability": "Temperance",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Rush",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Whenever lane allies gain Rush, it converts to Chakra(+1) instead.",
+      "Whenever lane allies gain Rush, it converts to Chakra(+2) instead."
+    ]
+  },
+  {
+    "id": "S2_032",
+    "season": 2,
+    "name": "Gama",
+    "ability": "Toad Scroll",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Summon",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Summon a random Toad from your deck and give it Chakra(+1).",
+      "On deploy, Summon a random Toad from your deck and give it Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_033",
+    "season": 2,
+    "name": "Gamakichi",
+    "ability": "Loudmouth",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Push",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Allied Toads apply Push(1) on encounter while this card is active. Chakra(+1) whenever a Toad pushes a rival.",
+      "Allied Toads apply Push(2) on encounter while this card is active. Chakra(+1) whenever a Toad pushes a rival."
+    ]
+  },
+  {
+    "id": "S2_034",
+    "season": 2,
+    "name": "Giant Snake",
+    "ability": "Slither",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Switch"
+    ],
+    "descriptions": [
+      "Deploys directly to Mid Range and makes any two other cards present in Mid Range Switch lanes.",
+      "Deploys directly to Mid Range and makes any 3 other cards present in Mid Range Switch lanes."
+    ]
+  },
+  {
+    "id": "S2_035",
+    "season": 2,
+    "name": "Raido Namiashi",
+    "ability": "Bodyguard",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(2s). When allied Hiruzen is about to withdraw, pull it back to the start of the lane and withdraw in its place.",
+      "Rush(3s). When allied Hiruzen is about to withdraw, pull it back to the start of the lane and withdraw in its place."
+    ]
+  },
+  {
+    "id": "S2_036",
+    "season": 2,
+    "name": "Homura Mitokado",
+    "ability": "Reassurance",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Guard",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Next ally deployed gains Guard(1) and Chakra(+1).",
+      "Next ally deployed gains Guard(1) and Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_037",
+    "season": 2,
+    "name": "Koharu Utatane",
+    "ability": "Security",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Summon"
+    ],
+    "descriptions": [
+      "After 10 seconds, Summon an Anbu Black Ops unit.",
+      "After 8 seconds, Summon an Anbu Black Ops unit."
+    ]
+  },
+  {
+    "id": "S2_038",
+    "season": 2,
+    "name": "Genma Shiranui",
+    "ability": "Proctor",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Focus",
+      "Summon",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Focus(6s). If Focus succeeds, Summon a random card up to 4 energy cost from your deck. If it has 3 or less Chakra, grant it Chakra(+2).",
+      "On deploy, Focus(4s). If Focus succeeds, Summon a random card up to 4 cost from your deck. If it has 3 or less chakra, grant it Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_039",
+    "season": 2,
+    "name": "Genma Shiranui",
+    "ability": "Alert",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(3) one lane rival in Mid Range.",
+      "On deploy, Weaken(3) two lane rivals in Mid Range."
+    ]
+  },
+  {
+    "id": "S2_040",
+    "season": 2,
+    "name": "Yashamaru",
+    "ability": "Reluctant Duty",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On withdraw, Weaken(3) all nearby cards.",
+      "On withdraw, Weaken(4) all nearby cards."
+    ]
+  },
+  {
+    "id": "S2_041",
+    "season": 2,
+    "name": "Karura",
+    "ability": "Mother's Love",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+2) and Slow(3s) to allied Gaara cards.",
+      "On deploy, Chakra(+2) and Slow(5s) to allied Gaara cards."
+    ]
+  },
+  {
+    "id": "S2_042",
+    "season": 2,
+    "name": "Yugao Uzuki",
+    "ability": "Vengeful Oath",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Guard",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Rush(3s). Guard(1). On encounter, Weaken(2).",
+      "Rush(4s). Guard(1). On encounter, Weaken(2)."
+    ]
+  },
+  {
+    "id": "S2_043",
+    "season": 2,
+    "name": "Hana Inuzuka",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(4s)",
+      "Rush(5s)"
+    ]
+  },
+  {
+    "id": "S2_044",
+    "season": 2,
+    "name": "Tsume Inuzuka",
+    "ability": "Lead the Charge",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Rush(4s). Next ally deployed gains Rush(+3s) and Chakra(+1).",
+      "Rush(4s). Next ally deployed gains Rush(+3s) and Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_045",
+    "season": 2,
+    "name": "Shibi Aburame",
+    "ability": "Timely Aid",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Rush",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Rush(5s). Chakra(+1) to allies when reaching them.",
+      "Rush(6s). Chakra(+1) to allies when reaching them."
+    ]
+  },
+  {
+    "id": "S2_046",
+    "season": 2,
+    "name": "Jirobo",
+    "ability": "South",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Next Orochimaru deployed gains Chakra(+3).",
+      "Next Orochimaru deployed gains Chakra(+4)."
+    ]
+  },
+  {
+    "id": "S2_047",
+    "season": 2,
+    "name": "Kidomaru",
+    "ability": "East",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Next Orochimaru deployed gains Rush(+4s).",
+      "Next Orochimaru deployed gains Rush(+5s)."
+    ]
+  },
+  {
+    "id": "S2_048",
+    "season": 2,
+    "name": "Sakon",
+    "ability": "West",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "Next Orochimaru deployed will Weaken(3) closest rival card.",
+      "Next Orochimaru deployed will Weaken(4) closest rival card."
+    ]
+  },
+  {
+    "id": "S2_049",
+    "season": 2,
+    "name": "Tayuya",
+    "ability": "North",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Guard"
+    ],
+    "descriptions": [
+      "Next Orochimaru deployed gains Guard(1).",
+      "Next Orochimaru deployed gains Guard(2)."
+    ]
+  },
+  {
+    "id": "S2_050",
+    "season": 2,
+    "name": "Anbu",
+    "ability": "Black Ops",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Rush"
+    ],
+    "descriptions": [
+      "On deploy, randomly gains Chakra(+2) or Rush(4s).",
+      "On deploy, randomly gains Chakra(+3) or Rush(5s)."
+    ]
+  },
+  {
+    "id": "S2_051",
+    "season": 2,
+    "name": "Naruto Uzumaki",
+    "ability": "Breaker of Destiny",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Rush",
+      "Switch"
+    ],
+    "descriptions": [
+      "Guard(2). When Guard activates, restart Rush(2s). When Rush ends, lane Switch.",
+      "Guard(3). When Guard activates, restart Rush(2s). When Rush ends, lane Switch."
+    ]
+  },
+  {
+    "id": "S2_052",
+    "season": 2,
+    "name": "Sakura Haruno",
+    "ability": "Steadfast",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Weaken",
+      "Guard"
+    ],
+    "descriptions": [
+      "On encounter, Weaken(1) the rival card and Guard(1).",
+      "On encounter, Weaken(1) the rival card and Guard(2)."
+    ]
+  },
+  {
+    "id": "S2_053",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Leaf Whirlwind",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Push",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On encounter, Push(1) and Weaken(2) the rival card.",
+      "On encounter, Push(2) and Weaken(2) the rival card."
+    ]
+  },
+  {
+    "id": "S2_054",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Byakugan",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "On deploy, reduce the closest rival card's Chakra to half and gain Rush(2s).",
+      "On deploy, reduce the closest rival card's Chakra to half and gain Rush(4s)."
+    ]
+  },
+  {
+    "id": "S2_055",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Burden of Destiny",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Whenever this card gains Chakra, gain extra Chakra(+1). Cannot have more than 10 total Chakra.",
+      "Whenever this card gains Chakra, gain extra Chakra(+2). Cannot have more than 10 total Chakra."
+    ]
+  },
+  {
+    "id": "S2_056",
+    "season": 2,
+    "name": "Gai Maito",
+    "ability": "Reprimand",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Pin"
+    ],
+    "descriptions": [
+      "Deploys directly to Mid Range. The closest lane ally gains Chakra(+2) and is Pinned(2s).",
+      "Deploys directly to Mid Range. The closest lane ally gains Chakra(+2) and is Pinned(6s)."
+    ]
+  },
+  {
+    "id": "S2_057",
+    "season": 2,
+    "name": "Choji Akimichi",
+    "ability": "Human Boulder",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Weaken",
+      "Push",
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(3s). On each encounter, Push(2) and Weaken(1) if Rush is active.",
+      "Rush(4s). On each encounter, Push(2) and Weaken(1) if Rush is active."
+    ]
+  },
+  {
+    "id": "S2_058",
+    "season": 2,
+    "name": "Ino Yamanaka",
+    "ability": "Mind Transfer",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Focus"
+    ],
+    "descriptions": [
+      "On deploy, Focus(8s) and take control of the lane rival in Mid Range with the highest Chakra. After Focus ends, return control of the card to your rival.",
+      "On deploy, Focus(12s) and take control of the lane rival in Mid Range with the highest Chakra. After Focus ends, return control of the card to your rival."
+    ]
+  },
+  {
+    "id": "S2_059",
+    "season": 2,
+    "name": "Hinata Hyuga",
+    "ability": "Deflect",
+    "rarity": "Rare",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Push",
+      "Switch"
+    ],
+    "descriptions": [
+      "On encounter, Push(1) and lane Switch rival card.",
+      "On encounter, Push(2) and lane Switch rival card."
+    ]
+  },
+  {
+    "id": "S2_060",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Sand Shield",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Guard(2). When Guard activates, Chakra(+1).",
+      "Guard(3). When Guard activates, Chakra(+1)."
+    ]
+  },
+  {
+    "id": "S2_061",
+    "season": 2,
+    "name": "Temari",
+    "ability": "Giant Folding Fan",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Guard",
+      "Push"
+    ],
+    "descriptions": [
+      "Guard(2). On deploy and when Guard activates, Push(2) all lane rivals.",
+      "Guard(3). On deploy and when Guard activates, Push(3) all lane rivals."
+    ]
+  },
+  {
+    "id": "S2_062",
+    "season": 2,
+    "name": "Anko Mitarashi",
+    "ability": "Striking Shadow Snakes",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Weaken",
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(2) and Pin(4s) one lane rival card in Mid Range.",
+      "On deploy, Weaken(2) and Pin(4s) two lane rival cards in Mid Range."
+    ]
+  },
+  {
+    "id": "S2_063",
+    "season": 2,
+    "name": "Choza Akimichi",
+    "ability": "Body Expansion",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Push",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On encounter, Push(3) and Weaken(2).",
+      "On encounter, Push(3) and Weaken(3)."
+    ]
+  },
+  {
+    "id": "S2_064",
+    "season": 2,
+    "name": "Inoichi Yamanaka",
+    "ability": "Mind Destruction",
+    "rarity": "Rare",
+    "cost": 6,
+    "chakra": 5,
+    "effects": [
+      "Focus",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Focus(10s) and take control of the closest lane rival in Mid Range, Slow(10s) it and permanently disable any active skill. After Focus ends, return control of the card to your rival.",
+      "On deploy, Focus(14s) and take control of the closest lane rival in Mid Range, Slow(10s) it and permanently disable any active skill. After Focus ends, return control of the card to your rival."
+    ]
+  },
+  {
+    "id": "S2_065",
+    "season": 2,
+    "name": "Shikaku Nara",
+    "ability": "Shadow Paralysis",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(10s) self and two lane rivals in Long Range.",
+      "On deploy, Pin(12s) self and two lane rivals in Long Range."
+    ]
+  },
+  {
+    "id": "S2_066",
+    "season": 2,
+    "name": "Jiraiya",
+    "ability": "Pervy Sage",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Switch"
+    ],
+    "descriptions": [
+      "Randomly lane Switch every 10 seconds.",
+      "Randomly lane Switch every 8 seconds."
+    ]
+  },
+  {
+    "id": "S2_067",
+    "season": 2,
+    "name": "Orochimaru",
+    "ability": "Machinations",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy and on withdraw, Weaken(1) up to any 4 cards.",
+      "On deploy and on withdraw, Weaken(1) up to any 6 cards."
+    ]
+  },
+  {
+    "id": "S2_068",
+    "season": 2,
+    "name": "Hashirama Senju",
+    "ability": "Edo Regeneration",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "When below base chakra, Chakra(+1) every 4s until back to base chakra.",
+      "When below base chakra, Chakra(+1) every 3s until back to base chakra."
+    ]
+  },
+  {
+    "id": "S2_069",
+    "season": 2,
+    "name": "Tobirama Senju",
+    "ability": "Edo Regeneration",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "When below base chakra, Chakra(+1) every 4s until back to base chakra.",
+      "When below base chakra, Chakra(+1) every 3s until back to base chakra."
+    ]
+  },
+  {
+    "id": "S2_070",
+    "season": 2,
+    "name": "Hiruzen Sarutobi",
+    "ability": "The Third",
+    "rarity": "Rare",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On encounter, Chakra(+2). On withdraw, Chakra(+2) to all allies.",
+      "On encounter, Chakra(+3). On withdraw, Chakra(+2) to all allies."
+    ]
+  },
+  {
+    "id": "S2_071",
+    "season": 2,
+    "name": "Hayate Gekko",
+    "ability": "Crescent Moon Dance",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "On encounter, Weaken(1) three times. If rival does not withdraw, also Push(2).",
+      "On encounter, Weaken(1) three times. If rival does not withdraw, also Push(3)."
+    ]
+  },
+  {
+    "id": "S2_072",
+    "season": 2,
+    "name": "Ibiki Morino",
+    "ability": "Interrogation",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Weaken",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(1) and Slow(4s) all cards.",
+      "On deploy, Weaken(1) and Slow(6s) all cards."
+    ]
+  },
+  {
+    "id": "S2_073",
+    "season": 2,
+    "name": "Gamahiro",
+    "ability": "Heft",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+2) for each allied Toad on the board. Permanent Slow.",
+      "On deploy, Chakra(+3) for each allied Toad on the board. Permanent Slow."
+    ]
+  },
+  {
+    "id": "S2_074",
+    "season": 2,
+    "name": "Sasuke Uchiha",
+    "ability": "Chidori",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Weaken",
+      "Guard"
+    ],
+    "descriptions": [
+      "On encounter, jump through nearby rivals, Weaken(2) each of them. Ignores Guard.",
+      "On encounter, jump through nearby rivals, Weaken(3) each of them. Ignores Guard."
+    ]
+  },
+  {
+    "id": "S2_075",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Weightless",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 2,
+    "effects": [
+      "Rush",
+      "Push",
+      "Weaken",
+      "Switch"
+    ],
+    "descriptions": [
+      "Rush(3s). On each encounter, if rival card has higher Chakra, Push(1) and Weaken(2), then lane Switch.",
+      "Rush(3s). On each encounter, if rival card has higher Chakra, Push(2) and Weaken(2), then lane Switch."
+    ]
+  },
+  {
+    "id": "S2_076",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Rotation",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Push",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On encounter, Push(2) and Weaken(3) all nearby rival cards.",
+      "On encounter, Push(4) and Weaken(3) all nearby rival cards."
+    ]
+  },
+  {
+    "id": "S2_077",
+    "season": 2,
+    "name": "Kiba Inuzuka",
+    "ability": "Man Beast Clone",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Next Akamaru deployed becomes a full copy of this card with Rush(4s).",
+      "Next Akamaru deployed becomes a full copy of this card with Rush(5s)."
+    ]
+  },
+  {
+    "id": "S2_078",
+    "season": 2,
+    "name": "Shikamaru Nara",
+    "ability": "Shogi Master",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 2,
+    "effects": [
+      "Pin",
+      "Chakra",
+      "Focus"
+    ],
+    "descriptions": [
+      "On deploy, Pin(10s) self and gain Chakra(+3). While this card is active, whenever you Pin other allied cards or they Focus, they gain Chakra(+3).",
+      "On deploy, Pin(12s) self and gain Chakra(+4). While this card is active, whenever you Pin other allied cards or they Focus, they gain Chakra(+3)."
+    ]
+  },
+  {
+    "id": "S2_079",
+    "season": 2,
+    "name": "Asuma Sarutobi",
+    "ability": "Chakra Blades",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Weaken",
+      "Rush"
+    ],
+    "descriptions": [
+      "On each encounter, Weaken(1). When this card causes a rival to withdraw, Rush(+1s).",
+      "On each encounter, Weaken(2). When this card causes a rival to withdraw, Rush(+1s)."
+    ]
+  },
+  {
+    "id": "S2_080",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Unstable",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Weaken",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(2) and Slow(6s) all cards on lane.",
+      "On deploy, Weaken(2) and Slow(8s) all cards on lane."
+    ]
+  },
+  {
+    "id": "S2_081",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Bloodlust",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Chakra(+1) whenever allied cards Weaken any number of cards.",
+      "Chakra(+2) whenever allied cards Weaken any number of cards."
+    ]
+  },
+  {
+    "id": "S2_082",
+    "season": 2,
+    "name": "Kankuro",
+    "ability": "Puppet Assault",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Weaken",
+      "Slow",
+      "Switch"
+    ],
+    "descriptions": [
+      "Weaken(3) and Slow(2s) the first rival card that comes nearby. If rival does not withdraw, lane Switch it. Chakra(+1) and re-enable this skill when another ally causes a rival to Switch.",
+      "Weaken(3) and Slow(5s) the first rival card that comes nearby. If rival does not withdraw, lane Switch it. Chakra(+1) and re-enable this skill when another ally causes a rival to Switch."
+    ]
+  },
+  {
+    "id": "S2_083",
+    "season": 2,
+    "name": "Jiraya",
+    "ability": "Toad Sage",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+3) to allied Toads while this card is active.",
+      "Chakra(+4) to allied Toads while this card is active."
+    ]
+  },
+  {
+    "id": "S2_084",
+    "season": 2,
+    "name": "Orochimaru",
+    "ability": "Treachery",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Ignore all rival skills and encounters. When in Mid Range, Chakra(+2) and become vulnerable.",
+      "Ignore all rival skills and encounters. When in Mid Range, Chakra(+3) and become vulnerable."
+    ]
+  },
+  {
+    "id": "S2_085",
+    "season": 2,
+    "name": "Orochimaru",
+    "ability": "Kusanagi",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Weaken",
+      "Switch",
+      "Guard"
+    ],
+    "descriptions": [
+      "On each encounter, Weaken(2). Whenever a rival card lane Switch, Switch to the same lane and gain Guard(1).",
+      "On each encounter, Weaken(3). Whenever a rival card lane Switch, Switch to the same lane and gain Guard(1)."
+    ]
+  },
+  {
+    "id": "S2_086",
+    "season": 2,
+    "name": "Orochimaru",
+    "ability": "Edo Tensei",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Weaken",
+      "Summon",
+      "Rush"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(2) two allies with lowest chakra. For each withdrawal, Summon Edo Hashirama and Tobirama from your deck, granting them Rush(3s).",
+      "On deploy, Weaken(2) two allies with lowest chakra. For each withdrawal, Summon Edo Hashirama and Tobirama from your deck, granting them Rush(5s)."
+    ]
+  },
+  {
+    "id": "S2_087",
+    "season": 2,
+    "name": "Hashirama Senju",
+    "ability": "Deep Forest Emergence",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(12s) all rival cards.",
+      "On deploy, Pin(14s) all rival cards."
+    ]
+  },
+  {
+    "id": "S2_088",
+    "season": 2,
+    "name": "Tobirama Senju",
+    "ability": "Water Shock Wave",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Weaken",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(2) and Slow(4s) all rival cards.",
+      "On deploy, Weaken(2) and Slow(8s) all rival cards."
+    ]
+  },
+  {
+    "id": "S2_089",
+    "season": 2,
+    "name": "Hiruzen Sarutobi",
+    "ability": "Fire Dragon Bombs",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Weaken",
+      "Burn"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(3) and Burn(4) closest rival card.",
+      "On deploy, Weaken(3) and Burn(5) closest rival card."
+    ]
+  },
+  {
+    "id": "S2_090",
+    "season": 2,
+    "name": "Enma",
+    "ability": "Monkey King",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Switch"
+    ],
+    "descriptions": [
+      "Chakra(+1) to allies when they lane Switch.",
+      "Chakra(+2) to allies when they lane Switch."
+    ]
+  },
+  {
+    "id": "S2_091",
+    "season": 2,
+    "name": "Naruto Uzumaki",
+    "ability": "Will to Protect",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Rush"
+    ],
+    "descriptions": [
+      "The first time this card goes below base Chakra, gain Chakra(+4) and Rush(3s). On withdraw, permanently increase base Chakra by 2.",
+      "The first time this card goes below base Chakra, gain Chakra(+5) and Rush(3s). On withdraw, permanently increase base Chakra by 2."
+    ]
+  },
+  {
+    "id": "S2_092",
+    "season": 2,
+    "name": "Sasuke Uchiha",
+    "ability": "Curse Mark",
+    "rarity": "Legendary",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+3). After each encounter, Chakra(+2).",
+      "On deploy, Chakra(+4). After each encounter, Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S2_093",
+    "season": 2,
+    "name": "Sakura Haruno",
+    "ability": "Unyielding",
+    "rarity": "Legendary",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Guard",
+      "Chakra",
+      "Switch"
+    ],
+    "descriptions": [
+      "Permanent Guard. Every time Guard activates, Chakra(+1) and lane Switch.",
+      "Permanent Guard. Every time Guard activates, Chakra(+2) and lane Switch."
+    ]
+  },
+  {
+    "id": "S2_094",
+    "season": 2,
+    "name": "Rock Lee",
+    "ability": "Fifth Gate",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Weaken",
+      "Focus"
+    ],
+    "descriptions": [
+      "On deploy, Focus(5s). If Focus succeeds, gain Chakra(+7) and enable the rest of this skill. Jump to the first rival card that comes nearby. On each encounter, Weaken(2) rival card and Weaken(1) self.",
+      "On deploy, Focus(3s). If Focus succeeds, gain Chakra(+7) and enable the rest of this skill. Jump to the first rival card that comes nearby. On each encounter, Weaken(2) rival card and Weaken(1) self."
+    ]
+  },
+  {
+    "id": "S2_095",
+    "season": 2,
+    "name": "Neji Hyuga",
+    "ability": "Sixty-Four Palms",
+    "rarity": "Legendary",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Push",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On each encounter Push(1) and Weaken(1). When this card causes a rival to withdraw, it also permanently reduces that rival's base Chakra by 2.",
+      "On each encounter Push(1) and Weaken(2). When this card causes a rival to withdraw, it also permanently reduces that rival's base Chakra by 2."
+    ]
+  },
+  {
+    "id": "S2_096",
+    "season": 2,
+    "name": "Gaara",
+    "ability": "Sand Release",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Pin",
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Guard(1). Whenever a rival card comes nearby, Pin(8s) and gain Chakra(+2). If the rival is already Pinned, Weaken(3) and gain Guard(1) instead.",
+      "Guard(2). Whenever a rival card comes nearby, Pin(8s) it and gain Chakra(+2). If the rival is already Pinned, Weaken(3) and gain Guard(1) instead."
+    ]
+  },
+  {
+    "id": "S2_097",
+    "season": 2,
+    "name": "Hiruzen Sarutobi",
+    "ability": "Elemental Master",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Weaken",
+      "Slow",
+      "Burn"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(1) and Slow(8s) all lane rivals. The first time this card gains Chakra, Weaken(2) and Burn(3) all lane rivals.",
+      "On deploy, Weaken(1) and Slow(12s) all lane rivals. The first time this card gains Chakra, Weaken(2) and Burn(4) all lane rivals."
+    ]
+  },
+  {
+    "id": "S2_098",
+    "season": 2,
+    "name": "Hiruzen Sarutobi",
+    "ability": "Reaper Death Seal",
+    "rarity": "Legendary",
+    "cost": 7,
+    "chakra": 6,
+    "effects": [
+      "Focus",
+      "Seal"
+    ],
+    "descriptions": [
+      "On deploy, Focus(4s). If Focus succeeds, enable the rest of this skill. When a rival card comes nearby with equal or higher Chakra, remove up to 12 Chakra from it and disable any active skill. If the target withdraws, Seal(15s). On withdraw, Seal(15s) self. Instantly withdraw after sealing 3 cards.",
+      "On deploy, Focus(4s). If Focus succeeds, enable the rest of this skill. When a rival card comes nearby with equal or higher Chakra, remove up to 15 Chakra from it and disable any active skill. If the target withdraws, Seal(15s). On withdraw, Seal(15s) self. Instantly withdraw after sealing 3 cards."
+    ]
+  },
+  {
+    "id": "S2_099",
+    "season": 2,
+    "name": "Ichibi",
+    "ability": "Air Bullets",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 8,
+    "effects": [
+      "Weaken",
+      "Focus"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(2) all lane rivals in Long Range. Every 10 seconds, Focus(2s). If Focus succeeds, Weaken(2) all lane rivals in Long Range.",
+      "On deploy, Weaken(3) all lane rivals in Long Range. Every 10 seconds, Focus(2s). If Focus succeeds, Weaken(3) all lane rivals in Long Range."
+    ]
+  },
+  {
+    "id": "S2_100",
+    "season": 2,
+    "name": "Kyubi",
+    "ability": "Linked Fate",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 8,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Chakra(+7) to next ally deployed. Cards are linked, when one withdraws so does the other.",
+      "Chakra(+8) to next ally deployed. Cards are linked, when one withdraws so does the other."
+    ]
+  },
+  {
+    "id": "S3_001",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "Shared Dream",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Whenever another card with Shared Dream withdraws, this card gains Chakra(+1).",
+      "Whenever another card with Shared Dream withdraws, this card gains Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S3_002",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Fireball Training",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Rush",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Rush(1s). On deploy, Chakra(+1) for each rival card affected by Burn.",
+      "Rush(2s). On deploy, Chakra(+1) for each rival card affected by Burn."
+    ]
+  },
+  {
+    "id": "S3_003",
+    "season": 3,
+    "name": "Choji Akimichi",
+    "ability": "Partial Arm Expansion",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "When a rival card comes nearby, Weaken(1) and Push(2) it.",
+      "When a rival card comes nearby, Weaken(1) and Push(4) it."
+    ]
+  },
+  {
+    "id": "S3_004",
+    "season": 3,
+    "name": "Kankuro",
+    "ability": "Puppet Switch",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Teleport",
+      "Weaken",
+      "Pin"
+    ],
+    "descriptions": [
+      "On encounter, Teleport behind rival card, Weaken(2) and Pin(5s) it.",
+      "On encounter, Teleport behind rival card, Weaken(2) and Pin(8s) it."
+    ]
+  },
+  {
+    "id": "S3_005",
+    "season": 3,
+    "name": "Kankuro",
+    "ability": "Iron Maiden",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "When rival card comes nearby, Pull it to this card and disable its skill, then Weaken(2) it.",
+      "When rival card comes nearby, Pull it to this card and disable its skill, then Weaken(3) it."
+    ]
+  },
+  {
+    "id": "S3_006",
+    "season": 3,
+    "name": "Neji Hyuga",
+    "ability": "Narrow Defense",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Pin"
+    ],
+    "descriptions": [
+      "Guard(2). When Guard activates, 50% chance to Pin(6s) self.",
+      "Guard(3). When Guard activates, 50% chance to Pin(6s) self."
+    ]
+  },
+  {
+    "id": "S3_007",
+    "season": 3,
+    "name": "Shikamaru Nara",
+    "ability": "Slacker",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 1,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(2s)",
+      "Rush(3s)"
+    ]
+  },
+  {
+    "id": "S3_008",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(4s)",
+      "Rush(5s)"
+    ]
+  },
+  {
+    "id": "S3_009",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Toad Mouth Trap",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(6s) all cards on lane.",
+      "On deploy, Pin(10s) all cards on lane."
+    ]
+  },
+  {
+    "id": "S3_010",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Advanced Training",
+    "rarity": "Common",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Focus",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Whenever you deploy a lane ally with 3 or less Chakra, grant them Focus(8s). If that Focus succeeds, the allied card gains Chakra(+3).",
+      "Whenever you deploy a lane ally with 3 or less Chakra, grant them Focus(8s). If that Focus succeeds, the allied card gains Chakra(+4)."
+    ]
+  },
+  {
+    "id": "S3_011",
+    "season": 3,
+    "name": "Orochimaru",
+    "ability": "Guarded",
+    "rarity": "Common",
+    "cost": 1,
+    "chakra": 2,
+    "effects": [
+      "Guard"
+    ],
+    "descriptions": [
+      "Guard(1)",
+      "Guard(2)"
+    ]
+  },
+  {
+    "id": "S3_012",
+    "season": 3,
+    "name": "Orochimaru",
+    "ability": "Elusive",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Rush",
+      "Weaken",
+      "Switch"
+    ],
+    "descriptions": [
+      "Rush(3s). When a rival card comes nearby, Weaken(1) it and lane Switch.",
+      "Rush(5s). When a rival card comes nearby, Weaken(1) it and lane Switch."
+    ]
+  },
+  {
+    "id": "S3_013",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Rush",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "Rush(3s)",
+      "Rush(4s)"
+    ]
+  },
+  {
+    "id": "S3_014",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Power Flick",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Guard",
+      "Push"
+    ],
+    "descriptions": [
+      "Guard(1). When a rival card comes nearby, jump to it and Push(2) it.",
+      "Guard(1). When a rival card comes nearby, jump to it and Push(4) it."
+    ]
+  },
+  {
+    "id": "S3_015",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Seasoned",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Push"
+    ],
+    "descriptions": [
+      "Rush(3s). On encounter, Push(1).",
+      "Rush(4s). On encounter, Push(1)."
+    ]
+  },
+  {
+    "id": "S3_016",
+    "season": 3,
+    "name": "Manda",
+    "ability": "Collosal Serpent",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 7,
+    "effects": [
+      "Rush",
+      "Guard",
+      "Switch"
+    ],
+    "descriptions": [
+      "Rush(4s) and Guard(1). When Guard activates, lane Switch.",
+      "Rush(4s) and Guard(2). When Guard activates, lane Switch."
+    ]
+  },
+  {
+    "id": "S3_017",
+    "season": 3,
+    "name": "Katsuyu",
+    "ability": "Acid Shot",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Weaken",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(2) and Slow(6s) all rivals in Mid Range.",
+      "On deploy, Weaken(3) and Slow(6s) all rivals in Mid Range."
+    ]
+  },
+  {
+    "id": "S3_018",
+    "season": 3,
+    "name": "Hiruzen Sarutobi",
+    "ability": "Bell Test",
+    "rarity": "Common",
+    "cost": 7,
+    "chakra": 5,
+    "effects": [
+      "Slow",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Slow(6s) next three allies deployed, granting them Chakra(+1) every 3 seconds while affected by this Slow.",
+      "Slow(9s) next three allies deployed, granting them Chakra(+1) every 3 seconds while affected by this Slow."
+    ]
+  },
+  {
+    "id": "S3_019",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Big Brother",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Rush",
+      "Guard",
+      "Slow"
+    ],
+    "descriptions": [
+      "Next Sasuke deployed gains Chakra(+2) and Rush(4s) when deployed on the same lane, or Guard(2) and Slow(10s) when deployed on another lane.",
+      "Next Sasuke deployed gains Chakra(+2) and Rush(5s) when deployed on the same lane, or Guard(2) and Slow(12s) when deployed on another lane."
+    ]
+  },
+  {
+    "id": "S3_020",
+    "season": 3,
+    "name": "Jirobo",
+    "ability": "Cursed Seal Release",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Push"
+    ],
+    "descriptions": [
+      "Guard(1). On encounter, Push(1).",
+      "Guard(2). On encounter, Push(1)."
+    ]
+  },
+  {
+    "id": "S3_021",
+    "season": 3,
+    "name": "Kidomaru",
+    "ability": "Cursed Seal Release",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Rush"
+    ],
+    "descriptions": [
+      "Guard(1) and Rush(2s).",
+      "Guard(1) and Rush(4s)."
+    ]
+  },
+  {
+    "id": "S3_022",
+    "season": 3,
+    "name": "Kidomaru",
+    "ability": "Rain of Spiders",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Pin",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, randomly Pin(4s) or Slow(6s) all rival cards.",
+      "On deploy, randomly Pin(6s) or Slow(8s) all rival cards."
+    ]
+  },
+  {
+    "id": "S3_023",
+    "season": 3,
+    "name": "Kimimaro",
+    "ability": "Bone Control",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Rush",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Rush(2s). On encounter, Weaken(3).",
+      "Rush(4s). On encounter, Weaken(3)."
+    ]
+  },
+  {
+    "id": "S3_024",
+    "season": 3,
+    "name": "Sakon & Ukon",
+    "ability": "Cursed Seal Release",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Guard(1). On encounter, Weaken(1).",
+      "Guard(1). On encounter, Weaken(2)."
+    ]
+  },
+  {
+    "id": "S3_025",
+    "season": 3,
+    "name": "Tayuya",
+    "ability": "Cursed Seal Release",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Rush"
+    ],
+    "descriptions": [
+      "Guard(1) and Rush(2s).",
+      "Guard(1) and Rush(4s)."
+    ]
+  },
+  {
+    "id": "S3_026",
+    "season": 3,
+    "name": "Kimimaro",
+    "ability": "Cursed Seal Release",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Guard",
+      "Pin",
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Guard(1). When a rival card comes nearby, Pin(2s) self and Chakra(+1). On encounter, Weaken(1).",
+      "Guard(2). When a rival card comes nearby, Pin(2s) self and Chakra(+1). On encounter, Weaken(1)."
+    ]
+  },
+  {
+    "id": "S3_027",
+    "season": 3,
+    "name": "Shizune",
+    "ability": "Devoted Pig",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Summon",
+      "Chakra",
+      "Rush"
+    ],
+    "descriptions": [
+      "On deploy, Summon Tonton with Chakra(1) and Rush(5s) on the same lane as allied Tsunade. When reaching an allied Tsunade card, grant it Chakra(+3) and then withdraw.",
+      "On deploy, Summon Tonton with Chakra(1) and Rush(5s) on the same lane as allied Tsunade. When reaching an allied Tsunade card, grant it Chakra(+4) and then withdraw."
+    ]
+  },
+  {
+    "id": "S3_028",
+    "season": 3,
+    "name": "Tsume Inuzuka",
+    "ability": "Houndmaster",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Summon",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Summon Kuromaru with Chakra(3) on another lane. The next Ninja Hound deployed gains Chakra(+2).",
+      "On deploy, Summon Kuromaru with Chakra(3) on another lane. The next Ninja Hound deployed gains Chakra(+3)."
+    ]
+  },
+  {
+    "id": "S3_029",
+    "season": 3,
+    "name": "Akahoshi",
+    "ability": "Deceitful Training",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Focus",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Whenever allied cards Focus, grant them Focus(+4s). Weaken(1) allied cards every 4 seconds during Focus.",
+      "Whenever allied cards Focus, grant them Focus(+6s). Weaken(1) allied cards every 4 seconds during Focus."
+    ]
+  },
+  {
+    "id": "S3_030",
+    "season": 3,
+    "name": "Amachi",
+    "ability": "Water Cannonball",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Rush",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Rush(2s). On deploy, Weaken(1) closest rival card in Mid Range.",
+      "Rush(3s). On deploy, Weaken(2) closest rival card in Mid Range."
+    ]
+  },
+  {
+    "id": "S3_031",
+    "season": 3,
+    "name": "Aoi Rokusho",
+    "ability": "Needle Shower",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Weaken",
+      "Slow"
+    ],
+    "descriptions": [
+      "On encounter, Weaken(1) and Slow(3s) all nearby lane rivals.",
+      "On encounter, Weaken(1) and Slow(5s) all nearby lane rivals."
+    ]
+  },
+  {
+    "id": "S3_032",
+    "season": 3,
+    "name": "Dan Kato",
+    "ability": "Shared Dream",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Whenever another card with Shared Dream withdraws, this card gains Chakra(+1).",
+      "Whenever another card with Shared Dream withdraws, this card gains Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S3_033",
+    "season": 3,
+    "name": "Fugaku Uchiha",
+    "ability": "Uchiha Leader",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Guard",
+      "Slow",
+      "Chakra",
+      "Pin"
+    ],
+    "descriptions": [
+      "When deploying Uchiha allies, they gain Guard(+1) and Slow(6s) if they have 3 Chakra or less, otherwise they gain Chakra(+2) and Pin(4s).",
+      "When deploying Uchiha allies, they gain Guard(+2) and Slow(6s) if they have 3 Chakra or less, otherwise they gain Chakra(+3) and Pin(4s)."
+    ]
+  },
+  {
+    "id": "S3_034",
+    "season": 3,
+    "name": "Fūjin",
+    "ability": "Legendary Strength",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "Guard(1). On encounter, Weaken(1) and Push(3).",
+      "Guard(2). On encounter, Weaken(1) and Push(3)."
+    ]
+  },
+  {
+    "id": "S3_035",
+    "season": 3,
+    "name": "Gamatatsu",
+    "ability": "Food Motivated",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Focus",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Focus(12s). Every 4 seconds during Focus, spend 1 energy if available to grant other allied Toads Chakra(+2).",
+      "On deploy, Focus(16s). Every 4 seconds during Focus, spend 1 energy if available to grant other allied Toads Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S3_036",
+    "season": 3,
+    "name": "Hanzaki",
+    "ability": "Robbery Scheme",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Weaken",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Rush(2s). On deploy, Weaken(1) all lane allies, gaining Chakra(+2) for each ally affected.",
+      "Rush(3s). On deploy, Weaken(1) all lane allies, gaining Chakra(+2) for each ally affected."
+    ]
+  },
+  {
+    "id": "S3_037",
+    "season": 3,
+    "name": "Hanzaki",
+    "ability": "Zanbato Lunge",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Guard",
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "Guard(1). When a rival card comes nearby, jump to it then Weaken(1) or Push(1) it.",
+      "Guard(2). When a rival card comes nearby, jump to it then Weaken(1) or Push(1) it."
+    ]
+  },
+  {
+    "id": "S3_038",
+    "season": 3,
+    "name": "Idate Morino",
+    "ability": "Racer",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Rush",
+      "Switch"
+    ],
+    "descriptions": [
+      "Rush(4s). On encounter, lane Switch.",
+      "Rush(5s). On encounter, lane Switch."
+    ]
+  },
+  {
+    "id": "S3_039",
+    "season": 3,
+    "name": "Jirocho Wasabi",
+    "ability": "Honest Belief",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Chakra",
+      "Rush",
+      "Guard"
+    ],
+    "descriptions": [
+      "Next ally deployed on another lane gains Rush(2s) and Guard(1). When this ally reaches Mid Range, convert remaining Rush in up to 3 Chakra.",
+      "Next ally deployed on another lane gains Rush(3s) and Guard(1). When this ally reaches Mid Range, convert remaining Rush in up to 3 Chakra."
+    ]
+  },
+  {
+    "id": "S3_040",
+    "season": 3,
+    "name": "Arashi",
+    "ability": "Binding Mandala",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Push",
+      "Pin",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Push(2) and Pin(8s) lane rival with highest Chakra. While that rival is affected by this Pin, Weaken(1) the rival card every 4s.",
+      "On deploy, Push(4) and Pin(8s) lane rival with highest Chakra. While that rival is affected by this Pin, Weaken(1) the rival card every 4s."
+    ]
+  },
+  {
+    "id": "S3_041",
+    "season": 3,
+    "name": "Kagerō",
+    "ability": "Kagero Ninja Art",
+    "rarity": "Common",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Weaken",
+      "Switch"
+    ],
+    "descriptions": [
+      "On deploy, Weaken(3) two lane rivals in Mid Range, then lane Switch self and two lane allies in Short Range.",
+      "On deploy, Weaken(4) two lane rivals in Mid Range, then lane Switch self and two lane allies in Short Range."
+    ]
+  },
+  {
+    "id": "S3_042",
+    "season": 3,
+    "name": "Kyuroku Wagarashi",
+    "ability": "Dishonorable",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 1,
+    "effects": [
+      "Rush",
+      "Switch",
+      "Slow"
+    ],
+    "descriptions": [
+      "The next lane ally deployed gains Rush(4s). When this card withdraws, that ally Switches lanes and all lane allies are Slowed(3s).",
+      "The next lane ally deployed gains Rush(5s). When this card withdraws, that ally Switches lanes and all lane allies are Slowed(3s)."
+    ]
+  },
+  {
+    "id": "S3_043",
+    "season": 3,
+    "name": "Mikoto Uchiha",
+    "ability": "Soothing",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Heal"
+    ],
+    "descriptions": [
+      "Next Sasuke deployed gains Chakra(+1). The first time an allied Sasuke card goes below base Chakra, Heal(1) it.",
+      "Next Sasuke deployed gains Chakra(+1). The first time an allied Sasuke card goes below base Chakra, Heal(2) it."
+    ]
+  },
+  {
+    "id": "S3_044",
+    "season": 3,
+    "name": "Mizuki",
+    "ability": "Animal Cursed Seal",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Weaken",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On encounter, Weaken(4). After 20 seconds, set self to Chakra(1) and disable this skill.",
+      "On encounter, Weaken(5). After 20 seconds, set self to Chakra(1) and disable this skill."
+    ]
+  },
+  {
+    "id": "S3_045",
+    "season": 3,
+    "name": "Nawaki",
+    "ability": "Shared Dream",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "Whenever another card with Shared Dream withdraws, this card gains Chakra(+1).",
+      "Whenever another card with Shared Dream withdraws, this card gains Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S3_046",
+    "season": 3,
+    "name": "Raiga Kurosuki",
+    "ability": "Thunderswords",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Weaken",
+      "Switch"
+    ],
+    "descriptions": [
+      "When a rival card comes nearby, Weaken(1) and lane Switch it.",
+      "When a rival card comes nearby, Weaken(2) and lane Switch it."
+    ]
+  },
+  {
+    "id": "S3_047",
+    "season": 3,
+    "name": "Raijin",
+    "ability": "Legendary Strength",
+    "rarity": "Common",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "Guard(1). On encounter, Weaken(1) and Push(3).",
+      "Guard(2). On encounter, Weaken(1) and Push(3)."
+    ]
+  },
+  {
+    "id": "S3_048",
+    "season": 3,
+    "name": "Sumaru",
+    "ability": "Local Guidance",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 2,
+    "effects": [
+      "Rush"
+    ],
+    "descriptions": [
+      "On deploy, two allies in Short Range gain Rush(3s).",
+      "On deploy, three allies in Short Range gain Rush(3s)."
+    ]
+  },
+  {
+    "id": "S3_049",
+    "season": 3,
+    "name": "Yoshino Nara",
+    "ability": "Strict",
+    "rarity": "Common",
+    "cost": 2,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Slow"
+    ],
+    "descriptions": [
+      "Next Shikamaru deployed gains Chakra(+1) and Slow(8s).",
+      "Next Shikamaru deployed gains Chakra(+1) and Slow(12s)."
+    ]
+  },
+  {
+    "id": "S3_050",
+    "season": 3,
+    "name": "Uchiha Trio",
+    "ability": "Suspicion",
+    "rarity": "Common",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Rush(4s). When in Mid Range, Chakra(+2).",
+      "Rush(6s). When in Mid Range, Chakra(+2)."
+    ]
+  },
+  {
+    "id": "S3_051",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "Demon Fox Cloak",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Chakra",
+      "Heal"
+    ],
+    "descriptions": [
+      "Rush(3s). On deploy, Chakra(+2). The first time this card goes below base chakra, Heal(2).",
+      "Rush(5s). On deploy, Chakra(+2). The first time this card goes below base chakra, Heal(2)."
+    ]
+  },
+  {
+    "id": "S3_052",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Cursed Seal Release",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "The first time this card gains Chakra, gain extra Chakra(+2).",
+      "The first time this card gains Chakra, gain extra Chakra(+4)."
+    ]
+  },
+  {
+    "id": "S3_053",
+    "season": 3,
+    "name": "Kankuro",
+    "ability": "Outmaneuver",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Teleport"
+    ],
+    "descriptions": [
+      "Whenever allies teleport behind rivals, gain Chakra(+2).",
+      "Whenever allies teleport behind rivals, gain Chakra(+3)."
+    ]
+  },
+  {
+    "id": "S3_054",
+    "season": 3,
+    "name": "Shikamaru Nara",
+    "ability": "Shadow Strangle",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Pin"
+    ],
+    "descriptions": [
+      "When a rival card comes nearby, Pin(6s) it and this card. Rival card loses 1 Chakra every 2 seconds while affected by this Pin.",
+      "When a rival card comes nearby, Pin(8s) it and this card. Rival card loses 1 Chakra every 2 seconds while affected by this Pin."
+    ]
+  },
+  {
+    "id": "S3_055",
+    "season": 3,
+    "name": "Akamaru",
+    "ability": "Marking",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 1,
+    "effects": [
+      "Slow",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Slow(8s) all lane rivals. While this Slow is active, Weaken(+1) to allied Weaken skills applied to affected rivals.",
+      "On deploy, Slow(12s) all lane rivals. While this Slow is active, Weaken(+1) to allied Weaken skills applied to affected rivals."
+    ]
+  },
+  {
+    "id": "S3_056",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Poise",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Pin",
+      "Focus"
+    ],
+    "descriptions": [
+      "Gain Chakra(+1) and Pin(2s) self whenever any card gains Focus.",
+      "Gain Chakra(+2) and Pin(4s) self whenever any card gains Focus."
+    ]
+  },
+  {
+    "id": "S3_057",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Seasoned",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Switch"
+    ],
+    "descriptions": [
+      "Rush(3s). On encounter, lane Switch.",
+      "Rush(4s). On encounter, lane Switch."
+    ]
+  },
+  {
+    "id": "S3_058",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Needle Jizo",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Guard",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Guard(2). When Guard activates, Weaken(2) the rival that triggered it. Ignores Guard.",
+      "Guard(3). When Guard activates, Weaken(2) the rival that triggered it. Ignores Guard."
+    ]
+  },
+  {
+    "id": "S3_059",
+    "season": 3,
+    "name": "Orochimaru",
+    "ability": "Seasoned",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Rush(3s). On encounter, Weaken(1).",
+      "Rush(4s). On encounter, Weaken(1)."
+    ]
+  },
+  {
+    "id": "S3_060",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "The Fifth",
+    "rarity": "Rare",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Weaken",
+      "Heal"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+1) to all allies on other lanes. While this card is active, whenever an ally is Weakened the first time, Heal(2) it.",
+      "On deploy, Chakra(+2) to all allies on other lanes. While this card is active, whenever an ally is Weakened the first time, Heal(2) it."
+    ]
+  },
+  {
+    "id": "S3_061",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Legendary Sitting Duck",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Rush"
+    ],
+    "descriptions": [
+      "On deploy, 10% chance to gain Chakra(+6). Otherwise, gain Rush(3s).",
+      "On deploy, 10% chance to gain Chakra(+7). Otherwise, gain Rush(4s)."
+    ]
+  },
+  {
+    "id": "S3_062",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Desperate Healing",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Heal"
+    ],
+    "descriptions": [
+      "On deploy, Heal(2) closest lane ally. The first time a lane ally loses Chakra from any source, Heal(2) it.",
+      "On deploy, Heal(3) closest lane ally. The first time a lane ally loses Chakra from any source, Heal(3) it."
+    ]
+  },
+  {
+    "id": "S3_063",
+    "season": 3,
+    "name": "Gamabunta",
+    "ability": "Toad Kenjutsu",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Weaken",
+      "Rush"
+    ],
+    "descriptions": [
+      "When a rival card comes nearby, jump to it and Weaken(2). Gain Rush(+3s) the first time when gaining Chakra.",
+      "When a rival card comes nearby, jump to it and Weaken(3). Gain Rush(+4s) the first time when gaining Chakra."
+    ]
+  },
+  {
+    "id": "S3_064",
+    "season": 3,
+    "name": "Kabuto Yakuchi",
+    "ability": "Chakra Scalpel",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Teleport",
+      "Pin"
+    ],
+    "descriptions": [
+      "Rush(2s). On encounter, Teleport behind rival card and permanently Pin it.",
+      "Rush(3s). On encounter, Teleport behind rival card and permanently Pin it."
+    ]
+  },
+  {
+    "id": "S3_065",
+    "season": 3,
+    "name": "Kisame Hoshigaki",
+    "ability": "Samehada Guard",
+    "rarity": "Rare",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Guard",
+      "Weaken",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Guard(3). When Guard activates, Weaken(1) the rival that triggered Guard and gain Chakra(+1).",
+      "Guard(4). When Guard activates, Weaken(1) the rival that triggered Guard and gain Chakra(+1)."
+    ]
+  },
+  {
+    "id": "S3_066",
+    "season": 3,
+    "name": "Jirobo",
+    "ability": "Chakra Drain",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On each encounter, Chakra(+1) to this card and Weaken(1) rival card.",
+      "On each encounter, Chakra(+1) to this card and Weaken(2) rival card."
+    ]
+  },
+  {
+    "id": "S3_067",
+    "season": 3,
+    "name": "Sakon & Ukon",
+    "ability": "Cursed Fusion",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Teleport",
+      "Pin"
+    ],
+    "descriptions": [
+      "On encounter, Teleport behind rival card then Pin(6s) it and self. Rival loses 1 Chakra every 2 seconds while affected by this Pin.",
+      "On encounter, Teleport behind rival card then Pin(8s) it and self. Rival loses 1 Chakra every 2 seconds while affected by this Pin."
+    ]
+  },
+  {
+    "id": "S3_068",
+    "season": 3,
+    "name": "Kurenai Yuhi",
+    "ability": "Genjutsu Feint",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Teleport",
+      "Weaken",
+      "Slow"
+    ],
+    "descriptions": [
+      "On encounter, Teleport behind rival card, Weaken(2) and Slow(4s).",
+      "On encounter, Teleport behind rival card, Weaken(2) and Slow(8s)."
+    ]
+  },
+  {
+    "id": "S3_069",
+    "season": 3,
+    "name": "Shizune",
+    "ability": "Poison Mist",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 5,
+    "effects": [
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Slow(8s) all cards in Mid Range and disable their skills. They lose 2 Chakra every 4 seconds while affected by this Slow.",
+      "On deploy, Slow(12s) all cards in Mid Range and disable their skills. They lose 2 Chakra every 4 seconds while affected by this Slow."
+    ]
+  },
+  {
+    "id": "S3_070",
+    "season": 3,
+    "name": "Akahoshi",
+    "ability": "Unscrupulous",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Weaken",
+      "Guard"
+    ],
+    "descriptions": [
+      "Guard(1). When Guard activates, Weaken(2) the rival that activated it. The first time this card loses Chakra, Weaken(2) a random ally and gain Chakra(+2) and Guard(+1).",
+      "Guard(1). When Guard activates, Weaken(2) the rival that activated it. The first time this card loses Chakra, Weaken(2) a random ally and gain Chakra(+3) and Guard(+1)."
+    ]
+  },
+  {
+    "id": "S3_071",
+    "season": 3,
+    "name": "Amachi",
+    "ability": "Sea Monster",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Pin",
+      "Slow"
+    ],
+    "descriptions": [
+      "On deploy, Pin(6s) self. While affected by Pin, every 3 seconds Pin(3s) or Slow(6s) all lane rivals.",
+      "On deploy, Pin(9s) self. While affected by Pin, every 3 seconds Pin(3s) or Slow(6s) all lane rivals."
+    ]
+  },
+  {
+    "id": "S3_072",
+    "season": 3,
+    "name": "Aoi Rokusho",
+    "ability": "Raijin Sword",
+    "rarity": "Rare",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Guard",
+      "Weaken",
+      "Pin"
+    ],
+    "descriptions": [
+      "Guard(2). On encounter, Weaken(1) and Pin(2s) rival card. Ignores Guard.",
+      "Guard(2). On encounter, Weaken(2) and Pin(4s) rival card. Ignores Guard."
+    ]
+  },
+  {
+    "id": "S3_073",
+    "season": 3,
+    "name": "Sumaru",
+    "ability": "Star Chakra",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Chakra",
+      "Switch",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+1) and lane Switch if lane allies are present. On encounter, Weaken(2) rival card.",
+      "On deploy, Chakra(+1) and lane Switch if lane allies are present. On encounter, Weaken(3) rival card."
+    ]
+  },
+  {
+    "id": "S3_074",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "Rasengan",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "On encounter, Weaken(2) and Push(4). Removes all Guard from rival card.",
+      "On encounter, Weaken(3) and Push(5). Removes all Guard from rival card."
+    ]
+  },
+  {
+    "id": "S3_075",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "One-Tail Form",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Weaken",
+      "Heal"
+    ],
+    "descriptions": [
+      "On each encounter, Weaken(1). The first time this card goes below base Chakra, Heal(3) self.",
+      "On each encounter, Weaken(1). The first time this card goes below base Chakra, Heal(4) self."
+    ]
+  },
+  {
+    "id": "S3_076",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Evolved Prediction",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Guard(3). When Guard activates, Chakra(+1). Cannot be Weakened during encounters with rival cards of 3 or less Chakra.",
+      "Guard(3). When Guard activates, Chakra(+2). Cannot be Weakened during encounters with rival cards of 3 or less Chakra."
+    ]
+  },
+  {
+    "id": "S3_077",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Winged Defense",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 4,
+    "effects": [
+      "Guard",
+      "Weaken",
+      "Rush"
+    ],
+    "descriptions": [
+      "Guard(2). On encounter, Weaken(2). When Guard activates, gain Rush(2s) and re-enable this skill.",
+      "Guard(2). On encounter, Weaken(2). When Guard activates, gain Rush(4s) and re-enable this skill."
+    ]
+  },
+  {
+    "id": "S3_078",
+    "season": 3,
+    "name": "Gaara",
+    "ability": "Shukaku's Shield",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Guard"
+    ],
+    "descriptions": [
+      "Guard(3). While this card is active, lane allies behind it ignore rival skill effects but consume this card's Guard.",
+      "Guard(4). While this card is active, lane allies behind it ignore rival skill effects but consume this card's Guard."
+    ]
+  },
+  {
+    "id": "S3_079",
+    "season": 3,
+    "name": "Kiba Inuzuka",
+    "ability": "Transformation Combo",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, withdraw allied Akamaru and Kiba and transfer their Chakra to this card, gaining additional Chakra(+1) for each withdrawal. On each encounter, Weaken(1).",
+      "On deploy, withdraw allied Akamaru and Kiba and transfer their Chakra to this card, gaining additional Chakra(+2) for each withdrawal. On each encounter, Weaken(1)."
+    ]
+  },
+  {
+    "id": "S3_080",
+    "season": 3,
+    "name": "Rock Lee",
+    "ability": "Loopy Fist",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Weaken",
+      "Rush",
+      "Guard",
+      "Focus"
+    ],
+    "descriptions": [
+      "Every 10s, Focus(3s) self. If Focus succeeds, randomly gain Rush(2s), Guard(1) or Chakra(+1). On each encounter, Weaken(1).",
+      "Every 8s, Focus(3s) self. If Focus succeeds, randomly gain Rush(2s), Guard(1) or Chakra(+1). On each encounter, Weaken(1)."
+    ]
+  },
+  {
+    "id": "S3_081",
+    "season": 3,
+    "name": "Temari",
+    "ability": "Quick Beheading Dance",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 2,
+    "effects": [
+      "Focus",
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "On deploy, Focus(9s). Every 3 seconds during Focus, Weaken(1) and Push(2) all rivals in Mid and Long Range.",
+      "On deploy, Focus(9s). Every 3 seconds during Focus, Weaken(1) and Push(4) all rivals in Mid and Long Range."
+    ]
+  },
+  {
+    "id": "S3_082",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Tsukuyomi Army",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Summon",
+      "Rush"
+    ],
+    "descriptions": [
+      "While this card is active, whenever you Pin rival cards, Summon a clone of this card on that same lane with Rush(4s) and lose 1 Chakra. Clones cannot score base hits or gain Chakra.",
+      "While this card is active, whenever you Pin rival cards, Summon a clone of this card on that same lane with Rush(6s) and lose 1 Chakra. Clones cannot score base hits or gain Chakra."
+    ]
+  },
+  {
+    "id": "S3_083",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Amaterasu Escape",
+    "rarity": "Epic",
+    "cost": 7,
+    "chakra": 6,
+    "effects": [
+      "Burn",
+      "Switch"
+    ],
+    "descriptions": [
+      "Whenever a rival card comes nearby Burn(10) it, then lane Switch and lose 1 Chakra. This Burn effect can spread to other cards when they touch and ignores Guard.",
+      "Whenever a rival card comes nearby Burn(15) it, then lane Switch and lose 1 Chakra. This Burn effect can spread to other cards when they touch and ignores Guard."
+    ]
+  },
+  {
+    "id": "S3_084",
+    "season": 3,
+    "name": "Jiraiya",
+    "ability": "Toad Oil Flamethrower",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Burn",
+      "Focus",
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy Burn(3) all rival cards then Focus(8s). During Focus, gain Chakra(+1) whenever allies apply Burn. If Focus succeeds, Burn(4) all rival cards.",
+      "On deploy Burn(3) all rival cards then Focus(8s). During Focus, gain Chakra(+1) whenever allies apply Burn. If Focus succeeds, Burn(5) all rival cards."
+    ]
+  },
+  {
+    "id": "S3_085",
+    "season": 3,
+    "name": "Gamabunta",
+    "ability": "Toad Oil Combo",
+    "rarity": "Epic",
+    "cost": 5,
+    "chakra": 6,
+    "effects": [
+      "Burn"
+    ],
+    "descriptions": [
+      "On deploy, Burn(3) all lane rivals. If any rivals are already affected by Burn, instantly trigger the remaining Burn amount.",
+      "On deploy, Burn(4) all lane rivals. If any rivals are already affected by Burn, instantly trigger the remaining Burn amount."
+    ]
+  },
+  {
+    "id": "S3_086",
+    "season": 3,
+    "name": "Kidomaru",
+    "ability": "Spider Bow",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Weaken",
+      "Pin",
+      "Focus"
+    ],
+    "descriptions": [
+      "On deploy, Focus(12s). Every 4 seconds during Focus, Weaken(2) and Pin(6s) highest Chakra rival in Long Range.",
+      "On deploy, Focus(16s). Every 4 seconds during Focus, Weaken(2) and Pin(6s) highest Chakra rival in Long Range."
+    ]
+  },
+  {
+    "id": "S3_087",
+    "season": 3,
+    "name": "Tayuya",
+    "ability": "Demonic Flute",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Chakra"
+    ],
+    "descriptions": [
+      "On deploy, Chakra(+1). While this card is active, Slows applied by allies do not expire.",
+      "On deploy, Chakra(+2). While this card is active, Slows applied by allies do not expire."
+    ]
+  },
+  {
+    "id": "S3_088",
+    "season": 3,
+    "name": "Kimimaro",
+    "ability": "Living Weapon",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 3,
+    "effects": [
+      "Guard",
+      "Weaken",
+      "Switch"
+    ],
+    "descriptions": [
+      "Guard(3). On each encounter, Weaken(2). Lane Switch when causing a rival to withdraw.",
+      "Guard(5). On each encounter, Weaken(2). Lane Switch when causing a rival to withdraw."
+    ]
+  },
+  {
+    "id": "S3_089",
+    "season": 3,
+    "name": "Akahoshi",
+    "ability": "Star Dragon",
+    "rarity": "Epic",
+    "cost": 4,
+    "chakra": 4,
+    "effects": [
+      "Push",
+      "Weaken",
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Push(2), Weaken(1) and Pin(4s) all lane rivals.",
+      "On deploy, Push(2), Weaken(1) and Pin(8s) all lane rivals."
+    ]
+  },
+  {
+    "id": "S3_090",
+    "season": 3,
+    "name": "Raiga Kurosuki",
+    "ability": "Thunder Dragon Tornado",
+    "rarity": "Epic",
+    "cost": 3,
+    "chakra": 5,
+    "effects": [
+      "Focus",
+      "Weaken",
+      "Push"
+    ],
+    "descriptions": [
+      "On deploy, Focus(8s). If Focus succeeds, Weaken(3) and Push(2) all lane rivals in Short and Mid Range.",
+      "On deploy, Focus(6s). If Focus succeeds, Weaken(3) and Push(2) all lane rivals in Short and Mid Range."
+    ]
+  },
+  {
+    "id": "S3_091",
+    "season": 3,
+    "name": "Sasuke Uchiha",
+    "ability": "Black Chidori",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Rush",
+      "Chakra",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Rush(4s). Jump to the first rival card that comes nearby, gain Chakra(+2) and Weaken(3) it. Weaken(2) all other nearby cards. Ignores Guard.",
+      "Rush(5s). Jump to the first rival card that comes nearby, gain Chakra(+2) and Weaken(4) it. Weaken(2) all other nearby cards. Ignores Guard."
+    ]
+  },
+  {
+    "id": "S3_092",
+    "season": 3,
+    "name": "Naruto Uzumaki",
+    "ability": "Demon Fox Rasengan",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Weaken",
+      "Push",
+      "Rush",
+      "Guard"
+    ],
+    "descriptions": [
+      "Rush(4s). Jump to the first rival card that comes nearby, Weaken(3) and Push(2) it. Weaken(2) all other nearby cards. Removes all Guard from rival card.",
+      "Rush(5s). Jump to the first rival card that comes nearby, Weaken(4) and Push(2) it. Weaken(2) all other nearby cards. Removes all Guard from rival card."
+    ]
+  },
+  {
+    "id": "S3_093",
+    "season": 3,
+    "name": "Choji Akimichi",
+    "ability": "Butterfly Rage",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 3,
+    "effects": [
+      "Chakra",
+      "Weaken",
+      "Push",
+      "Guard"
+    ],
+    "descriptions": [
+      "Guard(3). When Guard activates, Chakra(+2). If the rival card that triggered Guard is nearby, jump to it. While Guard is available, Weaken(2) and Push(1) on each encounter.",
+      "Guard(3). When Guard activates, Chakra(+3). If the rival card that triggered Guard is nearby, jump to it. While Guard is available, Weaken(2) and Push(1) on each encounter."
+    ]
+  },
+  {
+    "id": "S3_094",
+    "season": 3,
+    "name": "Gaara",
+    "ability": "Sand Tsunami",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 3,
+    "effects": [
+      "Focus",
+      "Weaken",
+      "Push",
+      "Seal"
+    ],
+    "descriptions": [
+      "On deploy, Focus(6s). Every 2 seconds during Focus, Weaken(1) and Push(1) all rival cards. If they have 2 or less Chakra, Weaken(2) instead. When this card causes another to withdraw, Seal(5s) it.",
+      "On deploy, Focus(8s). Every 2 seconds during Focus, Weaken(1) and Push(1) all rival cards. If they have 3 or less Chakra, Weaken(3) instead. When this card causes another to withdraw, Seal(5s) it."
+    ]
+  },
+  {
+    "id": "S3_095",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Tsukuyomi",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Pin"
+    ],
+    "descriptions": [
+      "On deploy, Pin(12s) closest rival card, then lose 1 Chakra. If rival card is above 1 Chakra, it loses 1 Chakra each second. Whenever allies Pin rival cards, retrigger this skill for each affected rival.",
+      "On deploy, Pin(16s) closest rival card, then lose 1 Chakra. If rival card is above 1 Chakra, it loses 1 Chakra each second. Whenever allies Pin rival cards, retrigger this skill for each affected rival."
+    ]
+  },
+  {
+    "id": "S3_096",
+    "season": 3,
+    "name": "Itachi Uchiha",
+    "ability": "Carnage",
+    "rarity": "Legendary",
+    "cost": 7,
+    "chakra": 6,
+    "effects": [
+      "Weaken",
+      "Pin",
+      "Switch"
+    ],
+    "descriptions": [
+      "Whenever any card is deployed on the same lane, Weaken(1) and Pin(10s). If it has 3 or less Chakra, Weaken(3) instead. Lane Switch afterwards.",
+      "Whenever any card is deployed on the same lane, Weaken(2) and Pin(10s). If it has 4 or less Chakra, Weaken(4) instead. Lane Switch afterwards."
+    ]
+  },
+  {
+    "id": "S3_097",
+    "season": 3,
+    "name": "Tsunade",
+    "ability": "Mitotic Regeneration",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 6,
+    "effects": [
+      "Chakra",
+      "Heal"
+    ],
+    "descriptions": [
+      "The first time this card goes below base Chakra, Heal back to base chakra and gain Chakra(+4). For the next 10 seconds, ignore rival skills and Heal(4) after each encounter. On withdraw, permanently decrease base Chakra by 1.",
+      "The first time this card goes below base Chakra, Heal back to base chakra and gain Chakra(+5). For the next 10 seconds, ignore rival skills and Heal(4) after each encounter. On withdraw, permanently decrease base Chakra by 1."
+    ]
+  },
+  {
+    "id": "S3_098",
+    "season": 3,
+    "name": "Sakon & Ukon",
+    "ability": "Synchronized Defense",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Guard",
+      "Chakra"
+    ],
+    "descriptions": [
+      "Deploys as Sakon and Ukon on separate lanes with Guard(2). Whenever allied Guard activates, both cards gain Chakra(+1).",
+      "Deploys as Sakon and Ukon on separate lanes with Guard(4). Whenever allied Guard activates, both cards gain Chakra(+1)."
+    ]
+  },
+  {
+    "id": "S3_099",
+    "season": 3,
+    "name": "Tayuya",
+    "ability": "Doki Summoning",
+    "rarity": "Legendary",
+    "cost": 6,
+    "chakra": 4,
+    "effects": [
+      "Chakra",
+      "Summon",
+      "Focus"
+    ],
+    "descriptions": [
+      "On deploy, Focus(8s). If Focus succeeds, Summon a Doki demon on each lane. Whenever you Summon other cards, they gain Chakra(+1). Ignore all rival skills and encounters while the demons are active.",
+      "On deploy, Focus(6s). If Focus succeeds, Summon a Doki demon on each lane. Whenever you Summon other cards, they gain Chakra(+1). Ignore all rival skills and encounters while the demons are active."
+    ]
+  },
+  {
+    "id": "S3_100",
+    "season": 3,
+    "name": "Kimimaro",
+    "ability": "Unwavering Loyalty",
+    "rarity": "Legendary",
+    "cost": 9,
+    "chakra": 5,
+    "effects": [
+      "Chakra",
+      "Rush",
+      "Guard",
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deploy, gain Chakra(+6) and Rush(5s). Permanent Guard while Rush is active. On each encounter, Weaken(1) self and Weaken(3) rival card. On withdraw, Weaken(2) all cards. Cannot be affected by allied skills.",
+      "On deploy, gain Chakra(+8) and Rush(6s). Permanent Guard while Rush is active. On each encounter, Weaken(1) self and Weaken(3) rival card. On withdraw, Weaken(2) all cards. Cannot be affected by allied skills."
+    ]
+  },
+  {
+    "id": "SR_001",
+    "season": "Event",
+    "name": "Sakura Haruno",
+    "ability": "Healing Student",
+    "rarity": "Rare",
+    "cost": 3,
+    "chakra": 2,
+    "effects": [
+      "Heal",
+      "Burn",
+      "Pin",
+      "Weaken"
+    ],
+    "descriptions": [
+      "When deployed, Heal(1) the nearest ally in this lane. When a rival first applies Burn, Pin or Weaken to a lane ally, Heal(2) that ally.",
+      "When deployed, Heal(1) the nearest ally in this lane. When a rival first applies Burn, Pin or Weaken to a lane ally, Heal(4) that ally."
+    ]
+  },
+  {
+    "id": "SR_002",
+    "season": "Event",
+    "name": "Seimei",
+    "ability": "Ultimate Form",
+    "rarity": "Epic",
+    "cost": 8,
+    "chakra": 6,
+    "effects": [
+      "Guard",
+      "Focus",
+      "Pin",
+      "Weaken",
+      "Drain"
+    ],
+    "descriptions": [
+      "Guard(1). On deployment, this card starts Focus(12s) and applies Pin(12s) to the lane rival with the most Chakra. Drain(1) from that rival every 3s while focusing. When Focus ends, apply Weaken(1) to random rivals up to three times. At Mid Range, Drain(2) from the rival with the most Chakra.",
+      "Guard(1). On deployment, this card starts Focus(15s) and applies Pin(15s) to the lane rival with the most Chakra. Drain(1) from that rival every 3s while focusing. When Focus ends, apply Weaken(1) to random rivals up to three times. At Mid Range, Drain(2) from the rival with the most Chakra."
+    ]
+  },
+  {
+    "id": "SR_003",
+    "season": "Event",
+    "name": "Hoki",
+    "ability": "Full Arsenal",
+    "rarity": "Epic",
+    "cost": 6,
+    "chakra": 5,
+    "effects": [
+      "Guard",
+      "Weaken",
+      "Drain"
+    ],
+    "descriptions": [
+      "Guard(1). Deploying this card applies Weaken(1) up to three times to random rivals in its lane. Drain(1) from the opponent on every encounter.",
+      "Guard(2). Deploying this card applies Weaken(1) up to three times to random rivals in its lane. Drain(1) from the opponent on every encounter."
+    ]
+  },
+  {
+    "id": "SR_004",
+    "season": "Event",
+    "name": "Hoki",
+    "ability": "Reverse Scale Formation",
+    "rarity": "Rare",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Weaken"
+    ],
+    "descriptions": [
+      "On deployment, check that allied Chakra totals at least 5 in every lane. If it does, apply Weaken(10) to the rival with the most Chakra and then reduce each ally’s Chakra by 2.",
+      "On deployment, check that allied Chakra totals at least 5 in every lane. If it does, apply Weaken(12) to the rival with the most Chakra and then reduce each ally’s Chakra by 2."
+    ]
+  },
+  {
+    "id": "SR_005",
+    "season": "Event",
+    "name": "Gaara",
+    "ability": "Shukaku's Spear",
+    "rarity": "Legendary",
+    "cost": 5,
+    "chakra": 4,
+    "effects": [
+      "Focus",
+      "Weaken"
+    ],
+    "descriptions": [
+      "Start Focus(6s) the first time a rival in this lane reaches at least 10 Chakra. Completing Focus applies Weaken(10) to that rival through Guard.",
+      "Start Focus(5s) the first time a rival in this lane reaches at least 10 Chakra. Completing Focus applies Weaken(12) to that rival through Guard."
+    ]
+  }
+]
