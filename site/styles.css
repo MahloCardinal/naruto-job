@@ -87,24 +87,68 @@ h1 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 1.04; letter-spacing: 
 }
 .eyebrow { margin-bottom: .6rem; color: var(--accent); font-size: .78rem; font-weight: 750; letter-spacing: .1em; text-transform: uppercase; }
 
-.hero { display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 1.5rem; min-height: 460px; padding-block: 4rem; }
-.hero h1 { font-size: clamp(3rem, 7.4vw, 6.5rem); line-height: .97; }
-.hero h1 + p, .page-intro h1 + p { max-width: 55ch; margin-top: 1rem; color: var(--muted); }
-.hero-art { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: center; margin-inline: 1.25rem; }
-.hero-art img { width: 100%; border: 1px solid var(--line); border-radius: .55rem; box-shadow: 0 18px 40px #0009; }
-.hero-art img:first-child { transform: translateX(10%) rotate(-10deg); }
-.hero-art img:nth-child(2) { position: relative; z-index: 1; transform: translateY(-8%) scale(1.14); }
-.hero-art img:last-child { transform: translateX(-10%) rotate(10deg); }
-.actions { display: flex; flex-wrap: wrap; gap: .65rem; margin-top: 1.5rem; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.home { padding-top: clamp(1rem, 3vw, 2.25rem); }
+.home-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(.8rem, 2vw, 1.35rem); }
+.home-card {
+  position: relative;
+  display: flex;
+  align-items: end;
+  isolation: isolate;
+  overflow: hidden;
+  aspect-ratio: 1.8;
+  border: 1px solid var(--line);
+  border-radius: .6rem;
+  background: #24262c;
+}
+.home-card::before {
+  position: absolute;
+  z-index: 1;
+  inset: 6px;
+  border: 1px solid var(--frame-color);
+  border-radius: .3rem;
+  pointer-events: none;
+  content: '';
+}
+.home-card:hover { border-color: var(--accent); }
+.home-card--top-decks { --frame-color: #b5bfd088; }
+.home-card--tournaments { --frame-color: #ddac7888; }
+.home-card--decks { --frame-color: #b8c49988; }
+.home-card--updates { --frame-color: #d9b09988; }
+.home-card__backdrop { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.home-card__character {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  right: -4%;
+  width: auto;
+  height: 155%;
+  max-width: none;
+  filter: drop-shadow(0 .3rem .75rem #0b0a0ca8);
+}
+.home-card--updates .home-card__character { top: 3%; right: 3%; }
+.home-card__title {
+  z-index: 3;
+  width: 100%;
+  padding: .72rem clamp(.8rem, 2vw, 1.15rem);
+  color: #fff8ef;
+  background: linear-gradient(90deg, #121219ed, #121219b3 60%, #12121971);
+  font-size: clamp(1.2rem, 2.45vw, 1.85rem);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: .025em;
+  text-transform: uppercase;
+}
+
 .button { display: inline-block; padding: .55rem .85rem; border: 1px solid var(--line); border-radius: .4rem; color: var(--text); background: var(--surface); font-weight: 650; }
-.button:hover, .home-links a:hover, .card-tile:hover, .deck-tile:hover { border-color: var(--accent); }
+.button:hover, .card-tile:hover, .deck-tile:hover { border-color: var(--accent); }
 .primary { color: #20170b; background: var(--accent); border-color: var(--accent); }
-.home-links, .deck-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); gap: .75rem; }
-.home-links a, .deck-tile, .card-tile { border: 1px solid var(--line); border-radius: .55rem; background: var(--surface); }
-.home-links a { display: grid; gap: .25rem; padding: 1.05rem; }
-.home-links span, .card-tile :is(span, small), .deck-tile span { color: var(--muted); }
+.deck-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); gap: .75rem; }
+.deck-tile, .card-tile { border: 1px solid var(--line); border-radius: .55rem; background: var(--surface); }
+.card-tile :is(span, small), .deck-tile span { color: var(--muted); }
 
 .page-intro { padding-block: 2.5rem 1.25rem; }
+.page-intro h1 + p { max-width: 55ch; margin-top: 1rem; color: var(--muted); }
 .page-intro .text-link { display: inline-block; margin-bottom: .85rem; }
 .page-intro .deck-description { max-width: 75ch; white-space: pre-line; }
 .text-link { color: var(--accent); text-decoration: underline; text-underline-offset: .25em; }
@@ -136,8 +180,7 @@ dialog::backdrop { background: #08090cbd; }
 .effect h4 { color: var(--accent); }
 
 @media (max-width: 690px) {
-  .hero { grid-template-columns: 1fr; min-height: 0; padding-block: 2.5rem; gap: 2.5rem; }
-  .hero-art { max-width: 22rem; margin-inline: auto; }
+  .home-grid { grid-template-columns: 1fr; }
   .card-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 120px), 1fr)); }
 }
 
