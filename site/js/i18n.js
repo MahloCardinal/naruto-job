@@ -8,9 +8,8 @@ const languages = {
 const storageKey = 'nexus-language';
 const requested = new URLSearchParams(location.search).get('lang');
 const explicitLanguage = Object.hasOwn(languages, requested);
-let saved;
-try { saved = localStorage.getItem(storageKey); } catch { /* URL fallback */ }
-export const language = explicitLanguage ? requested : Object.hasOwn(languages, saved) ? saved : 'it';
+const root = document.documentElement;
+export const language = root.lang;
 const pluralRules = new Intl.PluralRules(language);
 
 export function t(key, values = {}) {
@@ -28,7 +27,6 @@ export function localizedUrl(href) {
   return url.href;
 }
 
-document.documentElement.lang = language;
 for (const node of document.querySelectorAll('[data-i18n]')) node.textContent = t(node.dataset.i18n);
 for (const node of document.querySelectorAll('[data-i18n-attr]')) {
   const [attribute, key] = node.dataset.i18nAttr.split(':');
@@ -37,8 +35,8 @@ for (const node of document.querySelectorAll('[data-i18n-attr]')) {
 for (const node of document.querySelectorAll('[data-language-content]')) {
   node.hidden = node.dataset.languageContent !== language;
 }
-if (document.documentElement.dataset.title) {
-  document.title = `${t(document.documentElement.dataset.title)} · NEXUS`;
+if (root.dataset.title) {
+  document.title = `${t(root.dataset.title)} · NEXUS`;
 }
 
 const menu = document.querySelector('.language-menu');
@@ -79,3 +77,4 @@ if (menu) {
 if (explicitLanguage) {
   for (const link of document.querySelectorAll('a[href]')) link.href = localizedUrl(link.href);
 }
+root.removeAttribute('data-i18n-pending');

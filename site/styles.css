@@ -11,6 +11,7 @@
 
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
+[data-i18n-pending] :is([data-i18n], [data-language-content="it"], .language-trigger) { visibility: hidden; }
 body { display: flex; flex-direction: column; min-height: 100svh; margin: 0; color: var(--text); background: var(--background); }
 a { color: inherit; text-decoration: none; }
 button, input, select { font: inherit; }
@@ -101,8 +102,8 @@ h1 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 1.04; letter-spacing: 
   list-style: none;
 }
 .language-trigger::-webkit-details-marker { display: none; }
-/* The inner edge of the rope is about 14px inside the button's border box. */
-.language-menu { margin-inline-end: .875rem; }
+/* The outer edge of the rope leaves about 3px of transparent padding. */
+.language-menu { margin-inline-end: .1875rem; }
 .language-trigger:hover, .language-menu[open] .language-trigger { border-color: var(--accent); }
 .language-trigger img, .language-option img { width: 1.125rem; height: .8125rem; object-fit: cover; border-radius: 2px; }
 .language-panel { z-index: 1; width: max-content; min-width: 8rem; gap: .15rem; padding: .25rem; }
