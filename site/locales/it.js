@@ -45,8 +45,6 @@ export default {
   'decks.loading': 'Caricamento dei mazzi…',
   'decks.back': '← Tutti i mazzi',
   'decks.author': 'Mazzo di {name}',
-  'decks.size.one': '{count} carta nel mazzo',
-  'decks.size.other': '{count} carte nel mazzo',
   'decks.count.one': '{count} mazzo trovato',
   'decks.count.other': '{count} mazzi trovati',
   'decks.empty': 'Nessun mazzo corrisponde alla ricerca.',

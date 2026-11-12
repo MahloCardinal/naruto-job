@@ -1,8 +1,30 @@
+import effectTerms from '../locales/effect-terms.js';
 import { cardImage, element } from './data.js';
-import { t } from './i18n.js';
+import { language, t } from './i18n.js';
+
+const terms = Object.entries(effectTerms[language])
+  .map(([effect, pattern]) => `(?<${effect}>${pattern})`).join('|');
+const effectPattern = new RegExp(
+  String.raw`(?<![\p{L}\p{M}\p{N}_])(?:${terms})(?![\p{L}\p{M}\p{N}_])(?:\s*[([][+−-]?\d+(?:[.,]\d+)?s?[)\]])?`,
+  'giu',
+);
 
 let dialog;
 let detail;
+
+function renderDescription(container, text) {
+  const fragment = document.createDocumentFragment();
+  let start = 0;
+  for (const match of text.matchAll(effectPattern)) {
+    fragment.append(text.slice(start, match.index));
+    const keyword = element('strong', match[0], 'effect-keyword');
+    keyword.dataset.effect = Object.keys(match.groups).find(effect => match.groups[effect] !== undefined);
+    fragment.append(keyword);
+    start = match.index + match[0].length;
+  }
+  fragment.append(text.slice(start));
+  container.replaceChildren(fragment);
+}
 
 function createDialog() {
   dialog = element('dialog');
@@ -34,17 +56,17 @@ export function showCard(card) {
   const name = element('h2');
   name.id = 'card-name';
   const [season, number] = card.id.split('_');
-  name.append(element('span', `${season} #${number}`, 'card-number'), ` ${card.name}`);
+  name.append(`${card.name} `, element('span', `${season} #${number}`, 'card-number'));
 
   const effect = element('section', '', 'effect');
   const level = element('label', t('card.level'), 'effect-level');
   const select = element('select');
-  card.descriptions.forEach((_text, index) => select.add(new Option(`Lv ${index + 1}`, index)));
-  const description = element('p', card.descriptions[0]);
+  card.descriptions.forEach((_text, index) => select.add(new Option(String(index + 1), index)));
+  const description = element('p');
   description.setAttribute('aria-live', 'polite');
-  select.addEventListener('change', () => {
-    description.textContent = card.descriptions[select.selectedIndex];
-  });
+  const updateDescription = () => renderDescription(description, card.descriptions[select.selectedIndex]);
+  select.addEventListener('change', updateDescription);
+  updateDescription();
   level.append(select);
   effect.append(level, description);
 

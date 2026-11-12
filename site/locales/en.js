@@ -45,8 +45,6 @@ export default {
   'decks.loading': 'Loading decks…',
   'decks.back': '← All decks',
   'decks.author': 'Deck by {name}',
-  'decks.size.one': '{count} card in the deck',
-  'decks.size.other': '{count} cards in the deck',
   'decks.count.one': '{count} deck found',
   'decks.count.other': '{count} decks found',
   'decks.empty': 'No decks match your search.',

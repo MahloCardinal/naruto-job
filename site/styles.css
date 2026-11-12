@@ -101,6 +101,7 @@ h1 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 1.04; letter-spacing: 
   list-style: none;
 }
 .language-trigger::-webkit-details-marker { display: none; }
+.language-menu { margin-inline-end: .1875rem; }
 .language-trigger:hover, .language-menu[open] .language-trigger { border-color: var(--accent); }
 .language-trigger img, .language-option img { width: 1.125rem; height: .8125rem; object-fit: cover; border-radius: 2px; }
 .language-panel { z-index: 1; width: max-content; min-width: 8rem; gap: .15rem; padding: .25rem; }
@@ -112,9 +113,7 @@ h1 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 1.04; letter-spacing: 
   .header-inner { grid-template-columns: minmax(0, 1fr) auto; gap: .5rem; }
   .brand { grid-column: 1; width: clamp(6.25rem, 34vw, 10.5rem); max-width: 100%; height: 4.5rem; }
   .brand img { object-fit: contain; object-position: left center; }
-  .header-controls { grid-column: 2; reading-flow: grid-rows; }
-  .language-menu { grid-row: 1; margin-inline-end: .1875rem; }
-  .account-menu { grid-row: 2; }
+  .header-controls { grid-column: 2; }
   .account-trigger {
     display: block;
     max-width: min(58vw, 14rem);
@@ -236,12 +235,27 @@ dialog::backdrop { background: #08090cbd; }
 .card-detail { display: grid; grid-template-columns: minmax(0, .75fr) minmax(0, 1.25fr); align-items: start; gap: 1rem; }
 .card-detail img { width: 100%; border-radius: .4rem; }
 .card-detail h2 { line-height: 1.15; }
-.card-number { font-weight: 400; white-space: nowrap; }
+.card-number { color: var(--muted); font-size: .65em; font-weight: 400; white-space: nowrap; }
 .card-detail h3 { margin-bottom: .35rem; }
 .effect-labels { margin-top: .65rem; color: var(--accent); font-size: .85rem; }
 .effect { border-top: 1px solid var(--line); padding-top: .55rem; margin-top: .55rem; }
 .effect-level { display: flex; align-items: center; gap: .55rem; margin-bottom: .55rem; color: var(--accent); font-weight: 650; }
 .effect-level select { padding: .15rem .4rem; border: 1px solid var(--line); border-radius: .3rem; color: var(--text); background: var(--background); }
+.effect-keyword { font-weight: 700; }
+.effect-keyword:is([data-effect="Chakra"], [data-effect="Heal"], [data-effect="Drain"]) { color: #4da2ff; }
+.effect-keyword[data-effect="Cost"] { color: #e48845; }
+.effect-keyword[data-effect="Weaken"] { color: #f55a5a; }
+.effect-keyword[data-effect="Push"] { color: #58a879; }
+.effect-keyword[data-effect="Pin"] { color: #b367ff; }
+.effect-keyword[data-effect="Rush"] { color: #d4a000; }
+.effect-keyword[data-effect="Slow"] { color: #858585; }
+.effect-keyword[data-effect="Guard"] { color: #a4b8c7; }
+.effect-keyword[data-effect="Seal"] { color: #ac79ff; }
+.effect-keyword[data-effect="Switch"] { color: #d27f46; }
+.effect-keyword[data-effect="Summon"] { color: #6ad126; }
+.effect-keyword[data-effect="Teleport"] { color: #ff40a0; }
+.effect-keyword[data-effect="Burn"] { color: #ff7a1a; }
+.effect-keyword[data-effect="Focus"] { color: #40a9b9; }
 
 @media (max-width: 850px) {
   .home-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }

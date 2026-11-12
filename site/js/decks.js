@@ -29,9 +29,9 @@ function showDeck(deck, cards) {
   intro.replaceChildren(back, heading);
   if (deck.author?.trim()) intro.append(element('p', t('decks.author', { name: deck.author })));
   if (deck.description) intro.append(element('p', deck.description, 'deck-description'));
-  status.textContent = plural('decks.size', deck.cards.length);
   list.className = 'card-grid';
   list.replaceChildren(...deck.cards.map((id) => cardTile(cards.get(id))));
+  status.hidden = true;
 }
 
 async function start() {
