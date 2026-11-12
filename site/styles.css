@@ -101,7 +101,8 @@ h1 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 1.04; letter-spacing: 
   list-style: none;
 }
 .language-trigger::-webkit-details-marker { display: none; }
-.language-menu { margin-inline-end: .1875rem; }
+/* The inner edge of the rope is about 14px inside the button's border box. */
+.language-menu { margin-inline-end: .875rem; }
 .language-trigger:hover, .language-menu[open] .language-trigger { border-color: var(--accent); }
 .language-trigger img, .language-option img { width: 1.125rem; height: .8125rem; object-fit: cover; border-radius: 2px; }
 .language-panel { z-index: 1; width: max-content; min-width: 8rem; gap: .15rem; padding: .25rem; }
@@ -113,10 +114,12 @@ h1 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 1.04; letter-spacing: 
   .header-inner { grid-template-columns: minmax(0, 1fr) auto; gap: .5rem; }
   .brand { grid-column: 1; width: clamp(6.25rem, 34vw, 10.5rem); max-width: 100%; height: 4.5rem; }
   .brand img { object-fit: contain; object-position: left center; }
-  .header-controls { grid-column: 2; }
+  .header-controls { grid-column: 2; display: flex; align-items: center; gap: .4rem; }
+  .language-menu { position: relative; margin-inline-end: 0; }
+  .language-panel { inset-inline: 0 auto; }
   .account-trigger {
     display: block;
-    max-width: min(58vw, 14rem);
+    max-width: clamp(5.5rem, 100vw - 11.75rem, 14rem);
     padding-inline: 1.45rem;
     line-height: calc(3rem - 2px);
     overflow: hidden;
@@ -219,6 +222,16 @@ h1 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 1.04; letter-spacing: 
 .status { margin-block: 1rem .75rem; }
 .deck-grid + p { margin-top: 1.2rem; }
 .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 145px), 1fr)); gap: .65rem; }
+.deck-card-grid {
+  --card-gap: .65rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--card-gap);
+  max-width: 58rem;
+  margin-inline: auto;
+}
+.deck-card-grid > .card-tile { flex: 0 0 calc((100% - 4 * var(--card-gap)) / 5); }
 .card-tile { display: flex; flex-direction: column; align-items: flex-start; min-width: 0; gap: .15rem; padding: .55rem; color: var(--text); text-align: left; }
 .card-tile img { width: 100%; margin-bottom: .3rem; border-radius: .3rem; }
 .card-tile strong { line-height: 1.2; overflow-wrap: anywhere; }
@@ -256,6 +269,7 @@ dialog::backdrop { background: #08090cbd; }
 .effect-keyword[data-effect="Teleport"] { color: #ff40a0; }
 .effect-keyword[data-effect="Burn"] { color: #ff7a1a; }
 .effect-keyword[data-effect="Focus"] { color: #40a9b9; }
+.level-change { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; }
 
 @media (max-width: 850px) {
   .home-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -263,6 +277,10 @@ dialog::backdrop { background: #08090cbd; }
 
 @media (max-width: 690px) {
   .card-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 120px), 1fr)); }
+}
+
+@media (max-width: 680px) {
+  .deck-card-grid > .card-tile { flex-basis: min(100%, 7.5rem); }
 }
 
 @media (max-width: 570px) {
