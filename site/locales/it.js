@@ -30,6 +30,8 @@ export default {
   'cards.rarity': 'Rarità',
   'cards.loading': 'Caricamento del catalogo…',
   'cards.more': 'Mostra altre carte',
+  'cards.showAll': 'Mostra tutte le carte',
+  'cards.backToTop': 'Torna su',
   'cards.count.one': '{count} carta trovata',
   'cards.count.other': '{count} carte trovate',
   'cards.empty': 'Nessuna carta corrisponde ai filtri.',

@@ -102,8 +102,8 @@ h1 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 1.04; letter-spacing: 
   list-style: none;
 }
 .language-trigger::-webkit-details-marker { display: none; }
-/* The outer edge of the rope leaves about 3px of transparent padding. */
-.language-menu { margin-inline-end: .1875rem; }
+/* Align with the straight side of the rope, inside the knot's widest point. */
+.language-menu { margin-inline-end: .6875rem; }
 .language-trigger:hover, .language-menu[open] .language-trigger { border-color: var(--accent); }
 .language-trigger img, .language-option img { width: 1.125rem; height: .8125rem; object-fit: cover; border-radius: 2px; }
 .language-panel { z-index: 1; width: max-content; min-width: 8rem; gap: .15rem; padding: .25rem; }
@@ -240,7 +240,8 @@ h1 { font-size: clamp(2.25rem, 6vw, 4.5rem); line-height: 1.04; letter-spacing: 
 .deck-tile { display: flex; align-items: center; gap: .8rem; padding: .65rem; }
 .deck-tile img { width: 4.2rem; border-radius: .3rem; }
 .deck-tile span { display: block; }
-.more { margin-top: 1.2rem; }
+.catalog-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; margin-top: 1.2rem; }
+.catalog-actions .back-to-top { margin-inline-start: auto; }
 
 dialog { width: min(calc(100% - 1.5rem), 50rem); max-height: calc(100dvh - 1.5rem); padding: 1rem; color: var(--text); border: 1px solid var(--line); border-radius: .55rem; background: var(--surface); }
 dialog::backdrop { background: #08090cbd; }

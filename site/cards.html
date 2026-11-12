@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Lista carte · NEXUS</title>
-  <link rel="icon" type="image/svg+xml" href="img_misc/favicon.svg?v=2">
+  <link rel="icon" type="image/svg+xml" href="img_misc/favicon.svg?v=3">
   <link rel="stylesheet" href="styles.css">
   <script src="js/language-preference.js"></script>
   <script type="module" src="js/i18n.js"></script>
@@ -14,7 +14,7 @@
   <script type="module" src="js/cards.js"></script>
 </head>
 <body>
-  <header class="site-header">
+  <header class="site-header" id="top" tabindex="-1">
     <div class="header-inner">
       <a class="brand" href="index.html">
         <img src="img_misc/logo.png" alt="NEXUS Tournaments" width="2172" height="724">
@@ -66,7 +66,11 @@
     <noscript><p>Attiva JavaScript per consultare il catalogo.</p></noscript>
     <p id="status" class="status" role="status" data-i18n="cards.loading">Caricamento del catalogo…</p>
     <div id="cards" class="card-grid"></div>
-    <button id="more" class="button more" type="button" data-i18n="cards.more" hidden>Mostra altre carte</button>
+    <div class="catalog-actions" hidden>
+      <button id="more" class="button" type="button" data-i18n="cards.more">Mostra altre carte</button>
+      <button id="show-all" class="button" type="button" data-i18n="cards.showAll">Mostra tutte le carte</button>
+      <a class="button back-to-top" href="#top" data-i18n="cards.backToTop">Torna su</a>
+    </div>
   </main>
   <footer class="site-footer" aria-label="Informazioni legali" data-i18n-attr="aria-label:legal">
     <a href="terms.html" data-i18n="legal.terms">Termini d’uso</a>

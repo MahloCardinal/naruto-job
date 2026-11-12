@@ -30,6 +30,8 @@ export default {
   'cards.rarity': 'Rarity',
   'cards.loading': 'Loading the card list…',
   'cards.more': 'Show more cards',
+  'cards.showAll': 'Show all cards',
+  'cards.backToTop': 'Back to top',
   'cards.count.one': '{count} card found',
   'cards.count.other': '{count} cards found',
   'cards.empty': 'No cards match your filters.',
